@@ -9,7 +9,7 @@
 
 ---
 
-### Browse 329 Internship Roles by Category
+### Browse 330 Internship Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-internship-roles)** (176)
 
@@ -17,7 +17,7 @@
 
 📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (60)
 
-🔧 **[Hardware Engineering](#-hardware-engineering-internship-roles)** (23)
+🔧 **[Hardware Engineering](#-hardware-engineering-internship-roles)** (24)
 
 ---
 
@@ -469,6 +469,7 @@
 | ------- | ---- | -------- | ------ | -- |
 | **[GlobalFoundries](https://simplify.jobs/c/GlobalFoundries?utm_source=GHList&utm_medium=company)** | 3D Advanced Heterogeneous Integration Development Intern | Malta, NY | <div align="center"><a href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/XMLNAME-3D-Advanced-Heterogeneous-Integration-Development-Intern--Summer-2026-_JR-2502799?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/0437bd10-bdd3-457b-a8dd-9d99b4d8c150?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 3d |
 | **[Samsung](https://simplify.jobs/c/Samsung?utm_source=GHList&utm_medium=company)** | Summer Internship | Austin, TX | <div align="center"><a href="https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/XMLNAME-2026-Summer-Internship_R107280?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/7ab88450-5b0b-412a-8c11-59c63ef5e1bc?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 3d |
+| **[Dell Technologies](https://simplify.jobs/c/Dell-Technologies?utm_source=GHList&utm_medium=company)** | Dell ISG Hardware Engineering Undergraduate Intern | Round Rock, TX</br>Westborough, MA | <div align="center"><a href="https://dell.wd1.myworkdayjobs.com/External/job/Round-Rock-Texas-United-States/Dell-ISG-Hardware-Engineering-Undergraduate-Intern_R275422-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/d7201f8d-9bbe-4f64-b1be-08b5fb17579b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 4d |
 | **[TikTok](https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company)** | Intelligent Camera Effects Software Engineer Intern - Effect-Tiktok | San Jose, CA | <div align="center"><a href="https://lifeattiktok.com/search/7533023896800495890?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/72600b58-238c-416b-938c-e472165215e0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 5d |
 | **[Medtronic](https://simplify.jobs/c/Medtronic?utm_source=GHList&utm_medium=company)** | Engineering Intern Summer 2026 | <details><summary>**15 locations**</summary>Boston, MA</br>Orange, CA</br>Santa Rosa, CA</br>Irvine, CA</br>Santa Clara, CA</br>Tempe, AZ</br>Ann Arbor, MI</br>Memphis, TN</br>Fort Worth, TX</br>North Haven, CT</br>Lafayette, CO</br>Minneapolis, MN</br>Newton, MA</br>Jacksonville, FL</br>Boulder, CO</details> | <div align="center"><a href="https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Engineering-Intern-Summer-2026---Candidates-Attending-2025-SHPE-National-Convention_R41073-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/805ac1da-8344-4d6e-a9c3-a460012b5898?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 6d |
 | **[IMC Trading](https://simplify.jobs/c/IMC-Trading?utm_source=GHList&utm_medium=company)** | Hardware Engineer Intern | Chicago, IL | <div align="center"><a href="https://job-boards.eu.greenhouse.io/imc/jobs/4580809101?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/b8f50981-87c4-4480-83a1-025b71e1b9ed?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 11d |
