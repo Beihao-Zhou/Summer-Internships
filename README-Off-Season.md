@@ -10,9 +10,9 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 121 Internship Roles by Category
+### Browse 120 Internship Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-internship-roles)** (59)
+💻 **[Software Engineering](#-software-engineering-internship-roles)** (58)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (43)
 
@@ -99,7 +99,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Curve Dental](https://simplify.jobs/c/Curve-Dental?utm_source=GHList&utm_medium=company)** | Software Development Intern (Temporary) | Calgary, AB, Canada | <div align="center"><a href="https://ats.rippling.com/curve-dental/jobs/b7f7de31-9b57-4235-b8f9-fe19dfabaf14?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/03f5eb46-608f-42b5-868d-d643e5598b1f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 29d |
 | **[WGU](https://simplify.jobs/c/e05ef31f-f120-4063-adad-2b2fdde995cb?utm_source=GHList&utm_medium=company)** | Associate Software Engineer Intern | Salt Lake City, UT | <div align="center"><a href="https://wgu.wd5.myworkdayjobs.com/en-US/External/job/Salt-Lake-City-Office/Associate-Software-Engineer-Intern_JR-022297?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/efe3becb-c2ec-489d-9115-aa9b091adefa?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 29d |
 | **[Clarity Innovations](https://simplify.jobs/c/Clarity-Innovations?utm_source=GHList&utm_medium=company)** | Internship – Software Engineering Intern | Reston, VA | <div align="center"><a href="https://job-boards.greenhouse.io/clarityinnovates/jobs/4776912007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/f00fed72-e40a-4faa-90a5-5542a89666b1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 30d |
-| **[Airbus](https://simplify.jobs/c/Airbus?utm_source=GHList&utm_medium=company)** | Stage Développeur Full Stack / Internship Full Stack Developer | Laval, QC, Canada | <div align="center"><a href="https://ag.wd3.myworkdayjobs.com/Airbus/job/Montreal-Area/STAGE-DVELOPPEUR-FULL-STACK---INTERNSHIP-FULL-STACK-DEVELOPER_JR10333525?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/b1770f91-4912-4ed0-a1a1-28a99dc54101?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1mo |
 | **[Altera Corporation](https://simplify.jobs/c/Altera-Corporation?utm_source=GHList&utm_medium=company)** | Software Engineer – Intern | Toronto, ON, Canada | <div align="center"><a href="https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R00901?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/2cacb2ef-372d-4678-a272-55b9883ce113?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1mo |
 | **[RF-SMART](https://simplify.jobs/c/f006a158-9398-482e-9a19-a635e79862ae?utm_source=GHList&utm_medium=company)** | Software Support Engineer Internship-Fall 2025 | Highlands Ranch, CO</br>Jacksonville, FL | <div align="center"><a href="https://www.rfsmart.com/current-job-openings?hsCtaTracking=a3b29f1a-3e28-4c56-a139-07e3b9ec3fd9%7Cbba890fe-3ad1-476d-8c70-aa0677d1814f&gh_jid=4801430008&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/8a79db27-3af6-46fe-a91d-8197e5905c6b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1mo |
 | **[Rippling](https://simplify.jobs/c/Rippling?utm_source=GHList&utm_medium=company)** | Software Engineer Intern | SF</br>NYC | <div align="center"><a href="https://ats.rippling.com/rippling/jobs/203e0cac-0e30-4603-8087-f764e8c3f85c?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/7158b1cd-23bd-4fcf-8501-5f95f0963d36?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1mo |
@@ -123,7 +122,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1024)</summary>
+<summary>🗃️ Inactive roles (1025)</summary>
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
@@ -154,7 +153,8 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Harris Computer](https://simplify.jobs/c/372c6250-89ed-4b8e-9000-a81fc94184d8?utm_source=GHList&utm_medium=company)** | Software Developer – Co-op/Intern | <details><summary>**7 locations**</summary>Alberta, Canada</br>British Columbia, Canada</br>Ontario, Canada</br>NB, Canada</br>Charlottetown, PE, Canada</br>Nova Scotia, Canada</br>Manitoba, Canada</details> | 🔒 | 30d |
 | **[Bank of America](https://simplify.jobs/c/043a00ac-6fd9-4afc-991a-4d845205ab9a?utm_source=GHList&utm_medium=company)** | Global Technology Apprentice - Community College | Plano, TX</br>Charlotte, NC | 🔒 | 1mo |
 | ↳ | Global Technology Apprentice - Npower/Per Scholas | Plano, TX</br>Richmond, VA</br>Lawrence Township, NJ | 🔒 | 1mo |
-| **[Bank of America](https://simplify.jobs/c/043a00ac-6fd9-4afc-991a-4d845205ab9a?utm_source=GHList&utm_medium=company)** | Global Technology Apprentice - Npower/Per Scholas | NYC | 🔒 | 1mo |
+| ↳ | Global Technology Apprentice - Npower/Per Scholas | NYC | 🔒 | 1mo |
+| **[Airbus](https://simplify.jobs/c/Airbus?utm_source=GHList&utm_medium=company)** | Stage Développeur Full Stack / Internship Full Stack Developer | Laval, QC, Canada | 🔒 | 1mo |
 | **[Zeiss](https://simplify.jobs/c/Zeiss?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Dublin, CA | 🔒 | 1mo |
 | **[Fullscript](https://simplify.jobs/c/FullScript?utm_source=GHList&utm_medium=company)** | Co-op/Intern Ruby Engineer | Ottawa, ON, Canada | 🔒 | 1mo |
 | **[Autodesk](https://simplify.jobs/c/9a5a4634-d168-4118-b172-0c0aae45f2ad?utm_source=GHList&utm_medium=company)** | Intern Software Developer - Stagiaire en Développement Logiciel | Montreal, QC, Canada | 🔒 | 1mo |
@@ -186,7 +186,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Bank of Montreal](https://simplify.jobs/c/BMO?utm_source=GHList&utm_medium=company)** | Junior Software Developer – Internship | New York, NY | 🔒 | 2mo |
 | **[Splunk](https://simplify.jobs/c/Splunk?utm_source=GHList&utm_medium=company)** | Software Engineer Intern - Frontend | Colorado</br>North Carolina | 🔒 | 2mo |
 | **[Splunk](https://simplify.jobs/c/Splunk?utm_source=GHList&utm_medium=company)** | Software Engineer Intern - Backend/Full-stack | Colorado</br>North Carolina | 🔒 | 2mo |
-| **[Splunk](https://simplify.jobs/c/Splunk?utm_source=GHList&utm_medium=company)** | Software Engineer Co-Op - Backend/Full-stack | Remote in Canada | 🔒 | 2mo |
+| ↳ | Software Engineer Co-Op - Backend/Full-stack | Remote in Canada | 🔒 | 2mo |
 | **[Rockwell Automation](https://simplify.jobs/c/Rockwell-Automation?utm_source=GHList&utm_medium=company)** | Software Test & Developer Experience Co-op | Kitchener, ON, Canada | 🔒 | 2mo |
 | Ericsson | WebDeveloper Intern | Montreal,Quebec,Canada | 🔒 | 2mo |
 | **[Blue Origin](https://simplify.jobs/c/Blue-Origin?utm_source=GHList&utm_medium=company)** | Avionics Software Engineering Intern 🇺🇸 | Seattle, WA</br>Denver, CO</br>Los Angeles, CA | 🔒 | 2mo |
@@ -242,7 +242,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Rocket Lab USA](https://simplify.jobs/c/Rocket-Lab-USA?utm_source=GHList&utm_medium=company)** | Flight Software Intern | Long Beach, CA | 🔒 | 3mo |
 | **[NVIDIA](https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company)** | Software Engineering Intern - GenAI | Santa Clara, CA | 🔒 | 3mo |
 | **[Nokia](https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company)** | AI Agent Developer Co-op/Intern | Kanata, Ottawa, ON, Canada | 🔒 | 3mo |
-| ↳ | Next-Gen AI Co-op/Intern | Canada | 🔒 | 3mo |
+| **[Nokia](https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company)** | Next-Gen AI Co-op/Intern | Canada | 🔒 | 3mo |
 | ↳ | Next-Gen AI Co-op/Intern | Canada | 🔒 | 3mo |
 | ↳ | Next-Gen AI Co-op/Intern | Canada | 🔒 | 3mo |
 | ↳ | Next-Gen AI Co-op/Intern | Canada | 🔒 | 3mo |
@@ -1170,7 +1170,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[ CCC Intelligent Solutions](https://simplify.jobs/c/CCC-Intelligent-Solutions?utm_source=GHList&utm_medium=company)** | AI Enablement Intern | Chicago, IL | <div align="center"><a href="https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/AI-Enablement-Intern_0014102?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/1d03240a-7916-421b-b354-cd16f85f6ed5?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[The Trade Desk](https://simplify.jobs/c/281371f9-4ed3-4440-876f-4bbeaa0d50e0?utm_source=GHList&utm_medium=company)** | 2026 Data Science Internship | London, UK | <div align="center"><a href="https://job-boards.greenhouse.io/thetradedesk/jobs/4793185007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/dec4fd9e-09b9-487f-9890-d5445f7be779?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[Nokia](https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company)** | Database Software Developer Co-op | Remote in USA | <div align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23202?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/a6fc5f38-1fa8-4f07-b8ad-d03b96d9cee9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
-| **[ByteDance](https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company)** | 3D Avatar Research and Development Intern - PICO Perception | San Jose, CA | <div align="center"><a href="https://jobs.bytedance.com/en/position/7535957617782147336/detail?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/ccd9f420-e266-4129-8725-492d70b95d5d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
+| **[ByteDance](https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company)** | 3D Avatar Research and Development Intern - PICO Perception | San Jose, CA | <div align="center"><a href="https://jobs.bytedance.com/en/position/7535957617782147336/detail?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/ccd9f420-e266-4129-8725-492d70b95d5d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1d |
 | **[Kodiak Robotics](https://simplify.jobs/c/Kodiak-Robotics?utm_source=GHList&utm_medium=company)** | Artificial Intelligence/Machine Learning 🇺🇸 | Mountain View, CA | <div align="center"><a href="https://job-boards.greenhouse.io/kodiak/jobs/4006045009?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 1d |
 | **[HNTB](https://simplify.jobs/c/HNTB?utm_source=GHList&utm_medium=company)** | Toll Technology Intern | Winter Garden, FL | <div align="center"><a href="https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Ocoee-FL-FTE-Turnpike-Headquarters/Toll-Technology-Intern---Fall-2025-and-Spring-2026_R-26609-2?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/d9271d06-8ee9-41ec-8e10-3e9cae792197?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1d |
 | **[Rippling](https://simplify.jobs/c/Rippling?utm_source=GHList&utm_medium=company)** | Machine Learning Engineer Intern | San Francisco, CA | <div align="center"><a href="https://ats.rippling.com/rippling/jobs/ee1ec0b1-9a55-408d-979d-9c74f257e9ea?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 2d |
@@ -1315,7 +1315,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Nokia](https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company)** | Automation & AI/ML Intern | Remote in USA | 🔒 | 3mo |
 | **[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)** | Internship - Fullstack Software Engineer - Machine Learning Platform - AI Infrastructure | Palo Alto, CA | 🔒 | 3mo |
 | **[Nokia](https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company)** | Analytics/Next-Gen AI Co-op/Intern | Canada | 🔒 | 3mo |
-| ↳ | Analytics/Next-Gen AI Co-op/Intern | Canada | 🔒 | 3mo |
+| **[Nokia](https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company)** | Analytics/Next-Gen AI Co-op/Intern | Canada | 🔒 | 3mo |
 | ↳ | Analytics/Next-Gen AI Co-op/Intern | Canada | 🔒 | 3mo |
 | ↳ | Analytics/Next-Gen AI Co-op/Intern | Canada | 🔒 | 3mo |
 | **[TD Bank](https://simplify.jobs/c/TD-Bank?utm_source=GHList&utm_medium=company)** | Compliance Model Oversight Analyst Intern/Co-op | Toronto, ON, Canada | 🔒 | 3mo |
