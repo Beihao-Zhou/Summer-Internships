@@ -147,7 +147,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Uber](https://simplify.jobs/c/Uber?utm_source=GHList&utm_medium=company)** | 2026 Software Engineering Internship - Uber Career Prep | SF | 🔒 | 25d |
 | ↳ | 2026 Software Engineering Uberstar Internship - Uber Career Prep | SF | 🔒 | 25d |
 | **[Elekta](https://simplify.jobs/c/Elekta?utm_source=GHList&utm_medium=company)** | Engineering & Science – Software Engineering Intern | San Jose, CA | 🔒 | 26d |
-| **[ATPCO](https://simplify.jobs/c/e38ff337-ef4e-42b4-b1fc-e1834b3b603f?utm_source=GHList&utm_medium=company)** | Software Engineer Intern - Fall | Reston, VA | 🔒 | 27d |
+| **[ATPCO](https://simplify.jobs/c/e38ff337-ef4e-42b4-b1fc-e1834b3b603f?utm_source=GHList&utm_medium=company)** | Software Engineer Intern - Fall | Reston, VA | 🔒 | 28d |
 | **[Geotab](https://simplify.jobs/c/Geotab?utm_source=GHList&utm_medium=company)** | Software Developer Intern | Toronto, ON, Canada</br>Oakville, ON, Canada</br>Kitchener, ON, Canada | 🔒 | 29d |
 | ↳ | Software Development Intern - IO Mobile App Platform | Oakville, ON, Canada | 🔒 | 29d |
 | **[BitGo](https://simplify.jobs/c/BitGo?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Remote in Canada | 🔒 | 30d |
@@ -1077,7 +1077,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Virtu Financial](https://simplify.jobs/c/Virtu-Financial?utm_source=GHList&utm_medium=company)** | Women's Winternship | New York, NY | 🔒 | 23mo |
 | **[Chamberlain Group](https://simplify.jobs/c/Chamberlain-Group?utm_source=GHList&utm_medium=company)** | Co-op – Data Visualization - Spring 2024 | Western Springs, IL | 🔒 | 23mo |
 | **[Epic Games](https://simplify.jobs/c/Epic-Games?utm_source=GHList&utm_medium=company)** | UI Programmer Intern | Morrisville, NC | 🔒 | 23mo |
-| **[Royal Bank of Canada](https://simplify.jobs/c/Royal-Bank-Of-Canada?utm_source=GHList&utm_medium=company)** | Software Developer Intern | Toronto, ON</br>Remote | 🔒 | 23mo |
+| **[Royal Bank of Canada](https://simplify.jobs/c/Royal-Bank-Of-Canada?utm_source=GHList&utm_medium=company)** | Software Developer Intern | Toronto, ON</br>Remote | 🔒 | 24mo |
 | Notion | Software Engineer Intern | San Francisco, CA</br>New York, NY | 🔒 | 24mo |
 | **[Leidos](https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company)** | Software Developer Co-op | Bethesda, MD | 🔒 | 24mo |
 | **[Intel](https://simplify.jobs/c/Intel?utm_source=GHList&utm_medium=company)** | Compiler Engineering Co-op | Toronto, ON, Canada | 🔒 | 24mo |
