@@ -10,11 +10,11 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 128 Internship Roles by Category
+### Browse 127 Internship Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-internship-roles)** (63)
 
-🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (45)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (44)
 
 📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (3)
 
@@ -1171,7 +1171,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[ByteDance](https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company)** | 3D Avatar Research and Development Intern - PICO Perception | San Jose, CA | <div align="center"><a href="https://jobs.bytedance.com/en/position/7535957617782147336/detail?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/ccd9f420-e266-4129-8725-492d70b95d5d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[Xylem](https://simplify.jobs/c/Xylem?utm_source=GHList&utm_medium=company)** | Data Engineer Intern | Mississauga, ON, Canada | <div align="center"><a href="https://xylem.wd5.myworkdayjobs.com/en-US/xylem-careers/job/Mississauga/Data-Engineer-Intern_R43581?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/3cfd22a3-7aac-4e87-9e19-2701bbbf0aef?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[Kodiak Robotics](https://simplify.jobs/c/Kodiak-Robotics?utm_source=GHList&utm_medium=company)** | Artificial Intelligence/Machine Learning 🇺🇸 | Mountain View, CA | <div align="center"><a href="https://job-boards.greenhouse.io/kodiak/jobs/4006045009?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
-| **[GE Appliances](https://simplify.jobs/c/GE-Appliances?utm_source=GHList&utm_medium=company)** | Digital Technology Intern | Decatur, AL | <div align="center"><a href="https://haier.wd3.myworkdayjobs.com/GE_Appliances/job/USA-Decatur-AL/Digital-Technology-Intern_REQ-23268-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/276fca10-5c8d-4a4f-9b01-170901106898?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[HNTB](https://simplify.jobs/c/HNTB?utm_source=GHList&utm_medium=company)** | Toll Technology Intern | Winter Garden, FL | <div align="center"><a href="https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Ocoee-FL-FTE-Turnpike-Headquarters/Toll-Technology-Intern---Fall-2025-and-Spring-2026_R-26609-2?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/d9271d06-8ee9-41ec-8e10-3e9cae792197?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[Rippling](https://simplify.jobs/c/Rippling?utm_source=GHList&utm_medium=company)** | Machine Learning Engineer Intern | San Francisco, CA | <div align="center"><a href="https://ats.rippling.com/rippling/jobs/ee1ec0b1-9a55-408d-979d-9c74f257e9ea?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 1d |
 | **[Nextiva](https://simplify.jobs/c/Nextiva?utm_source=GHList&utm_medium=company)** | AI Engineer Intern - Go-to-Market - Part-time | Scottsdale, AZ | <div align="center"><a href="https://www.nextiva.com/company/careers-listing?gh_jid=8106564002&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/ca9aa085-672f-467f-afe9-1ea438a7d115?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 3d |

@@ -9,11 +9,11 @@
 
 ---
 
-### Browse 345 Internship Roles by Category
+### Browse 346 Internship Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-internship-roles)** (185)
 
-🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (76)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (77)
 
 📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (60)
 
@@ -298,6 +298,7 @@
 | **[Capital One](https://simplify.jobs/c/Capital-One?utm_source=GHList&utm_medium=company)** | Former Discover Intern - Data Analyst Associate | McLean, VA</br>Richmond, VA | <div align="center"><a href="https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Former-Discover-Intern--Data-Analyst-Associate---2026_R221876-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/2d64ad09-45f3-41ed-83d4-34d2bc305a9d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | Motional AD | Machine Learning Internship, Behaviors Research 🛂 | Boston, MA</br>Pittsburgh, PA</br>Remote in USA | <div align="center"><a href="https://job-boards.greenhouse.io/motional/jobs/6670062003?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | **[Databricks](https://simplify.jobs/c/Databricks?utm_source=GHList&utm_medium=company)** | Data Science Intern | Mountain View, CA</br>San Francisco, CA | <div align="center"><a href="https://www.databricks.com/company/careers/university-recruiting/data-science-intern-2026-start-6866538002?gh_jid=6866538002&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
+| **[GE Appliances](https://simplify.jobs/c/GE-Appliances?utm_source=GHList&utm_medium=company)** | Digital Technology Intern | Decatur, AL | <div align="center"><a href="https://haier.wd3.myworkdayjobs.com/GE_Appliances/job/USA-Decatur-AL/Digital-Technology-Intern_REQ-23268-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/276fca10-5c8d-4a4f-9b01-170901106898?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[NBCUniversal](https://simplify.jobs/c/NBCUniversal?utm_source=GHList&utm_medium=company)** | Data Analytics Intern - Academic Year | Needham, MA | <div align="center"><a href="https://jobs.smartrecruiters.com/NBCUniversal3/744000073817555?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/bb764a46-d2b4-494f-9c39-9021e1c09ff9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[TikTok](https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company)** | Machine Learning Engineer Intern - Data-Search-Tiktok Recommendation Team - BS/MS | Seattle, WA | <div align="center"><a href="https://lifeattiktok.com/search/7535234137146444040?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/21809924-cc40-4f2d-9f0e-6c096067ba32?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 3d |
 | ↳ | Machine Learning Engineer Intern - Data-Search-Tiktok Recommendation Team - 2026 Summer - BS/MS | San Jose, CA | <div align="center"><a href="https://lifeattiktok.com/search/7534851658053830930?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/8b7487b4-2afb-4936-8fd5-58e6125750f0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 3d |
