@@ -897,7 +897,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | Astrobotic | Software and Controls - Intern 🇺🇸 | Pittsburgh, PA | 🔒 | 21mo |
 | **[Wikimedia Foundation](https://simplify.jobs/c/Wikimedia-Foundation?utm_source=GHList&utm_medium=company)** | Software Engineering - Intern | Remote | 🔒 | 21mo |
 | BlueYonder | Software Engineering Intern - Automation Focus | Dallas, TX | 🔒 | 21mo |
-| BlueYonder | Software Engineering Intern – Cloud and Java Development | Dallas, TX or Scottsdale, AZ | 🔒 | 21mo |
+| ↳ | Software Engineering Intern – Cloud and Java Development | Dallas, TX or Scottsdale, AZ | 🔒 | 21mo |
 | **[Wave Financial](https://simplify.jobs/c/WaveFinancial?utm_source=GHList&utm_medium=company)** | Software Engineer – Co-op - Jan 2024 - April 2024 | Toronto, ON, Canada | 🔒 | 21mo |
 | **[Wise](https://simplify.jobs/c/Wise?utm_source=GHList&utm_medium=company)** | Risk Internship | London, UK | 🔒 | 21mo |
 | **[Autodesk](https://simplify.jobs/c/9a5a4634-d168-4118-b172-0c0aae45f2ad?utm_source=GHList&utm_medium=company)** | Software Engineer Intern | Montreal, QC</br>Remote Ontario | 🔒 | 21mo |
