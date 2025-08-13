@@ -10,9 +10,9 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 138 Internship Roles by Category
+### Browse 137 Internship Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-internship-roles)** (67)
+💻 **[Software Engineering](#-software-engineering-internship-roles)** (66)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (51)
 
@@ -68,7 +68,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | Notion | Software Engineer | San Francisco, CA</br>New York, NY | <div align="center"><a href="https://jobs.ashbyhq.com/notion/fc762b58-24c9-4f34-bf5f-2af6e8adc644?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | ↳ | Software Engineer, AI | San Francisco, CA</br>New York, NY | <div align="center"><a href="https://jobs.ashbyhq.com/notion/39d70209-37f6-4623-949b-18fbd8889933?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | ↳ | Software Engineer, Mobile | San Francisco, CA</br>New York, NY | <div align="center"><a href="https://jobs.ashbyhq.com/notion/3e56e35b-f35b-4b1a-ba2b-0ccdc6f60421?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
-| **[United Parcel Service (UPS)](https://simplify.jobs/c/United-Parcel-Service?utm_source=GHList&utm_medium=company)** | ISM Co-op | Parsippany-Troy Hills, NJ | <div align="center"><a href="https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---IS-PARSIPPANY-NJPRS/ISM-Co-op_R25028993?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/025a1866-9b08-422d-9dbe-9f224b1bbb41?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 3d |
 | **[Perseus Group](https://simplify.jobs/c/86425b9a-a364-4749-8067-5d119318dae7?utm_source=GHList&utm_medium=company)** | Front End Intern | Markham, ON, Canada</br>Remote in Canada | <div align="center"><a href="https://talentmanagementsolution.wd3.myworkdayjobs.com/en-US/perseus-careers/job/Markham-Ontario---CAN/Front-End-Intern_R46426?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/c5da6175-1c3c-42ec-89e4-74c588029c24?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 4d |
 | **[TikTok](https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company)** | Software Engineer Intern - Tiktok-Social-Product Innovation - BS/MS | San Jose, CA | <div align="center"><a href="https://lifeattiktok.com/search/7514157460153895175?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/4c23ad4b-2c5a-4f4c-b563-bd1f4df49d07?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 4d |
 | **[Holman](https://simplify.jobs/c/Holman?utm_source=GHList&utm_medium=company)** | Developer Co-Op | Mississauga, ON, Canada | <div align="center"><a href="https://holmanautogroup.wd1.myworkdayjobs.com/HolmanEnterprisesCareers/job/Mississauga-ON-CAN/Developer-Co-Op_R0050520?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/a30a12b7-787e-4469-a9d5-7dd10d2717c4?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 4d |

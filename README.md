@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 335 Internship Roles by Category
+### Browse 336 Internship Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-internship-roles)** (181)
+💻 **[Software Engineering](#-software-engineering-internship-roles)** (182)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (70)
 
@@ -84,6 +84,7 @@
 | **[Confluent](https://simplify.jobs/c/Confluent?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Austin, Texas</br>Remote | <div align="center"><a href="https://careers.confluent.io/jobs/job/d9ebd50b-967e-4f35-8ebd-f0ce2705136a?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 3d |
 | **[Belvedere Trading](https://simplify.jobs/c/Belvedere-Trading?utm_source=GHList&utm_medium=company)** | Software Engineer Intern | Chicago, IL | <div align="center"><a href="https://jobs.lever.co/belvederetrading/eddfd030-1b27-46db-9ef6-5b65e1e2484c/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/71cf7b01-0bb3-4b71-bbef-50a29e75910d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 3d |
 | **[Bank of New York Mellon](https://simplify.jobs/c/Bank-Of-New-York-Mellon?utm_source=GHList&utm_medium=company)** | 2026 BNY Summer Internship Program - Engineering - Developer - Early Talent and University Programs | Pittsburgh, PA</br>Lake Mary, FL</br>NYC | <div align="center"><a href="https://bnymellon.eightfold.ai/careers/job/30606533?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/38fb236a-fc03-44a1-afd3-97a886b00239?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 3d |
+| **[United Parcel Service (UPS)](https://simplify.jobs/c/United-Parcel-Service?utm_source=GHList&utm_medium=company)** | ISM Co-op | Parsippany-Troy Hills, NJ | <div align="center"><a href="https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---IS-PARSIPPANY-NJPRS/ISM-Co-op_R25028993?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/025a1866-9b08-422d-9dbe-9f224b1bbb41?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 3d |
 | **[Chamberlain Group](https://simplify.jobs/c/Chamberlain-Group?utm_source=GHList&utm_medium=company)** | Software Engineer 1 – Intern Conversion - Front End | Western Springs, IL | <div align="center"><a href="https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Software-Engineer-1--Front-End--Intern-Conversion-_JR29338?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/e5433b62-9bcc-4d95-b781-0df543e6b03b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 4d |
 | **[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)** | Systems Engineer, Collision Avoidance, Autonomy & Robotics 🛂 | Palo Alto, CA | <div align="center"><a href="https://www.tesla.com/careers/search/job/247480?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 4d |
 | **[Jump Trading](https://simplify.jobs/c/Jump-Trading?utm_source=GHList&utm_medium=company)** | Campus Tech Ops Engineer | Chicago, IL | <div align="center"><a href="https://www.jumptrading.com/careers/7077897/?gh_jid=7077897&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 4d |
