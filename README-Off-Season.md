@@ -10,11 +10,11 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 126 Internship Roles by Category
+### Browse 125 Internship Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-internship-roles)** (58)
 
-🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (49)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (48)
 
 📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (3)
 
@@ -1175,7 +1175,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | ↳ | Intern - Perception | Mountain View, CA | <div align="center"><a href="https://job-boards.greenhouse.io/kodiak/jobs/4006046009?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/394700ef-6e9b-4e63-bbf3-a1f9d57f88eb?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | ↳ | Fall 2025 Intern - Controls | Mountain View, CA | <div align="center"><a href="https://job-boards.greenhouse.io/kodiak/jobs/4006128009?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/9ed07d6f-c0f7-49f3-89d9-62b8579e1d2f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[ CCC Intelligent Solutions](https://simplify.jobs/c/CCC-Intelligent-Solutions?utm_source=GHList&utm_medium=company)** | AI Enablement Intern | Chicago, IL | <div align="center"><a href="https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/AI-Enablement-Intern_0014102?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/1d03240a-7916-421b-b354-cd16f85f6ed5?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
-| **[The Trade Desk](https://simplify.jobs/c/281371f9-4ed3-4440-876f-4bbeaa0d50e0?utm_source=GHList&utm_medium=company)** | 2026 Data Science Internship | London, UK | <div align="center"><a href="https://job-boards.greenhouse.io/thetradedesk/jobs/4793185007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/dec4fd9e-09b9-487f-9890-d5445f7be779?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[Nokia](https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company)** | Database Software Developer Co-op | Remote in USA | <div align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23202?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/a6fc5f38-1fa8-4f07-b8ad-d03b96d9cee9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1d |
 | **[ByteDance](https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company)** | 3D Avatar Research and Development Intern - PICO Perception | San Jose, CA | <div align="center"><a href="https://jobs.bytedance.com/en/position/7535957617782147336/detail?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/ccd9f420-e266-4129-8725-492d70b95d5d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1d |
 | **[Kodiak Robotics](https://simplify.jobs/c/Kodiak-Robotics?utm_source=GHList&utm_medium=company)** | Artificial Intelligence/Machine Learning 🇺🇸 | Mountain View, CA | <div align="center"><a href="https://job-boards.greenhouse.io/kodiak/jobs/4006045009?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/0679493b-6252-4971-8752-e6d6a84f1000?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1d |
