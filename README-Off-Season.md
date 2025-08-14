@@ -280,7 +280,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | Procter & Gamble | Digital Technologies Internship/Co-op Fall 2025 | TORONTO, Ontario, Canada | 🔒 | 3mo |
 | **[Leidos](https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Huntsville, AL | 🔒 | 3mo |
 | **[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)** | Internship - Product Engineer - Applications Engineering | Fremont, CA | 🔒 | 3mo |
-| **[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)** | Internship - Integration Platforms Software Developer - Vehicle Firmware | Palo Alto, CA | 🔒 | 3mo |
+| ↳ | Internship - Integration Platforms Software Developer - Vehicle Firmware | Palo Alto, CA | 🔒 | 3mo |
 | **[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)** | Internship - Software Engineer Opticaster - Energy Engineering | Palo Alto, CA | 🔒 | 4mo |
 | ↳ | Internship - Software Engineer - Linux Update Systems | Palo Alto, CA | 🔒 | 4mo |
 | **[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)** | Internship - Fullstack Engineer - Applications Engineering | Fremont, CA | 🔒 | 4mo |
@@ -1237,7 +1237,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[CompScience](https://simplify.jobs/c/CompScience?utm_source=GHList&utm_medium=company)** | Engineering Internship Program | Remote in USA | 🔒 | 20d |
 | **[Morningstar](https://simplify.jobs/c/Morningstar?utm_source=GHList&utm_medium=company)** | Intern | London, UK | 🔒 | 20d |
 | **[Veolia](https://simplify.jobs/c/Veolia?utm_source=GHList&utm_medium=company)** | Bilingual – Digital Adoption Intern - Eng/FR | Oakville, ON, Canada | 🔒 | 22d |
-| **[Manulife](https://simplify.jobs/c/acb6271e-e26a-401d-befe-547f56e287b5?utm_source=GHList&utm_medium=company)** | Agentic AI Developer Intern | Toronto, ON, Canada | 🔒 | 22d |
+| **[Manulife](https://simplify.jobs/c/acb6271e-e26a-401d-befe-547f56e287b5?utm_source=GHList&utm_medium=company)** | Agentic AI Developer Intern | Toronto, ON, Canada | 🔒 | 23d |
 | **[Nikkiso](https://simplify.jobs/c/Nikkiso?utm_source=GHList&utm_medium=company)** | Data Analytics Intern | Cypress, TX | 🔒 | 23d |
 | **[Warner Bros.](https://simplify.jobs/c/Warner-Bros?utm_source=GHList&utm_medium=company)** | Sports Analytics Internships - Fall 2025 | Atlanta, GA | 🔒 | 24d |
 | **[Tenstorrent](https://simplify.jobs/c/Tenstorrent?utm_source=GHList&utm_medium=company)** | Physical Design for Machine Learning Intern | Austin, TX | 🔒 | 26d |
