@@ -9,15 +9,15 @@
 
 ---
 
-### Browse 403 Internship Roles by Category
+### Browse 405 Internship Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-internship-roles)** (214)
 
-🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (97)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (98)
 
 📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (62)
 
-🔧 **[Hardware Engineering](#-hardware-engineering-internship-roles)** (30)
+🔧 **[Hardware Engineering](#-hardware-engineering-internship-roles)** (31)
 
 ---
 
@@ -331,6 +331,7 @@
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
 | **[Fannie Mae](https://simplify.jobs/c/Fannie-Mae?utm_source=GHList&utm_medium=company)** | Campus – Intern - Data Science - Analytics and Modeling Program | Washington, DC | <div align="center"><a href="https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Midtown-Center/Campus---Data-Science--Analytics-and-Modeling-Program--Intern_JR1260?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/a346eab8-ea29-4146-a595-25eee688a407?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
+| **[Mosaic](https://simplify.jobs/c/Mosaic?utm_source=GHList&utm_medium=company)** | Operations Technology Co-Op/Intern | Tampa, FL | <div align="center"><a href="https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Tampa-FL-Lithia-area/Operations-Technology-Co-Op-Intern---Summer-2026_60324?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/5cb339fd-a86b-43f7-80fa-6910fd76b40d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[GlobalFoundries](https://simplify.jobs/c/GlobalFoundries?utm_source=GHList&utm_medium=company)** | Process & Data Engineering Intern | Malta, NY | <div align="center"><a href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Process---Data-Engineering-Intern--Summer-2026-_JR-2503107?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/52bb8c17-2aeb-442e-b288-5bd5f71fd3de?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[Ontario Teachers' Pension Plan](https://simplify.jobs/c/Ontario-Teachers-Pension-Plan?utm_source=GHList&utm_medium=company)** | Intern – Product & Data Engineering | Toronto, ON, Canada | <div align="center"><a href="https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Product---Data-Engineering--May-2026---16-months-_6581?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/137cbc5a-c7cf-4ecb-b1d4-39bee26e6365?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[Montenson](https://simplify.jobs/c/Montenson?utm_source=GHList&utm_medium=company)** | ITS Analyst Intern | Minneapolis, MN | <div align="center"><a href="https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/19438?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/4c971642-b3d0-49bb-93ce-44b516cb2895?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
@@ -439,7 +440,7 @@
 | **[AbbVie](https://simplify.jobs/c/AbbVie?utm_source=GHList&utm_medium=company)** | Business Technology Solutions Intern | Waukegan, IL | 🔒 | 15d |
 | **[United Parcel Service (UPS)](https://simplify.jobs/c/United-Parcel-Service?utm_source=GHList&utm_medium=company)** | Engineering Co-Op 🇺🇸 | Mira Loma, CA | 🔒 | 21d |
 | **[UNFPA](https://simplify.jobs/c/UNFPA?utm_source=GHList&utm_medium=company)** | Geospatial Sciences Internship 🛂 | Remote in USA | 🔒 | 24d |
-| **[Wells Fargo](https://simplify.jobs/c/Wells-Fargo?utm_source=GHList&utm_medium=company)** | 2026 Analytics and Data Summer Internship - Early Careers | <details><summary>**4 locations**</summary>Des Moines, IA</br>Dallas, TX</br>Charlotte, NC</br>Minneapolis, MN</details> | 🔒 | 24d |
+| **[Wells Fargo](https://simplify.jobs/c/Wells-Fargo?utm_source=GHList&utm_medium=company)** | 2026 Analytics and Data Summer Internship - Early Careers | <details><summary>**4 locations**</summary>Des Moines, IA</br>Dallas, TX</br>Charlotte, NC</br>Minneapolis, MN</details> | 🔒 | 25d |
 | **[Walleye Capital](https://simplify.jobs/c/Walleye-Capital?utm_source=GHList&utm_medium=company)** | Investment Data Science Intern | NYC | 🔒 | 25d |
 | **[Capital One](https://simplify.jobs/c/Capital-One?utm_source=GHList&utm_medium=company)** | Data Analyst Intern | McLean, VA</br>Richmond, VA | 🔒 | 1mo |
 | **[Caterpillar Inc.](https://simplify.jobs/c/Caterpillar-Inc?utm_source=GHList&utm_medium=company)** | 2026 Summer Corporate Intern - Digital and Analytics | Peoria, IL</br>Chicago, IL</br>Irving, TX | 🔒 | 1mo |
@@ -543,7 +544,8 @@
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
-| **[ByteDance](https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company)** | Network Software Development Engineer Intern - Network Switch | San Jose, CA | <div align="center"><a href="https://jobs.bytedance.com/en/position/7537117266451171592/detail?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/45f439c5-48ee-4f58-a636-14a5e0912e61?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
+| **[ByteDance](https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company)** | Network Software Development Engineer Intern - Network Switch | Seattle, WA | <div align="center"><a href="https://jobs.bytedance.com/en/position/7537156195199551751/detail?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/177bb84f-7b60-4fcb-9b6c-41d6de9f102f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
+| ↳ | Network Software Development Engineer Intern - Network Switch | San Jose, CA | <div align="center"><a href="https://jobs.bytedance.com/en/position/7537117266451171592/detail?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/45f439c5-48ee-4f58-a636-14a5e0912e61?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | ↳ | Software Development Engineer Intern - Storage-HDFS - BS/ MS | San Jose, CA | <div align="center"><a href="https://jobs.bytedance.com/en/position/7538216145381492999/detail?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/877cc09a-f438-41ca-8b36-0e10e6a8ed2d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[Flowserve](https://simplify.jobs/c/Flowserve?utm_source=GHList&utm_medium=company)** | Application Engineer COOP | South Houston, TX | <div align="center"><a href="https://flowserve.wd1.myworkdayjobs.com/applied/job/Pasadena-Texas-US/On-Site-Application-Engineer-COOP_R-15896?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/3668b3a9-c496-4f6a-bfeb-286e6e1e9524?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | TetraMem | Software - Embedded Intern | San Jose, CA | <div align="center"><a href="https://tetramem.hrmdirect.com/employment/job-opening.php?req=3491042&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 1d |
