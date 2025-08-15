@@ -9,7 +9,7 @@
 
 ---
 
-### Browse 395 Internship Roles by Category
+### Browse 396 Internship Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-internship-roles)** (209)
 
@@ -17,7 +17,7 @@
 
 📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (62)
 
-🔧 **[Hardware Engineering](#-hardware-engineering-internship-roles)** (29)
+🔧 **[Hardware Engineering](#-hardware-engineering-internship-roles)** (30)
 
 ---
 
@@ -538,6 +538,7 @@
 | ------- | ---- | -------- | ------ | -- |
 | **[ByteDance](https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company)** | Network Software Development Engineer Intern - Network Switch | San Jose, CA | <div align="center"><a href="https://jobs.bytedance.com/en/position/7537117266451171592/detail?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/45f439c5-48ee-4f58-a636-14a5e0912e61?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | ↳ | Software Development Engineer Intern - Storage-HDFS - BS/ MS | San Jose, CA | <div align="center"><a href="https://jobs.bytedance.com/en/position/7538216145381492999/detail?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/877cc09a-f438-41ca-8b36-0e10e6a8ed2d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
+| **[Flowserve](https://simplify.jobs/c/Flowserve?utm_source=GHList&utm_medium=company)** | Application Engineer COOP | South Houston, TX | <div align="center"><a href="https://flowserve.wd1.myworkdayjobs.com/applied/job/Pasadena-Texas-US/On-Site-Application-Engineer-COOP_R-15896?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/3668b3a9-c496-4f6a-bfeb-286e6e1e9524?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | TetraMem | Software - Embedded Intern | San Jose, CA | <div align="center"><a href="https://tetramem.hrmdirect.com/employment/job-opening.php?req=3491042&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 1d |
 | **[Regal Rexnord](https://simplify.jobs/c/37e0cd83-539e-4474-a63a-abc8ce7b4694?utm_source=GHList&utm_medium=company)** | Application Engineer Co-op | Vandalia, OH | <div align="center"><a href="https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Tipp-City-Ohio-United-States/Application-Engineer-Co-op_R25_04012?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/8e5afc51-e33d-4302-8aeb-102811b40f6d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1d |
 | **[Draper](https://simplify.jobs/c/Draper?utm_source=GHList&utm_medium=company)** | Optics-Physics Sensor Engineering Co-op | Cambridge, MA | <div align="center"><a href="https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Optics-Physics-Sensor-Engineering-Co-op_JR001535?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/6e0b3522-9bfc-4f8e-87a3-dee67de1655d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 2d |

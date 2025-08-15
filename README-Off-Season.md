@@ -10,11 +10,11 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 124 Internship Roles by Category
+### Browse 126 Internship Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-internship-roles)** (57)
+💻 **[Software Engineering](#-software-engineering-internship-roles)** (58)
 
-🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (47)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (48)
 
 📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (5)
 
@@ -76,8 +76,9 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Jump Trading](https://simplify.jobs/c/Jump-Trading?utm_source=GHList&utm_medium=company)** | Campus UI Software Engineer – Intern | Chicago, IL | <div align="center"><a href="https://boards.greenhouse.io/embed/job_app?token=7125381&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/6fdace5c-6ca0-411d-a5fa-170c4212dd45?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 8d |
 | Moog | Artificial Intelligence 🇺🇸 | Buffalo, NY | <div align="center"><a href="https://moog.wd5.myworkdayjobs.com/en-US/moog_external_career_site/job/Buffalo-NY/Intern--Artificial-Intelligence_R-25-13375?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 8d |
 | **[Figure](https://simplify.jobs/c/Figure-AI?utm_source=GHList&utm_medium=company)** | Firmware Engineer Intern | San Jose, CA | <div align="center"><a href="https://job-boards.greenhouse.io/figureai/jobs/4590429006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 8d |
-| **[Palantir](https://simplify.jobs/c/Palantir?utm_source=GHList&utm_medium=company)** | Forward Deployed Software Engineer – Internship - Commercial | London, UK | <div align="center"><a href="https://jobs.lever.co/palantir/599b1907-aba1-4303-837b-66e69a521636/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/bd5985bd-7c09-4dfe-b27f-46d6f0d3418a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 9d |
+| **[Palantir](https://simplify.jobs/c/Palantir?utm_source=GHList&utm_medium=company)** | Forward Deployed Software Engineer – Internship - Commercial | London, UK | <div align="center"><a href="https://jobs.lever.co/palantir/599b1907-aba1-4303-837b-66e69a521636/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/bd5985bd-7c09-4dfe-b27f-46d6f0d3418a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 10d |
 | **[Figure](https://simplify.jobs/c/Figure-AI?utm_source=GHList&utm_medium=company)** | Robotics Integration Intern 🛂 | San Jose, CA | <div align="center"><a href="https://job-boards.greenhouse.io/figureai/jobs/4573642006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 10d |
+| **[Vanguard](https://simplify.jobs/c/Vanguard?utm_source=GHList&utm_medium=company)** | IT Co-Op | Malvern, PA</br>Charlotte, NC | <div align="center"><a href="https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Malvern-PA/Fall-Winter-2025-IT-Co-Op_167905-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/32de91ea-8464-46ae-ad58-76366978ddef?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 13d |
 | **[Jonas Software](https://simplify.jobs/c/Jonas-Software?utm_source=GHList&utm_medium=company)** | Jonas Fall Internship - Various Departments | Remote in USA</br>Remote in Canada | <div align="center"><a href="https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareUSA/job/Jonas-Fall-Internship---Various-Departments_R45877-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/411e8cea-27b0-4290-9f65-d18525057b9f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 14d |
 | **[SEL](https://simplify.jobs/c/SEL?utm_source=GHList&utm_medium=company)** | Software Engineer Intern | Moscow, ID | <div align="center"><a href="https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Software-Engineer-Intern_2025-17597?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/6025f88a-da96-4b57-8e5c-df65e272dc83?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 14d |
 | **[Nokia](https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company)** | Software Dev AI/ML Co-op | Naperville, IL | <div align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/22882?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/b3bc92a2-8c8d-4ef2-a6aa-f5b0a9656c96?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 14d |
@@ -121,7 +122,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1030)</summary>
+<summary>🗃️ Inactive roles (1029)</summary>
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
@@ -133,7 +134,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Wurl](https://simplify.jobs/c/Wurl?utm_source=GHList&utm_medium=company)** | Software Engineer Intern | Remote in USA | 🔒 | 8d |
 | **[Vanguard](https://simplify.jobs/c/Vanguard?utm_source=GHList&utm_medium=company)** | Intern – PI Tech Co-op - Other | Malvern, PA | 🔒 | 9d |
 | **[Nokia](https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company)** | Solutions Lab Co-op/Intern | Ottawa, ON, Canada | 🔒 | 11d |
-| **[Vanguard](https://simplify.jobs/c/Vanguard?utm_source=GHList&utm_medium=company)** | IT Co-Op | Malvern, PA</br>Charlotte, NC | 🔒 | 13d |
 | **[Vanguard](https://simplify.jobs/c/Vanguard?utm_source=GHList&utm_medium=company)** | IT Co-Op | Charlotte, NC | 🔒 | 14d |
 | **[AppLovin](https://simplify.jobs/c/AppLovin?utm_source=GHList&utm_medium=company)** | Software Engineer Intern | Remote in USA | 🔒 | 15d |
 | **[T. Rowe Price](https://simplify.jobs/c/t-rowe-price?utm_source=GHList&utm_medium=company)** | Software Engineering Internship | Owings Mills, MD</br>Baltimore, MD | 🔒 | 15d |
@@ -1171,6 +1171,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
+| **[NXP Semiconductors](https://simplify.jobs/c/91edf47c-f010-430e-8558-5c1fbb365984?utm_source=GHList&utm_medium=company)** | Data Science / Structured Problem Solving Intern | Austin, TX | <div align="center"><a href="https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Data-Science---Structured-Problem-Solving-Intern---Fall-2025_R-10059789?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/51a27002-0cc8-4eb9-bfb3-d69fa784ab95?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[Rothschild & Co](https://simplify.jobs/c/Rothschild?utm_source=GHList&utm_medium=company)** | Five Arrows Talent Data Analytics Internship | United Kingdom | <div align="center"><a href="https://rothschildandco.tal.net/vx/mobile-0/appcentre-ext/brand-4/spa-1/candidate/so/pm/1/pl/2/opp/825-2025-Five-Arrows-Talent-Data-Analytics-Internship/en-GB?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/e8dd3cf3-fb49-4029-8cf5-cccfb4bdc9a3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[Covestro](https://simplify.jobs/c/a64ca911-92ef-4bce-99ec-a890a343a30c?utm_source=GHList&utm_medium=company)** | Intern – m/f/d - Optimization & Data Analysis | Neukirchen-Vluyn, Germany | <div align="center"><a href="https://covestro.wd3.myworkdayjobs.com/cov_external/job/Leverkusen/Praktikant-in--m-w-d--im-Bereich-Verfahrenstechnik---Chemieingenieurwesen-zu-Prozesssimulation--Optimierung---Datenanalyse---mit-Gehaltsangabe_JR-2025-01801?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/3bf0335a-8980-4bed-9418-3770fd882b50?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[ABB](https://simplify.jobs/c/ABB?utm_source=GHList&utm_medium=company)** | Information Systems – Machine Learning Intern | Morrisville, NC | <div align="center"><a href="https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/USA-NC-Cary/Information-Systems---Machine-Learning-Intern_96939910?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/14102ec6-f6f0-449c-a1f3-602e7f45ee98?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
