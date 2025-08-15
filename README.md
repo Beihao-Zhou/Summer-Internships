@@ -9,11 +9,11 @@
 
 ---
 
-### Browse 378 Internship Roles by Category
+### Browse 377 Internship Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-internship-roles)** (199)
 
-🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (89)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (88)
 
 📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (62)
 
@@ -324,7 +324,6 @@
 | ↳ | Risk Analytics and Decision Science (PhD) | Charlotte, NC | <div align="center"><a href="https://wf.wd1.myworkdayjobs.com/en-US/wellsfargojobs/job/CHARLOTTE-NC/XMLNAME-2026-Quantitative-Analytics-Summer-Internship-Risk-Analytics-and-Decision-Science--PhD----Early-Careers_R-481497?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 1d |
 | **[Capital One](https://simplify.jobs/c/Capital-One?utm_source=GHList&utm_medium=company)** | Former Discover Intern - Data Analyst Associate | McLean, VA</br>Richmond, VA | <div align="center"><a href="https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Former-Discover-Intern--Data-Analyst-Associate---2026_R221876-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/2d64ad09-45f3-41ed-83d4-34d2bc305a9d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 2d |
 | **[Cotiviti](https://simplify.jobs/c/Cotiviti?utm_source=GHList&utm_medium=company)** | Intern – Technology Research Assistant/Analyst | Remote in USA | <div align="center"><a href="https://careers-cotiviti.icims.com/jobs/16226/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/3d0a232d-9aa7-4e00-a5f3-9b83b0e5dc21?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 2d |
-| **[Xylem](https://simplify.jobs/c/Xylem?utm_source=GHList&utm_medium=company)** | Data Engineer Intern | Mississauga, ON, Canada | <div align="center"><a href="https://xylem.wd5.myworkdayjobs.com/en-US/xylem-careers/job/Mississauga/Data-Engineer-Intern_R43581?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/3cfd22a3-7aac-4e87-9e19-2701bbbf0aef?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 2d |
 | Motional AD | Machine Learning Internship, Behaviors Research 🛂 | Boston, MA</br>Pittsburgh, PA</br>Remote in USA | <div align="center"><a href="https://job-boards.greenhouse.io/motional/jobs/6670062003?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 2d |
 | **[Databricks](https://simplify.jobs/c/Databricks?utm_source=GHList&utm_medium=company)** | Data Science Intern | Mountain View, CA</br>San Francisco, CA | <div align="center"><a href="https://www.databricks.com/company/careers/university-recruiting/data-science-intern-2026-start-6866538002?gh_jid=6866538002&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 2d |
 | **[GE Appliances](https://simplify.jobs/c/GE-Appliances?utm_source=GHList&utm_medium=company)** | Digital Technology Intern | Decatur, AL | <div align="center"><a href="https://haier.wd3.myworkdayjobs.com/GE_Appliances/job/USA-Decatur-AL/Digital-Technology-Intern_REQ-23268-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/276fca10-5c8d-4a4f-9b01-170901106898?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 2d |
@@ -404,10 +403,11 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (11)</summary>
+<summary>🗃️ Inactive roles (12)</summary>
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
+| **[Xylem](https://simplify.jobs/c/Xylem?utm_source=GHList&utm_medium=company)** | Data Engineer Intern | Mississauga, ON, Canada | 🔒 | 2d |
 | **[Polaris](https://simplify.jobs/c/ad05a83e-f0ad-47b5-beeb-4c7bf3f50f64?utm_source=GHList&utm_medium=company)** | Digital & Information Technology – Predictive Data Science Internship | Wayzata, MN</br>South Yankton, NE | 🔒 | 5d |
 | **[AbbVie](https://simplify.jobs/c/AbbVie?utm_source=GHList&utm_medium=company)** | Business Technology Solutions Intern | Waukegan, IL | 🔒 | 14d |
 | **[United Parcel Service (UPS)](https://simplify.jobs/c/United-Parcel-Service?utm_source=GHList&utm_medium=company)** | Engineering Co-Op 🇺🇸 | Mira Loma, CA | 🔒 | 20d |
