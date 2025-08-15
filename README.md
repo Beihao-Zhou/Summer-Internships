@@ -9,7 +9,7 @@
 
 ---
 
-### Browse 379 Internship Roles by Category
+### Browse 378 Internship Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-internship-roles)** (200)
 
@@ -17,7 +17,7 @@
 
 📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (60)
 
-🔧 **[Hardware Engineering](#-hardware-engineering-internship-roles)** (29)
+🔧 **[Hardware Engineering](#-hardware-engineering-internship-roles)** (28)
 
 ---
 
@@ -540,7 +540,6 @@
 | **[Eight Sleep](https://simplify.jobs/c/Eight-Sleep?utm_source=GHList&utm_medium=company)** | Hardware Support & Test Intern | San Francisco, CA | <div align="center"><a href="https://jobs.ashbyhq.com/eightsleep/86959a9a-44a5-401d-8009-f9a691acefee/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/f661f3e1-e3bd-4e3b-921a-87a50652d0be?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 19d |
 | **[Tenstorrent](https://simplify.jobs/c/Tenstorrent?utm_source=GHList&utm_medium=company)** | CPU Design Verification Intern 🇺🇸 | Austin, TX</br>Santa Clara, CA | <div align="center"><a href="https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4501100007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/2a159136-4b54-47ea-841a-cd9da6e2ed19?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 26d |
 | ↳ | Acceleration Kernel Developer Intern 🇺🇸 | Toronto, ON, Canada</br>Santa Clara, CA | <div align="center"><a href="https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4668120007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/53a083aa-f7ae-4f4d-8a2d-4a9130721f72?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 26d |
-| ↳ | CPU Core Performance Verification Intern - CPU/AI Hardware 🇺🇸 | Austin, TX | <div align="center"><a href="https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4501134007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/4ccd3cc1-f196-4041-996c-f33e4728a6fe?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 26d |
 | **[Optiver](https://simplify.jobs/c/Optiver?utm_source=GHList&utm_medium=company)** | FPGA Engineer Intern | Chicago, IL | <div align="center"><a href="https://optiver.com/working-at-optiver/career-opportunities/8033372002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 29d |
 | ↳ | FPGA Engineer Intern | Austin, TX | <div align="center"><a href="https://optiver.com/working-at-optiver/career-opportunities/8033390002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 29d |
 | **[Akuna Capital](https://simplify.jobs/c/Akuna-Capital?utm_source=GHList&utm_medium=company)** | Hardware Engineer Intern | Chicago, IL | <div align="center"><a href="https://www.akunacapital.com/job-details?gh_jid=6945855&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/2156c922-ba8a-4f27-bd2a-50aaab6dfc8c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1mo |
@@ -550,7 +549,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (5)</summary>
+<summary>🗃️ Inactive roles (6)</summary>
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
@@ -558,6 +557,7 @@
 | **[Dell Technologies](https://simplify.jobs/c/Dell-Technologies?utm_source=GHList&utm_medium=company)** | Dell ISG Hardware Engineering Undergraduate Intern | Round Rock, TX</br>Westborough, MA | 🔒 | 7d |
 | **[Ciena](https://simplify.jobs/c/Ciena?utm_source=GHList&utm_medium=company)** | Embedded Software Engineer Co-Op | Ottawa, ON, Canada | 🔒 | 22d |
 | **[Tenstorrent](https://simplify.jobs/c/Tenstorrent?utm_source=GHList&utm_medium=company)** | RTL Design Intern - CPU/AI Hardware 🇺🇸 | Austin, TX | 🔒 | 26d |
+| ↳ | CPU Core Performance Verification Intern - CPU/AI Hardware 🇺🇸 | Austin, TX | 🔒 | 26d |
 | **[Western Digital](https://simplify.jobs/c/Western-Digital?utm_source=GHList&utm_medium=company)** | Software Engineering Co-Op | Rochester, MN | 🔒 | 1mo |
 
 
