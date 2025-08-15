@@ -10,9 +10,9 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 127 Internship Roles by Category
+### Browse 125 Internship Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-internship-roles)** (59)
+💻 **[Software Engineering](#-software-engineering-internship-roles)** (57)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (51)
 
@@ -61,7 +61,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
-| **[Ciena](https://simplify.jobs/c/Ciena?utm_source=GHList&utm_medium=company)** | WaveServer Software Developer | Atlanta, GA | <div align="center"><a href="https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Atlanta/WaveServer-Software-Developer---Fall-2025---4-months_R028668?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | **[ABB](https://simplify.jobs/c/ABB?utm_source=GHList&utm_medium=company)** | Intern – IT Programming and Projects | Pointe-Claire, QC, Canada | <div align="center"><a href="https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/Pointe-Claire-Quebec-Canada/Intern---IT-Programming-and-Projects_JR00007776?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/a6891109-0a87-41d2-b9da-604b8d74654f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[Notion](https://simplify.jobs/c/Notion?utm_source=GHList&utm_medium=company)** | Software Engineer Intern | SF</br>NYC | <div align="center"><a href="https://jobs.ashbyhq.com/notion/fc762b58-24c9-4f34-bf5f-2af6e8adc644/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/8b767bda-722a-4c79-8ef0-95830440c329?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | ↳ | Software Engineer – Mobile Intern | SF</br>NYC | <div align="center"><a href="https://jobs.ashbyhq.com/notion/3e56e35b-f35b-4b1a-ba2b-0ccdc6f60421/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/007ec7b2-bc2c-4a9c-b5b9-7991136be576?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
@@ -70,7 +69,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Notion](https://simplify.jobs/c/Notion?utm_source=GHList&utm_medium=company)** | Software Engineer | San Francisco, CA</br>New York, NY | <div align="center"><a href="https://jobs.ashbyhq.com/notion/fc762b58-24c9-4f34-bf5f-2af6e8adc644?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 2d |
 | ↳ | Software Engineer, AI | San Francisco, CA</br>New York, NY | <div align="center"><a href="https://jobs.ashbyhq.com/notion/39d70209-37f6-4623-949b-18fbd8889933?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 2d |
 | ↳ | Software Engineer, Mobile | San Francisco, CA</br>New York, NY | <div align="center"><a href="https://jobs.ashbyhq.com/notion/3e56e35b-f35b-4b1a-ba2b-0ccdc6f60421?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 2d |
-| **[Intuit](https://simplify.jobs/c/Intuit?utm_source=GHList&utm_medium=company)** | Software Developer Co-op | Toronto, ON, Canada | <div align="center"><a href="https://jobs.intuit.com/job/toronto/software-developer-co-op-fall-2025/27595/82936409280?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/e3119991-3859-4734-936c-1cc1c8296582?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 7d |
 | **[TikTok](https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company)** | Software Engineer Intern - Platform efficiency | San Jose, CA | <div align="center"><a href="https://lifeattiktok.com/search/7530513185797359880?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/779f212c-f34e-4260-b5af-2e54a8c159fb?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 8d |
 | ↳ | Frontend Engineer Project Intern - Tiktok-Search-Client | San Jose, CA | <div align="center"><a href="https://lifeattiktok.com/search/7533782486234007816?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/83b8625c-9a5f-4932-b128-ddd4a88b0c0e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 8d |
 | **[Jump Trading](https://simplify.jobs/c/Jump-Trading?utm_source=GHList&utm_medium=company)** | Campus UI Software Engineer – Intern | Chicago, IL | <div align="center"><a href="https://boards.greenhouse.io/embed/job_app?token=7125381&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/6fdace5c-6ca0-411d-a5fa-170c4212dd45?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 8d |
@@ -123,7 +121,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1027)</summary>
+<summary>🗃️ Inactive roles (1028)</summary>
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
@@ -131,6 +129,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Chamberlain Group](https://simplify.jobs/c/Chamberlain-Group?utm_source=GHList&utm_medium=company)** | Software Engineer 1 – Intern Conversion - Middleware | Western Springs, IL | 🔒 | 6d |
 | **[Dell Technologies](https://simplify.jobs/c/Dell-Technologies?utm_source=GHList&utm_medium=company)** | Dell ISG Software Engineering Intern | Round Rock, TX</br>Westborough, MA | 🔒 | 7d |
 | **[TikTok](https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company)** | Software Engineer Intern - Tiktok-Social-Product Innovation - BS/MS | San Jose, CA | 🔒 | 7d |
+| **[Intuit](https://simplify.jobs/c/Intuit?utm_source=GHList&utm_medium=company)** | Software Developer Co-op | Toronto, ON, Canada | 🔒 | 7d |
 | **[Vanguard](https://simplify.jobs/c/Vanguard?utm_source=GHList&utm_medium=company)** | Intern – PI Tech Co-op - Other | Malvern, PA | 🔒 | 9d |
 | **[Nokia](https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company)** | Solutions Lab Co-op/Intern | Ottawa, ON, Canada | 🔒 | 10d |
 | **[Vanguard](https://simplify.jobs/c/Vanguard?utm_source=GHList&utm_medium=company)** | IT Co-Op | Malvern, PA</br>Charlotte, NC | 🔒 | 13d |
