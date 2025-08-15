@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 382 Internship Roles by Category
+### Browse 380 Internship Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-internship-roles)** (203)
+💻 **[Software Engineering](#-software-engineering-internship-roles)** (201)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (90)
 
@@ -74,8 +74,6 @@
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
-| **[Epic Games](https://simplify.jobs/c/Epic-Games?utm_source=GHList&utm_medium=company)** | Gameplay Programmer Intern 🛂 | Cary, NC | <div align="center"><a href="https://www.epicgames.com/site/en-US/careers/jobs/5620310004?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
-| Detroit Pistons | Software Development Intern | Detroit, MI | <div align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/3496176?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | Cisco | Software Engineer I (Intern) 🛂 | <details><summary>**14 locations**</summary>San Jose, CA</br>Remote, USA</br>Milpitas, CA</br>New York, NY</br>RTP, NC</br>Atlanta, GA</br>Alpharetta, GA</br>Austin, TX</br>Dallas, TX</br>Knoxville, TN</br>Fulton, MD</br>Maynard, MA</br>Boston, MA</br>Hillsboro, OR</details> | <div align="center"><a href="https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Intern-United-States/1448534?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | **[Notion](https://simplify.jobs/c/Notion?utm_source=GHList&utm_medium=company)** | Software Engineer Intern | SF</br>NYC | <div align="center"><a href="https://jobs.ashbyhq.com/notion/23ac2477-0008-4bed-b1c1-81f90a32e9e6/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/d2e75901-15a0-4ebf-9226-2a7f4e1091f4?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | ↳ | Software Engineer – Mobile Intern | SF</br>NYC | <div align="center"><a href="https://jobs.ashbyhq.com/notion/1bda6206-2258-4c1f-a585-ef31ee56f1d4/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/7dcd07dc-a76a-42a7-bbff-794b750eb3db?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |

@@ -10,11 +10,11 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 125 Internship Roles by Category
+### Browse 124 Internship Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-internship-roles)** (57)
 
-🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (51)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (50)
 
 📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (3)
 
@@ -1209,7 +1209,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | ↳ | Fall – Data Scientist Intern - PhD | Austin, TX | <div align="center"><a href="https://job-boards.greenhouse.io/integra/jobs/4522522008?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/4294f84d-72ea-4305-9184-fb401c89700b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 30d |
 | ↳ | Fall – Data Analyst Intern | Austin, TX | <div align="center"><a href="https://job-boards.greenhouse.io/integra/jobs/4522499008?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/cc7f3be6-0c1d-4d28-9284-af55f27b3a1b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 30d |
 | **[Occidental Petroleum](https://simplify.jobs/c/Occidental-Petroleum?utm_source=GHList&utm_medium=company)** | Co-Op – Data - Well Servicing & Engineering | <details><summary>**5 locations**</summary>Midland, TX</br>Houston, TX</br>Fort Lupton, CO</br>Lubbock, TX</br>Denver, CO</details> | <div align="center"><a href="https://oxy.wd5.myworkdayjobs.com/Corporate/job/_JR100413?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/387d5861-f87f-4086-b76b-88018de85a3f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1mo |
-| **[Sanofi](https://simplify.jobs/c/Sanofi?utm_source=GHList&utm_medium=company)** | Co-op-Intern - Msat - Data Science - Process Modeling | Cambridge, MA | <div align="center"><a href="https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Framingham-MA/Winter--Spring-2026-Co-op-Intern---MSAT---Data-Science---Process-Modeling_R2803105?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/4f2d3d82-a4c9-4616-9b13-13964ec80c5c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1mo |
 | **[Citadel](https://simplify.jobs/c/Citadel?utm_source=GHList&utm_medium=company)** | Launch Intern | Miami, FL</br>Chicago, IL</br>NYC | <div align="center"><a href="https://www.citadel.com/careers/details/launch-intern-us/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/c2dcf460-4447-4356-89b3-714d402716a0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1mo |
 | **[Aquatic Capital Management](https://simplify.jobs/c/Aquatic-Capital-Management?utm_source=GHList&utm_medium=company)** | AI/LLM Automation Intern | Chicago, IL | <div align="center"><a href="https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8071545002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/965f3fb9-0610-4a6f-9e82-0a09f0c07c3a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1mo |
 | **[Armada](https://simplify.jobs/c/Armada?utm_source=GHList&utm_medium=company)** | AI Intern | Bellevue, WA | <div align="center"><a href="https://job-boards.greenhouse.io/armada/jobs/4684318008?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/b3be96c3-532e-4d78-a5f2-f996ccb99d87?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1mo |
@@ -1223,7 +1222,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (313)</summary>
+<summary>🗃️ Inactive roles (314)</summary>
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
@@ -1252,6 +1251,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Geotab](https://simplify.jobs/c/Geotab?utm_source=GHList&utm_medium=company)** | Data Analyst Intern - Data Operations | Toronto, ON, Canada</br>Oakville, ON, Canada</br>Kitchener, ON, Canada | 🔒 | 30d |
 | **[Nissan Global](https://simplify.jobs/c/Nissan-Global?utm_source=GHList&utm_medium=company)** | Data Scientist Degree Apprentice | Bedfordshire, UK | 🔒 | 30d |
 | **[Nokia](https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company)** | Data fabric and network automation Co-op | Sunnyvale, CA | 🔒 | 1mo |
+| **[Sanofi](https://simplify.jobs/c/Sanofi?utm_source=GHList&utm_medium=company)** | Co-op-Intern - Msat - Data Science - Process Modeling | Cambridge, MA | 🔒 | 1mo |
 | **[Magna](https://simplify.jobs/c/Magna?utm_source=GHList&utm_medium=company)** | Data Science & Analytics WCM Co-op Student | Brampton, ON, Canada | 🔒 | 1mo |
 | **[ExodusPoint](https://simplify.jobs/c/ExodusPoint?utm_source=GHList&utm_medium=company)** | Artificial Intelligence Intern | NYC | 🔒 | 1mo |
 | **[Wurl](https://simplify.jobs/c/Wurl?utm_source=GHList&utm_medium=company)** | Data Engineer Intern | Remote in USA | 🔒 | 1mo |
