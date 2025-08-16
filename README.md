@@ -437,7 +437,7 @@
 | ------- | ---- | -------- | ------ | -- |
 | **[Xylem](https://simplify.jobs/c/Xylem?utm_source=GHList&utm_medium=company)** | Data Engineer Intern | Mississauga, ON, Canada | 🔒 | 3d |
 | **[Polaris](https://simplify.jobs/c/ad05a83e-f0ad-47b5-beeb-4c7bf3f50f64?utm_source=GHList&utm_medium=company)** | Digital & Information Technology – Predictive Data Science Internship | Wayzata, MN</br>South Yankton, NE | 🔒 | 6d |
-| **[AbbVie](https://simplify.jobs/c/AbbVie?utm_source=GHList&utm_medium=company)** | Business Technology Solutions Intern | Waukegan, IL | 🔒 | 15d |
+| **[AbbVie](https://simplify.jobs/c/AbbVie?utm_source=GHList&utm_medium=company)** | Business Technology Solutions Intern | Waukegan, IL | 🔒 | 16d |
 | **[United Parcel Service (UPS)](https://simplify.jobs/c/United-Parcel-Service?utm_source=GHList&utm_medium=company)** | Engineering Co-Op 🇺🇸 | Mira Loma, CA | 🔒 | 21d |
 | **[UNFPA](https://simplify.jobs/c/UNFPA?utm_source=GHList&utm_medium=company)** | Geospatial Sciences Internship 🛂 | Remote in USA | 🔒 | 24d |
 | **[Wells Fargo](https://simplify.jobs/c/Wells-Fargo?utm_source=GHList&utm_medium=company)** | 2026 Analytics and Data Summer Internship - Early Careers | <details><summary>**4 locations**</summary>Des Moines, IA</br>Dallas, TX</br>Charlotte, NC</br>Minneapolis, MN</details> | 🔒 | 25d |
