@@ -15,13 +15,13 @@
 
 📱 **[Product Management](#-product-management-internship-roles)** (1)
 
-🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (107)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (108)
 
 📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (67)
 
 🔧 **[Hardware Engineering](#-hardware-engineering-internship-roles)** (39)
 
-💼 **[Other](#-other-internship-roles)** (32)
+💼 **[Other](#-other-internship-roles)** (31)
 
 ---
 
@@ -349,6 +349,7 @@
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
+| **[🔥 Figma](https://simplify.jobs/c/Figma?utm_source=GHList&utm_medium=company)** | Data Engineer Intern | San Francisco, CA</br>New York, NY | <div align="center"><a href="https://job-boards.greenhouse.io/figma/jobs/5623087004?gh_jid=5623087004&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | **[WEC Energy Group](https://simplify.jobs/c/WEC-Energy-Group?utm_source=GHList&utm_medium=company)** | Power Generation Data Analyst Intern | Milwaukee, WI | <div align="center"><a href="https://careers.wecenergygroup.com/We_Energies/job/Milwaukee-Power-Generation-Data-Analyst-Intern-WI-53203/1318168900/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/a66bb355-5de2-4615-8542-b8693dee0449?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[Ameren](https://simplify.jobs/c/Ameren?utm_source=GHList&utm_medium=company)** | Data Analytics Co-Op | St. Louis, MO | <div align="center"><a href="https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Data-Analytics-Co-Op_031708-2?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/357b8b87-82f2-4ca6-8e69-86478b7fa2ec?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[Deloitte](https://simplify.jobs/c/Deloitte?utm_source=GHList&utm_medium=company)** | Audit & Assurance Intern - Data & Analytics | Chicago, IL | <div align="center"><a href="https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Intern-Data-Analytics-Summer-2026/309450?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/a4e6ba2b-297c-4b75-af32-682737aad907?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
@@ -560,10 +561,11 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (4)</summary>
+<summary>🗃️ Inactive roles (5)</summary>
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
+| **[Wells Fargo](https://simplify.jobs/c/Wells-Fargo?utm_source=GHList&utm_medium=company)** | Internship Risk Analytics and Decision Science (Masters) 🎓 | Charlotte, NC | 🔒 | 6d |
 | **[U.S. Bank](https://simplify.jobs/c/US-Bank?utm_source=GHList&utm_medium=company)** | Capital Markets Summer Intern-Investment Grade Sales & Trading | Charlotte, NC | 🔒 | 14d |
 | **[Five Rings Capital](https://simplify.jobs/c/Five-Rings?utm_source=GHList&utm_medium=company)** | Summer Intern - Quantitative Research Analyst | NYC | 🔒 | 28d |
 | **[Walleye Capital](https://simplify.jobs/c/Walleye-Capital?utm_source=GHList&utm_medium=company)** | Risk Quant Research Intern | New York, NY | 🔒 | 1mo |
@@ -653,7 +655,6 @@
 | **[Jump Trading](https://simplify.jobs/c/Jump-Trading?utm_source=GHList&utm_medium=company)** | Campus AI Researcher (Intern) | Chicago, IL</br>New York, NY | <div align="center"><a href="https://www.jumptrading.com/careers/7141699/?gh_jid=7141699&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 5d |
 | **NiCE** | AI Solutions Intern | Atlanta, GA | <div align="center"><a href="https://job-boards.eu.greenhouse.io/nice/jobs/4654114101?gh_jid=4654114101&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 5d |
 | **General Dynamics** | Intern Engineer | Fort Wayne, IN | <div align="center"><a href="https://gdmissionsystems.com/careers/intern-engineer-ft-wayne-in-usa-2025-66946-opportunity?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 5d |
-| **[Wells Fargo](https://simplify.jobs/c/Wells-Fargo?utm_source=GHList&utm_medium=company)** | Internship Risk Analytics and Decision Science (Masters) 🎓 | Charlotte, NC | <div align="center"><a href="https://wf.wd1.myworkdayjobs.com/en-US/wellsfargojobs/job/CHARLOTTE-NC/XMLNAME-2026-Quantitative-Analytics-Summer-Internship-Risk-Analytics-and-Decision-Science--Masters----Early-Careers_R-481505?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 6d |
 | **[🔥 Shopify](https://simplify.jobs/c/Shopify?utm_source=GHList&utm_medium=company)** | USA Engineering Internships 🛂 | Remote in USA | <div align="center"><a href="https://www.shopify.com/careers/usa-engineering-internships-summer-2026-usa_b2dbdf1e-ab44-46ed-9a11-69a1a1e4b20c?keyword=intern&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 6d |
 | **[Wells Fargo](https://simplify.jobs/c/Wells-Fargo?utm_source=GHList&utm_medium=company)** | Risk Analytics and Decision Science (PhD) 🎓 | Charlotte, NC | <div align="center"><a href="https://wf.wd1.myworkdayjobs.com/en-US/wellsfargojobs/job/CHARLOTTE-NC/XMLNAME-2026-Quantitative-Analytics-Summer-Internship-Risk-Analytics-and-Decision-Science--PhD----Early-Careers_R-481497?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 6d |
 | **[Jump Trading](https://simplify.jobs/c/Jump-Trading?utm_source=GHList&utm_medium=company)** | Campus Tech Ops Engineer | Chicago, IL | <div align="center"><a href="https://www.jumptrading.com/careers/7077897/?gh_jid=7077897&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 11d |
