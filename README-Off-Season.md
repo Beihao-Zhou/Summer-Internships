@@ -786,7 +786,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Live Nation Entertainment](https://simplify.jobs/c/Live-Nation-Entertainment?utm_source=GHList&utm_medium=company)** | Software Engineer Intern | Remote in USA | 🔒 | 16mo |
 | **[Tubi](https://simplify.jobs/c/Tubi?utm_source=GHList&utm_medium=company)** | Product Distribution Intern - Undergraduate | Remote in USA | 🔒 | 16mo |
 | **[Intel](https://simplify.jobs/c/Intel?utm_source=GHList&utm_medium=company)** | Engineering Undergraduate Intern - Computer Systems Architecture | Chandler, AZ | 🔒 | 16mo |
-| **[Astranis](https://simplify.jobs/c/Astranis?utm_source=GHList&utm_medium=company)** | Flight Software Engineer - Associate Program - Fall 2024 | SF | 🔒 | 16mo |
+| **[Astranis](https://simplify.jobs/c/Astranis?utm_source=GHList&utm_medium=company)** | Flight Software Engineer - Associate Program - Fall 2024 | SF | 🔒 | 17mo |
 | **[Dell Technologies](https://simplify.jobs/c/Dell-Technologies?utm_source=GHList&utm_medium=company)** | Global Industries Intern - UK | Glasgow, UK | 🔒 | 17mo |
 | **[Oshkosh](https://simplify.jobs/c/Oshkosh?utm_source=GHList&utm_medium=company)** | Youth Apprentice - Logistics/Materials | Appleton, WI | 🔒 | 17mo |
 | **[Astranis](https://simplify.jobs/c/Astranis?utm_source=GHList&utm_medium=company)** | Electrical Integration Engineer – Intern - Fall 2024 | SF | 🔒 | 17mo |
