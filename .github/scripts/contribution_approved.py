@@ -97,7 +97,6 @@ def getData(body, is_edit, username):
     if not category_provided:
         if not is_edit and "title" in data:
             # For new internships, try to classify by title
-            import util
             data["category"] = util.classifyJobCategory(data)
         elif not is_edit:
             # Default to "Other" for new internships if no title available
