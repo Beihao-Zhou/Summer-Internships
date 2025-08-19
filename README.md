@@ -78,7 +78,7 @@
 
 ## 💻 Software Engineering Internship Roles
 
-[Back to top](#summer-2025-tech-internships-by-pitt-csc--simplify)
+[Back to top](#summer-2026-tech-internships-by-pitt-csc--simplify)
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
@@ -330,7 +330,7 @@
 
 ## 📱 Product Management Internship Roles
 
-[Back to top](#summer-2025-tech-internships-by-pitt-csc--simplify)
+[Back to top](#summer-2026-tech-internships-by-pitt-csc--simplify)
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
@@ -341,7 +341,7 @@
 
 ## 🤖 Data Science, AI & Machine Learning Internship Roles
 
-[Back to top](#summer-2025-tech-internships-by-pitt-csc--simplify)
+[Back to top](#summer-2026-tech-internships-by-pitt-csc--simplify)
 
 > 📄 Here's the [resume template](https://docs.google.com/document/d/1azvJt51U2CbpvyO0ZkICqYFDhzdfGxU_lsPQTGhsn94/edit?usp=sharing) used by Stanford CS and Pitt CSC for internship prep.
 
@@ -486,7 +486,7 @@
 
 ## 📈 Quantitative Finance Internship Roles
 
-[Back to top](#summer-2025-tech-internships-by-pitt-csc--simplify)
+[Back to top](#summer-2026-tech-internships-by-pitt-csc--simplify)
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
@@ -576,7 +576,7 @@
 
 ## 🔧 Hardware Engineering Internship Roles
 
-[Back to top](#summer-2025-tech-internships-by-pitt-csc--simplify)
+[Back to top](#summer-2026-tech-internships-by-pitt-csc--simplify)
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
@@ -640,7 +640,7 @@
 
 ## 💼 Other Internship Roles
 
-[Back to top](#summer-2025-tech-internships-by-pitt-csc--simplify)
+[Back to top](#summer-2026-tech-internships-by-pitt-csc--simplify)
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |

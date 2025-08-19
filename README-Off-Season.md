@@ -61,7 +61,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ## 💻 Software Engineering Internship Roles
 
-[Back to top](#summer-2025-tech-internships-by-pitt-csc--simplify)
+[Back to top](#summer-2026-tech-internships-by-pitt-csc--simplify)
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
@@ -820,7 +820,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ## 📱 Product Management Internship Roles
 
-[Back to top](#summer-2025-tech-internships-by-pitt-csc--simplify)
+[Back to top](#summer-2026-tech-internships-by-pitt-csc--simplify)
 
 <details>
 <summary>🗃️ Inactive roles (3)</summary>
@@ -838,7 +838,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ## 🤖 Data Science, AI & Machine Learning Internship Roles
 
-[Back to top](#summer-2025-tech-internships-by-pitt-csc--simplify)
+[Back to top](#summer-2026-tech-internships-by-pitt-csc--simplify)
 
 > 📄 Here's the [resume template](https://docs.google.com/document/d/1azvJt51U2CbpvyO0ZkICqYFDhzdfGxU_lsPQTGhsn94/edit?usp=sharing) used by Stanford CS and Pitt CSC for internship prep.
 
@@ -923,7 +923,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | ------- | ---- | -------- | ------ | -- |
 | **[Hitachi](https://simplify.jobs/c/Hitachi?utm_source=GHList&utm_medium=company)** | PMO Analyst and Business Intelligence Intern | Toronto, ON, Canada | 🔒 | 3d |
 | **[ABB](https://simplify.jobs/c/ABB?utm_source=GHList&utm_medium=company)** | Data Scientist & AI Intern | Morrisville, NC | 🔒 | 4d |
-| **[Nokia](https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company)** | Database Software Developer Co-op | Remote in USA | 🔒 | 6d |
+| **[Nokia](https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company)** | Database Software Developer Co-op | Remote in USA | 🔒 | 7d |
 | **[WGU](https://simplify.jobs/c/e05ef31f-f120-4063-adad-2b2fdde995cb?utm_source=GHList&utm_medium=company)** | Intern – Technical | Salt Lake City, UT | 🔒 | 10d |
 | **[Harris Computer](https://simplify.jobs/c/372c6250-89ed-4b8e-9000-a81fc94184d8?utm_source=GHList&utm_medium=company)** | Software Developer – Co-op/Intern | Remote in Canada | 🔒 | 10d |
 | **[Cognitiv](https://simplify.jobs/c/Cognitiv?utm_source=GHList&utm_medium=company)** | Machine Learning Engineer Intern | San Mateo, CA | 🔒 | 11d |
@@ -1194,7 +1194,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ## 📈 Quantitative Finance Internship Roles
 
-[Back to top](#summer-2025-tech-internships-by-pitt-csc--simplify)
+[Back to top](#summer-2026-tech-internships-by-pitt-csc--simplify)
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
@@ -1240,7 +1240,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ## 🔧 Hardware Engineering Internship Roles
 
-[Back to top](#summer-2025-tech-internships-by-pitt-csc--simplify)
+[Back to top](#summer-2026-tech-internships-by-pitt-csc--simplify)
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
@@ -1433,7 +1433,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ## 💼 Other Internship Roles
 
-[Back to top](#summer-2025-tech-internships-by-pitt-csc--simplify)
+[Back to top](#summer-2026-tech-internships-by-pitt-csc--simplify)
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |

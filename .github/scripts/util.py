@@ -244,7 +244,7 @@ def create_category_table(listings, category_name):
 
     emoji = next((cat["emoji"] for cat in CATEGORIES.values() if cat["name"] == category_name), "")
     header = f"\n\n## {emoji} {category_name} Internship Roles\n\n"
-    header += "[Back to top](#summer-2025-tech-internships-by-pitt-csc--simplify)\n\n"
+    header += "[Back to top](#summer-2026-tech-internships-by-pitt-csc--simplify)\n\n"
 
     # Optional callout under Data Science section
     if category_name == "Data Science, AI & Machine Learning":
