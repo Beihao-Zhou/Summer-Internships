@@ -15,7 +15,16 @@ def add_https_to_url(url):
 def getData(body, is_edit, username):
     lines = [text.strip("# ") for text in re.split('[\n\r]+', body)]
     
+    # For new internships, set defaults. For edits, only set updated timestamp
     data = {"date_updated": int(datetime.now().timestamp())}
+    
+    # Only set defaults for new internships, not edits
+    if not is_edit:
+        data.update({
+            "sponsorship": "Offers Sponsorship",  # Default to offering sponsorship
+            "active": True,  # Default value
+            "degrees": ["Bachelor's"],  # Default degree requirement
+        })
     
     # Parse all fields using content-based approach
     for i, line in enumerate(lines):
@@ -47,39 +56,76 @@ def getData(body, is_edit, username):
         # Sponsorship
         elif "Does this internship offer sponsorship?" in line:
             if i + 1 < len(lines) and "no response" not in lines[i + 1].lower():
-                data["sponsorship"] = "Other"
+                # Check for specific sponsorship options
+                found_option = False
                 for option in ["Offers Sponsorship", "Does Not Offer Sponsorship", "U.S. Citizenship is Required"]:
                     if option in lines[i + 1]:
                         data["sponsorship"] = option
+                        found_option = True
+                        break
+                # If no specific option found, assume "Other"
+                if not found_option:
+                    data["sponsorship"] = "Other"
+            # For edits with no response, don't change existing sponsorship
         
         # Active status
         elif (is_edit and "Is this internship still accepting applications?" in line) or \
              (not is_edit and "Is this internship currently accepting applications?" in line):
-            if i + 1 < len(lines) and "none" not in lines[i + 1].lower():
-                data["active"] = "yes" in lines[i + 1].lower()
+            if i + 1 < len(lines):
+                response = lines[i + 1].lower()
+                if "no response" not in response:
+                    # User provided an answer, use it
+                    data["active"] = "yes" in response
+                elif not is_edit:
+                    # For new internships, if no response, default to True
+                    data["active"] = True
+                # For edits, if no response, don't change existing value
     
     # Handle category selection and advanced degree requirements
     # Use a more robust approach to find the right lines by content
     
     # Find category line
+    category_provided = False
     for i, line in enumerate(lines):
-        if "What category does this internship belong to?" in line or "category" in line.lower():
+        if "What category does this internship belong to?" in line:
             if i + 1 < len(lines) and "no response" not in lines[i + 1].lower():
                 data["category"] = lines[i + 1]
+                category_provided = True
             break
     
+    # If no category provided, use title-based classification or default to "Other"
+    if not category_provided:
+        if not is_edit and "title" in data:
+            # For new internships, try to classify by title
+            import util
+            data["category"] = util.classifyJobCategory(data)
+        elif not is_edit:
+            # Default to "Other" for new internships if no title available
+            data["category"] = "Other"
+        # For edits, don't change category if not provided
+    
     # Find advanced degree requirements
+    advanced_degree_provided = False
     advanced_degree_checked = False
     for i, line in enumerate(lines):
         if "Advanced Degree Requirements" in line:
             # Look for checkbox in next few lines
             for j in range(i + 1, min(i + 4, len(lines))):
-                if j < len(lines) and "[x]" in lines[j].lower():
-                    advanced_degree_checked = True
-                    break
+                if j < len(lines):
+                    if "[x]" in lines[j].lower():
+                        advanced_degree_checked = True
+                        advanced_degree_provided = True
+                        break
+                    elif "no response" not in lines[j].lower():
+                        # Checkbox was explicitly unchecked
+                        advanced_degree_provided = True
+                        break
             break
     
-    data["degrees"] = ["Master's"] if advanced_degree_checked else ["Bachelor's"]
+    # Only set degrees if provided or for new internships
+    if advanced_degree_provided:
+        data["degrees"] = ["Master's"] if advanced_degree_checked else ["Bachelor's"]
+    # For edits without degree info, don't change existing degrees
     
     # Find email (look for the line after "Email associated with your GitHub account")
     email = "_no response_"
