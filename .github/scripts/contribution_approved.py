@@ -32,12 +32,52 @@ def getData(body, is_edit, username):
         for option in ["Offers Sponsorship", "Does Not Offer Sponsorship", "U.S. Citizenship is Required"]:
             if option in lines[11]:
                 data["sponsorship"] = option
-    if "none" not in lines[13].lower():
-        data["active"] = "yes" in lines[13].lower()
+    # Handle active status - line numbers differ between new and edit forms
     if is_edit:
-        data["is_visible"] = "[x]" not in lines[15].lower()
-
-    email = lines[17 if is_edit else 15].lower()
+        if "none" not in lines[19].lower():
+            data["active"] = "yes" in lines[19].lower()
+    else:
+        if "none" not in lines[13].lower():
+            data["active"] = "yes" in lines[13].lower()
+    
+    # Handle category selection and advanced degree requirements
+    # Use a more robust approach to find the right lines by content
+    
+    # Find category line
+    for i, line in enumerate(lines):
+        if "What category does this internship belong to?" in line or "category" in line.lower():
+            if i + 1 < len(lines) and "no response" not in lines[i + 1].lower():
+                data["category"] = lines[i + 1]
+            break
+    
+    # Find advanced degree requirements
+    advanced_degree_checked = False
+    for i, line in enumerate(lines):
+        if "Advanced Degree Requirements" in line:
+            # Look for checkbox in next few lines
+            for j in range(i + 1, min(i + 4, len(lines))):
+                if j < len(lines) and "[x]" in lines[j].lower():
+                    advanced_degree_checked = True
+                    break
+            break
+    
+    data["degrees"] = ["Master's"] if advanced_degree_checked else ["Bachelor's"]
+    
+    # Find email (look for the line after "Email associated with your GitHub account")
+    email = "_no response_"
+    for i, line in enumerate(lines):
+        if "Email associated with your GitHub account" in line:
+            if i + 1 < len(lines):
+                email = lines[i + 1]
+            break
+    
+    if is_edit:
+        # Find the remove checkbox
+        for i, line in enumerate(lines):
+            if "Permanently remove this internship from the list?" in line:
+                if i + 1 < len(lines):
+                    data["is_visible"] = "[x]" not in lines[i + 1].lower()
+                break
     if "no response" not in email:
         util.setOutput("commit_email", email)
         util.setOutput("commit_username", username)
