@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 451 Internship Roles by Category
+### Browse 452 Internship Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-internship-roles)** (238)
+💻 **[Software Engineering](#-software-engineering-internship-roles)** (239)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (115)
 
@@ -74,6 +74,7 @@
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
+| **[Walmart](https://simplify.jobs/c/Walmart?utm_source=GHList&utm_medium=company)** | 2025 Intern Conversion: 2026 FT Software Engineer II | Sunnyvale, CA | <div align="center"><a href="https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Sunnyvale-CA/XMLNAME-2025-Intern-Conversion--2026-FT-Software-Engineer-II---Sunnyvale--CA_R-2250550-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/e9c858c3-bc85-4c52-9fc1-0d42544907cd?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[Chamberlain Group](https://simplify.jobs/c/Chamberlain-Group?utm_source=GHList&utm_medium=company)** | Intern – Myq Middleware | Western Springs, IL | <div align="center"><a href="https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Intern--myQ-Middleware--Summer-2026-_JR29288?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/9641022f-9d9a-489d-a2e4-37f94d966446?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | ↳ | Intern – Myq Front End Developer - Android or iOS | Western Springs, IL | <div align="center"><a href="https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Intern--myQ-Front-End-Developer--Android-or-iOS---Summer-2026-_JR29298?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/ca78020b-a0c8-4bb4-9a33-d7f0e6c2ac30?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[Freddie Mac](https://simplify.jobs/c/Freddie-Mac?utm_source=GHList&utm_medium=company)** | Technology Intern | McLean, VA | <div align="center"><a href="https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Technology-Intern_JR16008?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/2695e41c-4842-41f8-863a-d672db9727bf?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
