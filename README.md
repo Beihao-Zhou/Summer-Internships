@@ -561,10 +561,11 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (4)</summary>
+<summary>🗃️ Inactive roles (5)</summary>
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
+| **[Wells Fargo](https://simplify.jobs/c/Wells-Fargo?utm_source=GHList&utm_medium=company)** | Internship Risk Analytics and Decision Science (Masters) 🎓 | Charlotte, NC | 🔒 | 6d |
 | **[U.S. Bank](https://simplify.jobs/c/US-Bank?utm_source=GHList&utm_medium=company)** | Capital Markets Summer Intern-Investment Grade Sales & Trading | Charlotte, NC | 🔒 | 14d |
 | **[Five Rings Capital](https://simplify.jobs/c/Five-Rings?utm_source=GHList&utm_medium=company)** | Summer Intern - Quantitative Research Analyst | NYC | 🔒 | 28d |
 | **[Walleye Capital](https://simplify.jobs/c/Walleye-Capital?utm_source=GHList&utm_medium=company)** | Risk Quant Research Intern | New York, NY | 🔒 | 1mo |
@@ -677,16 +678,6 @@
 | **[Stevens Capital Management LP](https://simplify.jobs/c/SCM?utm_source=GHList&utm_medium=company)** | Developer Intern | Radnor, PA | <div align="center"><a href="https://job-boards.greenhouse.io/scm/jobs/721888?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 1mo |
 | **[Bank of America](https://simplify.jobs/c/043a00ac-6fd9-4afc-991a-4d845205ab9a?utm_source=GHList&utm_medium=company)** | Global Operations Development Summer Analyst Program 🛂 | <details><summary>**4 locations**</summary>Charlotte, North Carolina</br>Dallas, Texas</br>Jacksonville, Florida</br>Phoenix, Arizona</details> | <div align="center"><a href="https://careers.bankofamerica.com/en-us/students/job-detail/12924/global-operations-development-summer-analyst-program-2026-multiple-locations?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 1mo |
 
-
-<details>
-<summary>🗃️ Inactive roles (1)</summary>
-
-| Company | Role | Location | Application | Age |
-| ------- | ---- | -------- | ------ | -- |
-| **[Wells Fargo](https://simplify.jobs/c/Wells-Fargo?utm_source=GHList&utm_medium=company)** | Internship Risk Analytics and Decision Science (Masters) 🎓 | Charlotte, NC | 🔒 | 6d |
-
-
-</details>
 
   <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
   [⬆️ Back to Top ⬆️](https://github.com/SimplifyJobs/Summer2026-Internships#the-list-)
