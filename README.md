@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 452 Internship Roles by Category
+### Browse 451 Internship Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-internship-roles)** (237)
+💻 **[Software Engineering](#-software-engineering-internship-roles)** (236)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (116)
 
@@ -125,7 +125,6 @@
 | **[PDT Partners](https://simplify.jobs/c/PDT-Partners?utm_source=GHList&utm_medium=company)** | Software Engineering Internship | New York, NY | <div align="center"><a href="https://job-boards.greenhouse.io/pdtpartners/jobs/7073180?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/a2911035-3a66-4719-ab56-55f7c142ce93?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 4d |
 | **[Domo](https://simplify.jobs/c/Domo?utm_source=GHList&utm_medium=company)** | Software Engineer | American Fork, UT | <div align="center"><a href="https://job-boards.greenhouse.io/domo/jobs/7099526?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/fe4e7ffc-53c2-47b3-a6c2-9a3877197d7e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 4d |
 | **[GlobalFoundries](https://simplify.jobs/c/GlobalFoundries?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Malta, NY | <div align="center"><a href="https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Software-Engineering-Intern--Summer-2026-_JR-2502857?src=JB-10100%E2%80%89%E2%80%89%E2%80%89%E2%80%89%E2%80%89&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 4d |
-| **[Sonic Healthcare USA](https://simplify.jobs/c/Sonic-Healthcare-USA?utm_source=GHList&utm_medium=company)** | Cache Software Development Intern | Dallas, TX | <div align="center"><a href="https://shusa.wd5.myworkdayjobs.com/en-US/External/job/Dallas-TX/Cache-Software-Development_REQ-033017?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 4d |
 | **[Microsoft](https://simplify.jobs/c/Microsoft?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Redmond, WA | <div align="center"><a href="https://jobs.careers.microsoft.com/global/en/job/1860947?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 4d |
 | **[Citadel](https://simplify.jobs/c/Citadel?utm_source=GHList&utm_medium=company)** | Software Engineer – Intern | London, UK | <div align="center"><a href="https://www.citadel.com/careers/details/software-engineer-intern-europe/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/1ea0ca0e-e61d-4b8d-92fd-4a97c6ba9d82?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 5d |
 | **[Tower Research Capital](https://simplify.jobs/c/Tower-Research-Capital?utm_source=GHList&utm_medium=company)** | Stagiaire en développement de logiciels – / Software Developer Intern | Montreal, QC, Canada | <div align="center"><a href="https://www.tower-research.com/open-positions/?gh_jid=6653745&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/e7e30283-df3c-4082-b2b8-84380b809798?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 5d |
