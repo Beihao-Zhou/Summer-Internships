@@ -15,30 +15,48 @@ def add_https_to_url(url):
 def getData(body, is_edit, username):
     lines = [text.strip("# ") for text in re.split('[\n\r]+', body)]
     
-    # ["Company Name", "_No response_", "Internship Title", "_No response_", "Link to Internship Posting", "example.com/link/to/posting", "Locatio", "San Franciso, CA | Austin, TX | Remote" ,"What term(s) is this internship offered for?", "_No response_"]
     data = {"date_updated": int(datetime.now().timestamp())}
-    if "no response" not in lines[1].lower():
-        data["url"] = add_https_to_url(lines[1].strip())
-    if "no response" not in lines[3].lower():
-        data["company_name"] = lines[3]
-    if "no response" not in lines[5].lower():
-        data["title"] = lines[5]
-    if "no response" not in lines[7].lower():
-        data["locations"] = [line.strip() for line in lines[7].split("|")]
-    if "no response" not in lines[9].lower():
-        data["terms"] = [line.strip() for line in lines[9].split(",")]
-    if "no response" not in lines[11].lower():
-        data["sponsorship"] = "Other"
-        for option in ["Offers Sponsorship", "Does Not Offer Sponsorship", "U.S. Citizenship is Required"]:
-            if option in lines[11]:
-                data["sponsorship"] = option
-    # Handle active status - line numbers differ between new and edit forms
-    if is_edit:
-        if "none" not in lines[19].lower():
-            data["active"] = "yes" in lines[19].lower()
-    else:
-        if "none" not in lines[13].lower():
-            data["active"] = "yes" in lines[13].lower()
+    
+    # Parse all fields using content-based approach
+    for i, line in enumerate(lines):
+        # URL/Link
+        if "Link to Internship Posting" in line:
+            if i + 1 < len(lines) and "no response" not in lines[i + 1].lower():
+                data["url"] = add_https_to_url(lines[i + 1].strip())
+        
+        # Company Name
+        elif "Company Name" in line:
+            if i + 1 < len(lines) and "no response" not in lines[i + 1].lower():
+                data["company_name"] = lines[i + 1]
+        
+        # Title
+        elif "Internship Title" in line:
+            if i + 1 < len(lines) and "no response" not in lines[i + 1].lower():
+                data["title"] = lines[i + 1]
+        
+        # Location
+        elif "Location" in line and "Email" not in line:  # Avoid matching "Email location"
+            if i + 1 < len(lines) and "no response" not in lines[i + 1].lower():
+                data["locations"] = [loc.strip() for loc in lines[i + 1].split("|")]
+        
+        # Terms
+        elif "What term(s) is this internship offered for?" in line:
+            if i + 1 < len(lines) and "no response" not in lines[i + 1].lower():
+                data["terms"] = [term.strip() for term in lines[i + 1].split(",")]
+        
+        # Sponsorship
+        elif "Does this internship offer sponsorship?" in line:
+            if i + 1 < len(lines) and "no response" not in lines[i + 1].lower():
+                data["sponsorship"] = "Other"
+                for option in ["Offers Sponsorship", "Does Not Offer Sponsorship", "U.S. Citizenship is Required"]:
+                    if option in lines[i + 1]:
+                        data["sponsorship"] = option
+        
+        # Active status
+        elif (is_edit and "Is this internship still accepting applications?" in line) or \
+             (not is_edit and "Is this internship currently accepting applications?" in line):
+            if i + 1 < len(lines) and "none" not in lines[i + 1].lower():
+                data["active"] = "yes" in lines[i + 1].lower()
     
     # Handle category selection and advanced degree requirements
     # Use a more robust approach to find the right lines by content
