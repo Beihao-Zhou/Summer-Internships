@@ -81,9 +81,7 @@ def getData(body, is_edit, username):
                     data["active"] = True
                 # For edits, if no response, don't change existing value
     
-    # Handle category selection and advanced degree requirements
-    # Use a more robust approach to find the right lines by content
-    
+    # Parse remaining fields after all basic fields are done
     # Find category line
     category_provided = False
     for i, line in enumerate(lines):
@@ -92,16 +90,6 @@ def getData(body, is_edit, username):
                 data["category"] = lines[i + 1]
                 category_provided = True
             break
-    
-    # If no category provided, use title-based classification or default to "Other"
-    if not category_provided:
-        if not is_edit and "title" in data:
-            # For new internships, try to classify by title
-            data["category"] = util.classifyJobCategory(data)
-        elif not is_edit:
-            # Default to "Other" for new internships if no title available
-            data["category"] = "Other"
-        # For edits, don't change category if not provided
     
     # Find advanced degree requirements
     advanced_degree_provided = False
@@ -125,6 +113,16 @@ def getData(body, is_edit, username):
     if advanced_degree_provided:
         data["degrees"] = ["Master's"] if advanced_degree_checked else ["Bachelor's"]
     # For edits without degree info, don't change existing degrees
+    
+    # Handle category after all fields are parsed
+    if not category_provided:
+        if not is_edit and "title" in data:
+            # For new internships, try to classify by title
+            data["category"] = util.classifyJobCategory(data)
+        elif not is_edit:
+            # Default to "Other" for new internships if no title available
+            data["category"] = "Other"
+        # For edits, don't change category if not provided
     
     # Find email (look for the line after "Email associated with your GitHub account")
     email = "_no response_"
