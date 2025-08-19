@@ -1317,7 +1317,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[St. Jude Children's Research Hospital](https://simplify.jobs/c/St-Jude-Childrens-Research-Hospital?utm_source=GHList&utm_medium=company)** | Intern – Data Science | Remote in USA</br>Memphis, TN | 🔒 | 2mo |
 | **[Comcast](https://simplify.jobs/c/Comcast?utm_source=GHList&utm_medium=company)** | Comcast Data Scientist Co-op | Philadelphia, PA | 🔒 | 2mo |
 | **[RTX](https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company)** | Services de pièces de rechange / Internship - Analyste de données - Data Analyst - Spare Parts Services | Longueuil, QC, Canada | 🔒 | 2mo |
-| **[RTX](https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company)** | Stage – Centre Priorité Clients / Internship - Customer First Centre-Technical helpdesk | Longueuil, QC, Canada | 🔒 | 2mo |
+| ↳ | Stage – Centre Priorité Clients / Internship - Customer First Centre-Technical helpdesk | Longueuil, QC, Canada | 🔒 | 2mo |
 | **[RTX](https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company)** | Analyste systèmes d’affaires et transformation - Analyst Business Systems and Transformation | Longueuil, QC, Canada | 🔒 | 2mo |
 | **[Wealthsimple](https://simplify.jobs/c/Wealthsimple?utm_source=GHList&utm_medium=company)** | Intern – Data Science | Toronto, ON, Canada | 🔒 | 2mo |
 | **[FOX](https://simplify.jobs/c/Fox?utm_source=GHList&utm_medium=company)** | Fall 2025 FOX News Media Internship Program - Data Analytics | New York, NY | 🔒 | 3mo |
@@ -1667,7 +1667,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | ------- | ---- | -------- | ------ | -- |
 | **[Nokia](https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company)** | Firmware Engineering Co-op/Intern | Ottawa, ON, Canada | 🔒 | 5d |
 | **[NXP Semiconductors](https://simplify.jobs/c/91edf47c-f010-430e-8558-5c1fbb365984?utm_source=GHList&utm_medium=company)** | Digital Verification Intern | Chandler, AZ | 🔒 | 21d |
-| **[Geotab](https://simplify.jobs/c/Geotab?utm_source=GHList&utm_medium=company)** | Embedded Developer Intern - Platform Reliability & Security | Oakville, ON, Canada | 🔒 | 23d |
+| **[Geotab](https://simplify.jobs/c/Geotab?utm_source=GHList&utm_medium=company)** | Embedded Developer Intern - Platform Reliability & Security | Oakville, ON, Canada | 🔒 | 24d |
 | **[Intel](https://simplify.jobs/c/Intel?utm_source=GHList&utm_medium=company)** | System Simulation Engineering Co-op | Remote in Canada | 🔒 | 26d |
 | **[Tenstorrent](https://simplify.jobs/c/Tenstorrent?utm_source=GHList&utm_medium=company)** | Physical Design Intern - CPU/AI Hardware | Austin, TX</br>Santa Clara, CA | 🔒 | 30d |
 | **[Intel](https://simplify.jobs/c/Intel?utm_source=GHList&utm_medium=company)** | Firmware Development Engineer Co-op | Remote in Canada | 🔒 | 1mo |
