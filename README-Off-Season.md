@@ -326,7 +326,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Leidos](https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company)** | Software Engineer Intern | Tewksbury, MA | 🔒 | 5mo |
 | **[Copart](https://simplify.jobs/c/Copart?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Dallas, TX | 🔒 | 5mo |
 | **[GE Aerospace](https://simplify.jobs/c/GE-Aerospace?utm_source=GHList&utm_medium=company)** | GE Aerospace Engineering Engines Computer or Software Engineering Intern | Saugus, MA</br>Cincinnati, OH | 🔒 | 5mo |
-| **[GE Aerospace](https://simplify.jobs/c/GE-Aerospace?utm_source=GHList&utm_medium=company)** | Engineering Engines Co-op - Computer or Software Engineering - Returning Students | Saugus, MA</br>Cincinnati, OH | 🔒 | 5mo |
+| ↳ | Engineering Engines Co-op - Computer or Software Engineering - Returning Students | Saugus, MA</br>Cincinnati, OH | 🔒 | 5mo |
 | ↳ | Engineering Engines Co-op - Computer or Software Engineering - Returning Students | Saugus, MA</br>Cincinnati, OH | 🔒 | 5mo |
 | ↳ | GE Aerospace Engineering Engines Computer or Software Engineering Intern - Returning Students | Saugus, MA</br>Cincinnati, OH | 🔒 | 5mo |
 | **[Leidos](https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company)** | Software Engineer Intern | St. Petersburg, FL | 🔒 | 5mo |
@@ -455,7 +455,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **Knead** | Fintech Startup Frontend Developer | Remote | 🔒 | 10mo |
 | **[Teleo](https://simplify.jobs/c/Teleo?utm_source=GHList&utm_medium=company)** | Software Integration Engineering Internship/Co-op - Winter/Spring 2025 | Palo Alto, CA | 🔒 | 10mo |
 | **[Taboola](https://simplify.jobs/c/Taboola?utm_source=GHList&utm_medium=company)** | Frontend Engineer Intern | LA | 🔒 | 10mo |
-| ↳ | Frontend Engineer Intern | LA | 🔒 | 10mo |
+| **[Taboola](https://simplify.jobs/c/Taboola?utm_source=GHList&utm_medium=company)** | Frontend Engineer Intern | LA | 🔒 | 10mo |
 | **[🔥 Snowflake](https://simplify.jobs/c/Snowflake?utm_source=GHList&utm_medium=company)** | Software Engineer Intern - Toronto - Spring 2025 | Toronto, ON, Canada | 🔒 | 10mo |
 | **[Live Ramp](https://simplify.jobs/c/Live-Ramp?utm_source=GHList&utm_medium=company)** | Software Engineer Co - Op | SF | 🔒 | 10mo |
 | **[EUNA Solutions](https://simplify.jobs/c/86636c38-0e05-4ec1-b699-ea03e743f151?utm_source=GHList&utm_medium=company)** | Software Developer Co-Op - React/Nodejs | Remote in USA | 🔒 | 10mo |
@@ -1519,7 +1519,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Rockwell Automation](https://simplify.jobs/c/Rockwell-Automation?utm_source=GHList&utm_medium=company)** | Intern – Hardware Development Test | Mequon, WI | 🔒 | 17mo |
 | **[Western Digital](https://simplify.jobs/c/Western-Digital?utm_source=GHList&utm_medium=company)** | Co-Op – SSD Firmware Development - Minnesota | Rochester, MN | 🔒 | 18mo |
 | **[Western Digital](https://simplify.jobs/c/Western-Digital?utm_source=GHList&utm_medium=company)** | Advanced Manufacturing Apprentice | Fremont, CA | 🔒 | 18mo |
-| **[Western Digital](https://simplify.jobs/c/Western-Digital?utm_source=GHList&utm_medium=company)** | Advanced Manufacturing Apprentice | Fremont, CA | 🔒 | 18mo |
+| ↳ | Advanced Manufacturing Apprentice | Fremont, CA | 🔒 | 18mo |
 | **[Western Digital](https://simplify.jobs/c/Western-Digital?utm_source=GHList&utm_medium=company)** | Advanced Manufacturing Apprentice | Fremont, CA | 🔒 | 18mo |
 | ↳ | Advanced Manufacturing Apprentice | Fremont, CA | 🔒 | 18mo |
 | **[Anduril](https://simplify.jobs/c/Anduril?utm_source=GHList&utm_medium=company)** | Fpga – Engineer Co-op - Firmware | Lexington, MA | 🔒 | 20mo |
