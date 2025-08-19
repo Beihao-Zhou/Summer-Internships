@@ -772,6 +772,16 @@
 | **[Bank of America](https://simplify.jobs/c/043a00ac-6fd9-4afc-991a-4d845205ab9a?utm_source=GHList&utm_medium=company)** | Global Operations Development Summer Analyst Program 🛂 | <details><summary>**4 locations**</summary>Charlotte, North Carolina</br>Dallas, Texas</br>Jacksonville, Florida</br>Phoenix, Arizona</details> | <div align="center"><a href="https://careers.bankofamerica.com/en-us/students/job-detail/12924/global-operations-development-summer-analyst-program-2026-multiple-locations?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 1mo |
 
 
+<details>
+<summary>🗃️ Inactive roles (1)</summary>
+
+| Company | Role | Location | Application | Age |
+| ------- | ---- | -------- | ------ | -- |
+| **[Magna](https://simplify.jobs/c/Magna?utm_source=GHList&utm_medium=company)** | IT Co-op Student | Newmarket, ON, Canada | 🔒 | 1d |
+
+
+</details>
+
   <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
   [⬆️ Back to Top ⬆️](https://github.com/SimplifyJobs/Summer2026-Internships#the-list-)
 

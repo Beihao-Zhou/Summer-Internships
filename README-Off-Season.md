@@ -10,7 +10,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 338 Internship Roles by Category
+### Browse 337 Internship Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-internship-roles)** (61)
 
@@ -22,7 +22,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 🔧 **[Hardware Engineering](#-hardware-engineering-internship-roles)** (41)
 
-💼 **[Other](#-other-internship-roles)** (58)
+💼 **[Other](#-other-internship-roles)** (57)
 
 ---
 
@@ -1566,7 +1566,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
 | **[Chime](https://simplify.jobs/c/Chime?utm_source=GHList&utm_medium=company)** | IT Helpdesk Intern | SF | <div align="center"><a href="https://boards.greenhouse.io/chime/jobs/8055176002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/51276a1d-aecb-494a-8f0e-fb05ec91bc3a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
-| **[Magna](https://simplify.jobs/c/Magna?utm_source=GHList&utm_medium=company)** | IT Co-op Student | Newmarket, ON, Canada | <div align="center"><a href="https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Aurora-Ontario-CA/IT-Co-op-Student_R00205619?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/8e39e7cd-fb7a-4013-8a9a-2b3f90e3da9d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1d |
 | **[MRC Global](https://simplify.jobs/c/MRC-Global?utm_source=GHList&utm_medium=company)** | IT Intern | Houston, TX | <div align="center"><a href="https://mrcglobal.wd1.myworkdayjobs.com/mrc_global_careers/job/Houston-Texas---Global-HQ-100012/IT-Intern_JR108072?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/b87487b4-0756-496e-abcf-a7c9a2617ffd?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 3d |
 | **[Roche](https://simplify.jobs/c/Roche?utm_source=GHList&utm_medium=company)** | Devsecops Intern 🎓 | Mississauga, ON, Canada | <div align="center"><a href="https://roche.wd3.myworkdayjobs.com/roche-ext/job/Mississauga/DevSecOps-Intern_202507-117687?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/eb39f25d-5691-476c-9323-80741ab944e7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 3d |
 | **[Roche](https://simplify.jobs/c/Roche?utm_source=GHList&utm_medium=company)** | Delivery Management Intern | Mississauga, ON, Canada | <div align="center"><a href="https://roche.wd3.myworkdayjobs.com/roche-ext/job/Mississauga/Delivery-Management-Intern_202507-118808?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/117b7ea1-48a5-455f-86fc-7cd935113ad3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 4d |
