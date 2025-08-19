@@ -74,8 +74,14 @@ def getData(body, is_edit, username):
             if i + 1 < len(lines):
                 response = lines[i + 1].lower().strip()
                 # Check if this is actually a "no response" in various forms
+                
+                no_variants = ["no"]
                 no_response_variants = ["no response", "_no response_", "none", "n/a", "na", ""]
-                if any(variant in response for variant in no_response_variants):
+                
+                if any(variant in response for variant in no_variants):
+                    data["active"] = False
+                
+                elif any(variant in response for variant in no_response_variants):
                     if not is_edit:
                         # For new internships, if no response, default to True
                         data["active"] = True
