@@ -323,7 +323,7 @@
 | **[DotDash Meredith](https://simplify.jobs/c/DotDash-Meredith?utm_source=GHList&utm_medium=company)** | Software Developer Intern | Alberta, Canada | 🔒 | 19d |
 | **Kimley Horn** | Software Developer Intern | Raleigh, NC | 🔒 | 19d |
 | **[CACI](https://simplify.jobs/c/CACI?utm_source=GHList&utm_medium=company)** | Software Development Intern | Dulles, VA | 🔒 | 19d |
-| **[Hewlett Packard (HP)](https://simplify.jobs/c/Hewlett-Packard?utm_source=GHList&utm_medium=company)** | Software Developer Internship | Spring, TX | 🔒 | 20d |
+| **[Hewlett Packard (HP)](https://simplify.jobs/c/Hewlett-Packard?utm_source=GHList&utm_medium=company)** | Software Developer Internship | Spring, TX | 🔒 | 21d |
 | **[Wells Fargo](https://simplify.jobs/c/Wells-Fargo?utm_source=GHList&utm_medium=company)** | 2025 Emerging Talent Apprentice - Lgcc | NYC | 🔒 | 29d |
 | **[Booz Allen](https://simplify.jobs/c/Booz-Allen?utm_source=GHList&utm_medium=company)** | University – Systems Engineer Intern | Fayetteville, NC | 🔒 | 1mo |
 | **[Capital One](https://simplify.jobs/c/Capital-One?utm_source=GHList&utm_medium=company)** | Product Development Internship Program 🛂 | Plano, TX McLean, VA | 🔒 | 1mo |
