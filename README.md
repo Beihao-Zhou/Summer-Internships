@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 545 Internship Roles by Category
+### Browse 546 Internship Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-internship-roles)** (215)
+💻 **[Software Engineering](#-software-engineering-internship-roles)** (216)
 
 📱 **[Product Management](#-product-management-internship-roles)** (28)
 
@@ -82,6 +82,7 @@
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
+| **[🔥 Figma](https://simplify.jobs/c/Figma?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | San Francisco, CA</br>New York, NY | <div align="center"><a href="https://job-boards.greenhouse.io/figma/jobs/5602159004?gh_jid=5602159004&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | **[American Express](https://simplify.jobs/c/American-Express?utm_source=GHList&utm_medium=company)** | Campus Graduate Summer Internship Program - 2026 Software Engineer - Technology 🎓 | NYC | <div align="center"><a href="https://aexp.eightfold.ai/careers/job/30702558?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/40e2795d-c6b5-4103-beb4-cbd81b1e9f43?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | ↳ | Campus Graduate Summer Internship Program - 2026 Software Engineer - Technology 🎓 | Plantation, FL | <div align="center"><a href="https://aexp.eightfold.ai/careers/job/30702553?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/287a2e39-556d-4469-8cf7-5d884bd23e76?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | ↳ | Campus Graduate Summer Internship Program - 2026 Software Engineer - Technology 🎓 | Phoenix, AZ | <div align="center"><a href="https://aexp.eightfold.ai/careers/job/30702548?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/001b4703-d924-4138-b1e2-6cfe66089562?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
