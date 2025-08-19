@@ -9,11 +9,11 @@
 
 ---
 
-### Browse 449 Internship Roles by Category
+### Browse 450 Internship Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-internship-roles)** (238)
 
-🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (113)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (114)
 
 📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (66)
 
@@ -360,6 +360,7 @@
 | ------- | ---- | -------- | ------ | -- |
 | **[Fifth Third Bank](https://simplify.jobs/c/Fifth-Third-Bank?utm_source=GHList&utm_medium=company)** | Enterprise Data Office Co-op | Cincinnati, OH | <div align="center"><a href="https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Enterprise-Data-Office-Co-op---Summer-2026_R61094?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/f3998e30-d49b-453e-9af6-14f7e4a7db1e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[Altice USA](https://simplify.jobs/c/Altice-USA?utm_source=GHList&utm_medium=company)** | Data Analytics Intern | Long Island City, Queens, NY | <div align="center"><a href="https://www.alticeusacareers.com/job/Long-Island-City-Data-Analytics-Intern-NY-11101/1315030200/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/5a97d900-056c-419c-8af4-e2d73104f77a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
+| **[Analytical Mechanics Associates](https://simplify.jobs/c/Analytical-Mechanics-Associates?utm_source=GHList&utm_medium=company)** | Disaster Response Coordination System Intern | Hampton, VA | <div align="center"><a href="https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Hampton-VA/Disaster-Response-Coordination-System-Intern_R-100358?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/26a0a1e4-8912-4fe7-9d4b-d08dffdcd094?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[Procter & Gamble (P&G)](https://simplify.jobs/c/Procter-Gamble-Company?utm_source=GHList&utm_medium=company)** | Data – & Data Engineering Internships - Analytics | Cincinnati, OH | <div align="center"><a href="https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Data--Analytics----Data-Engineering-Internships_R000137031?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/bb5fb980-00c8-4429-9a95-ee9449b292b5?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[The Walt Disney Company](https://simplify.jobs/c/Disney?utm_source=GHList&utm_medium=company)** | Walt Disney World Transportation Logistics & Analytics Intern | Celebration, FL | <div align="center"><a href="https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Transportation-Logistics---Analytics-Intern--Spring-2026_10129286?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/7660e5d2-40da-4127-b60b-36490497ad02?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[Goldman Sachs](https://simplify.jobs/c/1e8c5083-a2a3-4cb5-b517-47da9c7a9da2?utm_source=GHList&utm_medium=company)** | Corporate and Workplace Solutions - Summer Analyst | New York, NY | <div align="center"><a href="https://higher.gs.com/roles/150598?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 1d |
