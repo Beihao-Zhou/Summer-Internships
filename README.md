@@ -519,10 +519,11 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (16)</summary>
+<summary>🗃️ Inactive roles (17)</summary>
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
+| **[Hitachi Energy](https://simplify.jobs/c/83d28c1e-7f20-4aac-afd9-6bc8a468d7eb?utm_source=GHList&utm_medium=company)** | AI Research Science Intern | Santa Clara, CA | 🔒 | 0d |
 | **[Altice USA](https://simplify.jobs/c/Altice-USA?utm_source=GHList&utm_medium=company)** | Data Analytics Intern | Long Island City, Queens, NY | 🔒 | 1d |
 | **[GlobalFoundries](https://simplify.jobs/c/GlobalFoundries?utm_source=GHList&utm_medium=company)** | Process & Data Engineering Intern | Malta, NY | 🔒 | 4d |
 | **[KeyCorp](https://simplify.jobs/c/KeyCorp?utm_source=GHList&utm_medium=company)** | 2026 Summer Key's Technology – Internship - Operations & Services - Data Track | Brooklyn, OH | 🔒 | 5d |
