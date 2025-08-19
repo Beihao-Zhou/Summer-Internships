@@ -74,8 +74,8 @@ def getData(body, is_edit, username):
             if i + 1 < len(lines):
                 response = lines[i + 1].lower()
                 if "no response" not in response:
-                    # User provided an answer, use it
-                    data["active"] = "yes" in response
+                    # User provided an answer, use it - be more specific about what counts as "yes"
+                    data["active"] = response.strip().lower() in ["yes", "y"]
                 elif not is_edit:
                     # For new internships, if no response, default to True
                     data["active"] = True
