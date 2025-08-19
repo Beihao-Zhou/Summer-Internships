@@ -72,14 +72,17 @@ def getData(body, is_edit, username):
         elif (is_edit and "Is this internship still accepting applications?" in line) or \
              (not is_edit and "Is this internship currently accepting applications?" in line):
             if i + 1 < len(lines):
-                response = lines[i + 1].lower()
-                if "no response" not in response:
-                    # User provided an answer, use it - be more specific about what counts as "yes"
-                    data["active"] = response.strip().lower() in ["yes", "y"]
-                elif not is_edit:
-                    # For new internships, if no response, default to True
-                    data["active"] = True
-                # For edits, if no response, don't change existing value
+                response = lines[i + 1].lower().strip()
+                # Check if this is actually a "no response" in various forms
+                no_response_variants = ["no response", "_no response_", "none", "n/a", "na", ""]
+                if any(variant in response for variant in no_response_variants):
+                    if not is_edit:
+                        # For new internships, if no response, default to True
+                        data["active"] = True
+                    # For edits, if no response, don't change existing value
+                else:
+                    # User provided a real answer, use it - be more specific about what counts as "yes"
+                    data["active"] = response in ["yes", "y"]
     
     # Parse remaining fields after all basic fields are done
     # Find category line
