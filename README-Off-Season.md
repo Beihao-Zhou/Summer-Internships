@@ -10,9 +10,9 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 163 Internship Roles by Category
+### Browse 162 Internship Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-internship-roles)** (63)
+💻 **[Software Engineering](#-software-engineering-internship-roles)** (62)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (60)
 
@@ -100,7 +100,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Blockhouse](https://simplify.jobs/c/Blockhouse?utm_source=GHList&utm_medium=company)** | Crypto Quantitative Developer Internship | NYC | <div align="center"><a href="https://jobs.ashbyhq.com/blockhouse/551532d5-adc3-49a2-8bef-c94817bc5b84/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/55c10134-f464-473a-97a6-4347e9faec26?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 21d |
 | **[Magnet Forensics](https://simplify.jobs/c/Magnet-Forensics?utm_source=GHList&utm_medium=company)** | Software Developer Co-op | Ottawa, ON, Canada</br>Kitchener, ON, Canada | <div align="center"><a href="https://jobs.lever.co/magnetforensics/8e0e7fc8-c676-48d5-981e-361ca36e7ac4/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/36318218-be65-4bfa-8388-3059e57e2812?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 21d |
 | **[Fizz](https://simplify.jobs/c/Fizz-Social?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | NYC | <div align="center"><a href="https://jobs.ashbyhq.com/fizz/6ba63204-10ab-47d4-a991-259091d82053/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/2b9c6225-2cfa-4dea-8b2b-d48dbf13661a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 24d |
-| Rocket Lab | Software Intern Fall 2025 | Toronto, ON, Canada | <div align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/6542613003?gh_src=3ad4b3093us&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 27d |
 | **[LiveRamp](https://simplify.jobs/c/LiveRamp?utm_source=GHList&utm_medium=company)** | Software Engineer Co-Op | SF</br>NYC</br>North Little Rock, AR | <div align="center"><a href="https://liveramp.wd5.myworkdayjobs.com/en-US/LiveRampCareers/job/San-Francisco/Software-Engineer-Co-Op_JR011692?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/e5e0c406-a702-4e37-99b2-f95714b459f4?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 30d |
 | **[McKesson](https://simplify.jobs/c/McKesson?utm_source=GHList&utm_medium=company)** | Software & Database Development Intern | Mississauga, ON, Canada | <div align="center"><a href="https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/Software---Database-Development-Intern---Fall-2025_JR0133433-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/bcb6cd89-72ce-4d52-bfa0-348839aed02a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1mo |
 | Honeywell | Co-Op - Bachelors Software Eng (Fall 2025) | Mason, OH | <div align="center"><a href="https://careers.honeywell.com/en/sites/Honeywell/job/109972/?utm_medium=jobshare&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 1mo |
