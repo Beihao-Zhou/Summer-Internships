@@ -9,7 +9,7 @@
 
 ---
 
-### Browse 567 Internship Roles by Category
+### Browse 568 Internship Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-internship-roles)** (220)
 
@@ -21,7 +21,7 @@
 
 🔧 **[Hardware Engineering](#-hardware-engineering-internship-roles)** (41)
 
-💼 **[Other](#-other-internship-roles)** (67)
+💼 **[Other](#-other-internship-roles)** (68)
 
 ---
 
@@ -4173,6 +4173,13 @@
 <tbody>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company">🔥 ByteDance</a></strong></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Research Intern (AI/LLM Network) 🎓</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Seattle, WA</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://joinbytedance.com/search/7539992380817639687?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
+</tr>
+<tr>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">↳</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Research Intern (AI/LLM Network) 🎓</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">San Jose, CA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://joinbytedance.com/search/7539991964504017170?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
