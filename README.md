@@ -9,13 +9,13 @@
 
 ---
 
-### Browse 554 Internship Roles by Category
+### Browse 555 Internship Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-internship-roles)** (218)
 
 📱 **[Product Management](#-product-management-internship-roles)** (28)
 
-🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (134)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (135)
 
 📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (75)
 
@@ -460,7 +460,7 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Software Engineering Intern</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Redmond, WA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://jobs.careers.microsoft.com/global/en/job/1860947?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">5d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">6d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Citadel?utm_source=GHList&utm_medium=company">Citadel</a></strong></td>
@@ -960,74 +960,74 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">12d</td>
 </tr>
 <tr>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">↳</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">🔥 TikTok</a></strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Backend Software Engineer Intern - Tiktok-Social-Photo and Text - BS/MS</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">San Jose, CA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://lifeattiktok.com/search/7533130219693115655?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/8a4a0d96-2628-4e75-afae-2e9f7d28ecb6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">12d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">13d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">↳</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Backend Software Engineer Intern - Tiktok-Product Infrastructure-Customer Service Platform - BS/MS</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">San Jose, CA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://lifeattiktok.com/search/7533302395993426183?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/a4eeb749-26e5-40c9-80bc-8c300195632a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">12d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">13d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">↳</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Backend Software Engineer Intern - Tiktok-PGC-Ecosystem Platform - 2026 Summer - BS/MS</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Seattle, WA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://lifeattiktok.com/search/7533404385150470408?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/bac3b138-473e-426c-9f94-5f323517bb40?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">12d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">13d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">↳</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Backend Software Engineer Intern - Tiktok-Growth-Customer Lifecycle - BS/MS</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">San Jose, CA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://lifeattiktok.com/search/7532752999941949703?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/9a851a21-846e-41f1-9f0c-d409c869a2c4?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">12d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">13d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">↳</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Software Engineer Intern - Tiktok-Intelligent Creation-Creation Experience - 2026 Summer - BS/MS</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">San Jose, CA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://lifeattiktok.com/search/7533795446322383111?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/116eb43d-741b-427f-ae18-350eeb43f7ef?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">12d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">13d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">↳</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Software Engineer Intern - Tiktok-PGC-AI Platform</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">San Jose, CA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://lifeattiktok.com/search/7533106667609917703?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/b7179e54-c75a-422b-9e6c-7306ea8ba13b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">12d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">13d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">↳</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Software Engineer Intern - Experimentation & Evaluation - Data Platform</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">San Jose, CA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://lifeattiktok.com/search/7534793633532479751?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/13314b9f-3223-4972-bc98-92884e3c49c4?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">12d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">13d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">↳</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Mobile Software Engineer Intern - Tiktok-Intelligent Creation - 2026 Summer - BS/MS</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">San Jose, CA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://lifeattiktok.com/search/7532758054421530887?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/71773937-1082-44d7-a53e-95cd1ecac9d6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">12d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">13d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">↳</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Backend Software Engineer Intern - Tiktok-PGC-Monetization - 2026 Summer - BS/MS</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Seattle, WA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://lifeattiktok.com/search/7533096848266709266?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/4777948c-e970-420c-bec4-aaa6eaa917e6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">12d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">13d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company">🔥 ByteDance</a></strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Software Engineer Intern - Payment Risk - Global Payment - BS/MS</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">San Jose, CA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://jobs.bytedance.com/en/position/7533003732948175112/detail?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/e67389e6-900e-4123-96d5-f9ad505ed5e0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">12d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">13d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Jump-Trading?utm_source=GHList&utm_medium=company">Jump Trading</a></strong></td>
@@ -1293,14 +1293,14 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Software Engineering Intern</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">North Haven, CT</br>Lafayette, CO</br>Minneapolis, MN</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/North-Haven-Connecticut-United-States-of-America/Software-Engineering-Intern---Summer-2026_R40546-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/65cba1ba-e064-47df-85a7-e8ae7fa2d2d3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">18d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">19d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Chase?utm_source=GHList&utm_medium=company">Chase</a></strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">2026 Software Engineer Program – Summer Internship 🛂</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Austin, TX</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/jobs/job/210650080?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/2a36841c-b128-4f9b-a663-04fe307327c2?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">18d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">19d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/bdee93c8-46ab-46b3-8a3e-c03916910ae2?utm_source=GHList&utm_medium=company">SciPlay</a></strong></td>
@@ -1967,32 +1967,32 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">12d</td>
 </tr>
 <tr>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">↳</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">🔥 TikTok</a></strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Product Manager Intern - Tiktok-Product-Privacy and Responsibility - BS/MS</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">San Jose, CA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://lifeattiktok.com/search/7533137639197853960?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/dbdbb22d-1fbd-48ca-a86c-f80d510ef644?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">12d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">13d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">↳</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Policy Operation Intern - Tiktok-Product-Content Ecosystem - BS/MS</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">San Jose, CA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://lifeattiktok.com/search/7533103422570203400?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/846dd56a-872f-4577-9e55-a1821d31325a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">12d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">13d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">↳</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Product Manager Intern - Tiktok-Product-Comprehensive Search - BS/MS</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">San Jose, CA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://lifeattiktok.com/search/7533277622298953991?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/039b7d2b-b325-4808-a5c4-3f038d145314?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">12d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">13d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">↳</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Product Manager Intern – Content and Service Lead Ads</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">San Jose, CA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://lifeattiktok.com/search/7533326705823779090?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/65616f0a-ec94-4af7-b43b-0aa3d3adafef?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">12d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">13d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/sensata-tech?utm_source=GHList&utm_medium=company">Sensata</a></strong></td>
@@ -2115,6 +2115,13 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">London, UK</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://careers.bcg.com/global/en/job/52453?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/67d271be-f609-4c24-b87d-3575787ab288?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
+</tr>
+<tr>
+<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/FNBO?utm_source=GHList&utm_medium=company">FNBO</a></strong></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Internship - Data Analytics</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Omaha, NE</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://firstnational.wd12.myworkdayjobs.com/fnbocareers/job/Omaha---FN-Tower/Internship---Data-Analytics--Omaha--NE-_R-20250987-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/960bc9b7-5a6f-4a2c-b1b8-200149bba0da?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">1d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Sony?utm_source=GHList&utm_medium=company">Sony</a></strong></td>
@@ -2429,7 +2436,7 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Data Analytics Intern - Academic Year</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Needham, MA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://jobs.smartrecruiters.com/NBCUniversal3/744000073817555?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/bb764a46-d2b4-494f-9c39-9021e1c09ff9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">7d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">8d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">🔥 TikTok</a></strong></td>
@@ -2705,32 +2712,32 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">12d</td>
 </tr>
 <tr>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">↳</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">🔥 TikTok</a></strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Machine Learning Engineer Intern - Tiktok Search Local Services team - 2026 Summer - BS/MS</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">San Jose, CA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://lifeattiktok.com/search/7534626464240994568?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/0a064cfe-add2-47c5-8a65-9f1c2be0f198?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">12d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">13d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">↳</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Machine Learning Engineer Intern - Trust and Safety - CV/NLP/Multimodal LLM 🎓</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">San Jose, CA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://lifeattiktok.com/search/7527589557336869138?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/d3034ffb-ae0b-4d73-9de9-9fa8dfb69282?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">12d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">13d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">↳</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">General Hire – Machine Learning Engineer Intern - Tiktok-Recommendation - BS/MS 🎓</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Seattle, WA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://lifeattiktok.com/search/7527077153591675154?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/70b45d75-a146-4733-a653-c4bce22c4e32?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">12d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">13d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">↳</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Machine Learning Engineer Intern - Tiktok Search E-Commerce team - BS/MS</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">San Jose, CA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://lifeattiktok.com/search/7534626087721240839?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/a6e979b7-c84b-455a-9f3c-7fa10d5d908c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">12d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">13d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Jump-Trading?utm_source=GHList&utm_medium=company">Jump Trading</a></strong></td>
@@ -2779,7 +2786,7 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Computer Vision and Machine Learning Intern 🛂</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Watertown, MA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://jobs.lever.co/convergentresearch/ae2f38c7-804e-45e0-b4c5-b5c666698d30?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">14d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">15d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/fd33cc05-7479-4979-9bc3-fcf69310e14d?utm_source=GHList&utm_medium=company">Altruist</a></strong></td>
@@ -2821,7 +2828,7 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">2026 Data Science Analyst Program – Summer Analyst</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><details><summary><strong>5 locations</strong></summary>Delaware</br>Dallas, TX</br>Chicago, IL</br>Columbus, OH</br>NYC</details></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/jobs/job/210648373?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/61a2608b-35e4-4743-bdc4-763b642e1dab?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">18d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">19d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/BorgWarner?utm_source=GHList&utm_medium=company">BorgWarner</a></strong></td>
@@ -3070,7 +3077,7 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Digital Technology Intern</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Decatur, AL</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">🔒</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">7d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">8d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/ad05a83e-f0ad-47b5-beeb-4c7bf3f50f64?utm_source=GHList&utm_medium=company">Polaris</a></strong></td>
@@ -3890,7 +3897,7 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Intelligent Camera Effects Software Engineer Intern - Effect-Tiktok</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">San Jose, CA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://lifeattiktok.com/search/7533023896800495890?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/72600b58-238c-416b-938c-e472165215e0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">12d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">13d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Medtronic?utm_source=GHList&utm_medium=company">Medtronic</a></strong></td>
@@ -4211,7 +4218,7 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Genworth IT Development Program Intern</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Richmond, VA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://gnw.wd1.myworkdayjobs.com/GNW/job/Richmond-Virginia/Genworth-IT-Development-Program-Intern---Summer-2026_REQ-250327?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/21c3d5dc-f747-4b6b-943a-ec1c91ac942d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">1d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">2d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Skyworks?utm_source=GHList&utm_medium=company">Skyworks</a></strong></td>
