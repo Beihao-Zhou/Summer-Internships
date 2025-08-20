@@ -291,6 +291,12 @@ def create_category_table(listings, category_name, offSeason=False):
             "\n"
             "> 🧠 Want to know what keywords your resume is missing for a job? Use the blue Simplify application link to instantly compare your resume to any job description.\n\n"
         )
+        
+    if category_name == 'Product Management':
+        header += (
+            "> 📅 Curious when Big Tech product internships typically open? Simplify put together an [openings tracker](https://simplify.jobs/top-list/Associate-Product-Manager-Intern?utm_source=GHList&utm_medium=ot) based on historical data for those companies.\n"
+            "\n"
+        )
 
     # Sort and format
     active = sorted([l for l in category_listings if l["active"]], key=lambda l: l["date_posted"], reverse=True)
@@ -355,7 +361,7 @@ def check_and_insert_warning(content, repo_name="Summer2026-Internships"):
   <h2>🔗 See Full List</h2>
   <p><strong>⚠️ GitHub preview cuts off around here due to file size limits.</strong></p>
   <p>📋 <strong><a href="https://github.com/SimplifyJobs/{repo_name}/blob/main/README.md#-see-full-list">Click here to view the complete list with all internship opportunities!</a></strong> 📋</p>
-  <p><em>The full README contains all listings and is regularly updated.</em></p>
+  <p><em>To find even more internships in tech, check out <a href="https://simplify.jobs/jobs?category=Software%20Engineering%3BHardware%20Engineering%3BQuantitative%20Finance%3BProduct%20Management%3BData%20%26%20Analytics%3BIT%20%26%20Security&jobId=2ac81173-86b5-4dbd-a7a9-260847c259cc&jobType=Internship?utm_source=GHList">Simplify's website</a>.</em></p>
 </div>
 
 ---
