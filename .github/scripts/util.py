@@ -73,19 +73,19 @@ def getLink(listing):
         link += "&utm_source=Simplify&ref=Simplify"
 
     if listing["source"] != "Simplify":
-        # Non-Simplify jobs: single button, centered with consistent width
+        # Non-Simplify jobs: single button, centered with smaller width to prevent wrapping
         return (
             f'<div align="center">'
-            f'<a href="{link}"><img src="{LONG_APPLY_BUTTON}" width="100" alt="Apply"></a>'
+            f'<a href="{link}"><img src="{LONG_APPLY_BUTTON}" width="80" alt="Apply"></a>'
             f'</div>'
         )
 
-    # Simplify jobs: two buttons with standardized widths that total ~96px
+    # Simplify jobs: two buttons with smaller widths to prevent wrapping
     simplifyLink = f"https://simplify.jobs/p/{listing['id']}?utm_source=GHList"
     return (
         f'<div align="center">'
-        f'<a href="{link}"><img src="{SHORT_APPLY_BUTTON}" width="62" alt="Apply"></a> '
-        f'<a href="{simplifyLink}"><img src="{SQUARE_SIMPLIFY_BUTTON}" width="34" alt="Simplify"></a>'
+        f'<a href="{link}"><img src="{SHORT_APPLY_BUTTON}" width="50" alt="Apply"></a> '
+        f'<a href="{simplifyLink}"><img src="{SQUARE_SIMPLIFY_BUTTON}" width="26" alt="Simplify"></a>'
         f'</div>'
     )
     
