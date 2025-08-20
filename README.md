@@ -9,7 +9,7 @@
 
 ---
 
-### Browse 569 Internship Roles by Category
+### Browse 568 Internship Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-internship-roles)** (221)
 
@@ -21,7 +21,7 @@
 
 🔧 **[Hardware Engineering](#-hardware-engineering-internship-roles)** (41)
 
-💼 **[Other](#-other-internship-roles)** (68)
+💼 **[Other](#-other-internship-roles)** (67)
 
 ---
 
@@ -4407,13 +4407,6 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Intern – IT</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Milwaukee, WI</br>Green Bay, WI</br>Waukesha, WI</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://careers.wecenergygroup.com/job/Milwaukee-Intern-IT-(May-2026)-WI-53203/1317449800/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/df0f931c-56e1-4741-b301-8e92359c8bdc?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">4d</td>
-</tr>
-<tr>
-<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/CS-Wholesale-Grocers?utm_source=GHList&utm_medium=company">C&S Wholesale Grocers</a></strong></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Cyber Security Intern</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Edison, NJ</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://cswg.wd1.myworkdayjobs.com/cs_careers/job/Edison-NJ/Cyber-Security-Intern--Summer-2026_R-264014?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/ee8bef54-5974-4c27-b713-5c019a4436e9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">4d</td>
 </tr>
 <tr>
