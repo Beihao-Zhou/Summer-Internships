@@ -2,6 +2,7 @@ import json
 import sys
 import uuid
 from datetime import datetime
+from typing import Union, Optional
 import util
 import re
 
@@ -27,13 +28,13 @@ def _clean(s: str) -> str:
 def _is_no_answer(s: str) -> bool:
     return _clean(s).lower() in NO_ANSWER
 
-def _norm_category(raw: str) -> str | None:
+def _norm_category(raw: str) -> Optional[str]:
     if _is_no_answer(raw):
         return None
     key = _clean(raw).lower()
     return CATEGORY_MAPPING.get(key)
 
-def _parse_bool(raw: str) -> bool | None:
+def _parse_bool(raw: str) -> Optional[bool]:
     if _is_no_answer(raw):
         return None
     val = _clean(raw).lower()
@@ -203,23 +204,32 @@ def getData(body, is_edit, username):
 
 
 def main():
-    event_file_path = sys.argv[1]
+    try:
+        event_file_path = sys.argv[1]
 
-    with open(event_file_path) as f:
-        event_data = json.load(f)
+        with open(event_file_path) as f:
+            event_data = json.load(f)
+    except Exception as e:
+        util.fail(f"Failed to read event file: {str(e)}")
+        return
 
-    # CHECK IF NEW OR OLD INTERNSHIP
-    new_internship = "new_internship" in [label["name"] for label in event_data["issue"]["labels"]]
-    edit_internship = "edit_internship" in [label["name"] for label in event_data["issue"]["labels"]]
+    try:
+        # CHECK IF NEW OR OLD INTERNSHIP
+        new_internship = "new_internship" in [label["name"] for label in event_data["issue"]["labels"]]
+        edit_internship = "edit_internship" in [label["name"] for label in event_data["issue"]["labels"]]
 
-    if not new_internship and not edit_internship:
-        util.fail("Only new_internship and edit_internship issues can be approved")
+        if not new_internship and not edit_internship:
+            util.fail("Only new_internship and edit_internship issues can be approved")
+            return
 
-    # GET DATA FROM ISSUE FORM
-    issue_body = event_data['issue']['body']
-    issue_user = event_data['issue']['user']['login']
+        # GET DATA FROM ISSUE FORM
+        issue_body = event_data['issue']['body']
+        issue_user = event_data['issue']['user']['login']
 
-    data = getData(issue_body, is_edit=edit_internship, username=issue_user)
+        data = getData(issue_body, is_edit=edit_internship, username=issue_user)
+    except Exception as e:
+        util.fail(f"Error processing issue data: {str(e)}")
+        return
 
     if new_internship:
         data["source"] = issue_user
@@ -251,31 +261,37 @@ def main():
         listing_text = " ".join(parts)
         return listing_text
 
-    with open(".github/scripts/listings.json", "r") as f:
-        listings = json.load(f)
+    try:
+        with open(".github/scripts/listings.json", "r") as f:
+            listings = json.load(f)
 
-    if listing_to_update := next(
-        (item for item in listings if item["url"] == data["url"]), None
-    ):
-        if new_internship:
-            util.fail("This internship is already in our list. See CONTRIBUTING.md for how to edit a listing")
-        
-        # FIXED: Only update fields that were explicitly provided in the edit form
-        # This preserves existing category, degrees, sponsorship, etc. when not updated
-        for key, value in data.items():
-            if key in provided_fields or key in ["date_updated"]:  # Always update date_updated
-                listing_to_update[key] = value
+        if listing_to_update := next(
+            (item for item in listings if item["url"] == data["url"]), None
+        ):
+            if new_internship:
+                util.fail("This internship is already in our list. See CONTRIBUTING.md for how to edit a listing")
+                return
+            
+            # FIXED: Only update fields that were explicitly provided in the edit form
+            # This preserves existing category, degrees, sponsorship, etc. when not updated
+            for key, value in data.items():
+                if key in provided_fields or key in ["date_updated"]:  # Always update date_updated
+                    listing_to_update[key] = value
 
-        util.setOutput("commit_message", "updated listing: " + get_commit_text(listing_to_update))
-    else:
-        if edit_internship:
-            util.fail("We could not find this internship in our list. Please double check you inserted the right url")
-        listings.append(data)
+            util.setOutput("commit_message", "updated listing: " + get_commit_text(listing_to_update))
+        else:
+            if edit_internship:
+                util.fail("We could not find this internship in our list. Please double check you inserted the right url")
+                return
+            listings.append(data)
 
-        util.setOutput("commit_message", "added listing: " + get_commit_text(data))
+            util.setOutput("commit_message", "added listing: " + get_commit_text(data))
 
-    with open(".github/scripts/listings.json", "w") as f:
-        f.write(json.dumps(listings, indent=4))
+        with open(".github/scripts/listings.json", "w") as f:
+            f.write(json.dumps(listings, indent=4))
+    except Exception as e:
+        util.fail(f"Error updating listings: {str(e)}")
+        return
 
 
 if __name__ == "__main__":
