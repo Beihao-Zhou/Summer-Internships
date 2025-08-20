@@ -4518,7 +4518,9 @@
   ## We love our contributors ❤️❤️
 
   Contribute by submitting an [issue](https://github.com/SimplifyJobs/Summer2026-Internships/issues/new/choose)!
+  
   <a href="https://github.com/pittcsc/Summer2026-Internships/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=pittcsc/Summer2025-Internships&columns=24&max=480" />
   </a>
+  
   _Made with [contrib.rocks](https://contrib.rocks)._
