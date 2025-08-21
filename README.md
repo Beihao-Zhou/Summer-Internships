@@ -13,7 +13,7 @@
 
 💻 **[Software Engineering](#-software-engineering-internship-roles)** (216)
 
-📱 **[Product Management](#-product-management-internship-roles)** (28)
+📱 **[Product Management](#-product-management-internship-roles)** (29)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (135)
 
@@ -21,7 +21,7 @@
 
 🔧 **[Hardware Engineering](#-hardware-engineering-internship-roles)** (39)
 
-💼 **[Other](#-other-internship-roles)** (64)
+💼 **[Other](#-other-internship-roles)** (63)
 
 ---
 
@@ -2050,6 +2050,13 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Product Lead Internship 🎓</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">SF</br>NYC</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://ats.rippling.com/rippling/jobs/640fcf7b-a12b-4b34-8a6b-633b40453fe0?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/883103fd-8317-449f-ac1b-0fcb6b99e7fe?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">1mo</td>
+</tr>
+<tr>
+<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Apple?utm_source=GHList&utm_medium=company">🔥 Apple</a></strong></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Engineering Program Management Intern</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">United States</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://jobs.apple.com/en-us/details/200606141/engineering-program-management-internships?team=STDNT&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">1mo</td>
 </tr>
 </tbody>
@@ -4673,13 +4680,6 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Cybersecurity Intern</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><details><summary><strong>4 locations</strong></summary>Charlotte, North Carolina</br>Dallas, Texas</br>Denver, Colorado</br>Washington, District of Columbia</details></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://careers.bankofamerica.com/en-us/students/job-detail/12944/global-technology-summer-analyst-2026-cybersecurity-analyst-multiple-locations?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">1mo</td>
-</tr>
-<tr>
-<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Apple?utm_source=GHList&utm_medium=company">🔥 Apple</a></strong></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Engineering Program Management Intern</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">United States</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://jobs.apple.com/en-us/details/200606141/engineering-program-management-internships?team=STDNT&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">1mo</td>
 </tr>
 <tr>
