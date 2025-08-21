@@ -14654,7 +14654,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">22mo</td>
 </tr>
 <tr>
-<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/1Password?utm_source=GHList&utm_medium=company">1Password</a></strong></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">↳</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Developer Intern - Item Management - Winter 2024</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Remote</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Winter 2024</td>
