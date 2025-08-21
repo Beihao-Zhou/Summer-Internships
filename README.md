@@ -9,13 +9,13 @@
 
 ---
 
-### Browse 558 Internship Roles by Category
+### Browse 559 Internship Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-internship-roles)** (214)
 
 📱 **[Product Management](#-product-management-internship-roles)** (29)
 
-🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (138)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (139)
 
 📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (74)
 
@@ -2105,6 +2105,13 @@
 </thead>
 <tbody>
 <tr>
+<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Church-And-Dwight?utm_source=GHList&utm_medium=company">Church & Dwight</a></strong></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Master's Data Science Co-op 🎓 🇺🇸</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Ewing, NJ</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://churchdwight.wd1.myworkdayjobs.com/en-US/chdcareers/job/USA-Ewing-NJ/XMLNAME-2026-Master-s-Data-Science-Co-op_R2025-14136?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
+</tr>
+<tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Cisco?utm_source=GHList&utm_medium=company">Cisco</a></strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Data Analyst I – Intern</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">San Jose, CA</td>
@@ -2480,7 +2487,7 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Data Science Intern</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Mountain View, CA</br>San Francisco, CA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://www.databricks.com/company/careers/university-recruiting/data-science-intern-2026-start-6866538002?gh_jid=6866538002&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">8d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">9d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/NBCUniversal?utm_source=GHList&utm_medium=company">NBCUniversal</a></strong></td>
@@ -3149,7 +3156,7 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Machine Learning Internship, Behaviors Research 🛂</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Boston, MA</br>Pittsburgh, PA</br>Remote in USA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">🔒</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">8d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">9d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/GE-Appliances?utm_source=GHList&utm_medium=company">GE Appliances</a></strong></td>
@@ -4624,7 +4631,7 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">IT Development Program Intern 🛂</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Richmond, VA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://gnw.wd1.myworkdayjobs.com/en-US/GNW/job/Richmond%2C-Virginia/Genworth-IT-Development-Program-Intern---Summer-2026_REQ-250327?workerSubType=7fa6841689a6106a8c0af76995631b08&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">22d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">23d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Abbott?utm_source=GHList&utm_medium=company">Abbott</a></strong></td>
