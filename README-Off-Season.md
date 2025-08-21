@@ -10,7 +10,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 341 Internship Roles by Category
+### Browse 340 Internship Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-internship-roles)** (66)
 
@@ -22,7 +22,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 🔧 **[Hardware Engineering](#-hardware-engineering-internship-roles)** (39)
 
-💼 **[Other](#-other-internship-roles)** (52)
+💼 **[Other](#-other-internship-roles)** (51)
 
 ---
 
@@ -11912,14 +11912,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Katy, TX</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Fall 2025</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://job-boards.greenhouse.io/bgeinc/jobs/4821354008?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/7eae5b2b-0a10-4a17-8379-1b0cdf3cde52?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">8d</td>
-</tr>
-<tr>
-<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Shopify?utm_source=GHList&utm_medium=company">🔥 Shopify</a></strong></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Engineering Internship 🛂</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">New York, New York</br>Bellevue, Washington</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Spring 2026</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://www.shopify.com/careers/usa-engineering-internships-summer-2026-usa_b2dbdf1e-ab44-46ed-9a11-69a1a1e4b20c?fbclid=PAZXh0bgNhZW0CMTEAAacZmDKBbpt6Eic3DYCTf372rK812Efp_FC9Sle8J1TgYhTmQa52d0muxM0Vtg_aem_NgJJWd_yRRfgPncN8pXvNw&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">8d</td>
 </tr>
 <tr>
