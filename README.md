@@ -9,7 +9,7 @@
 
 ---
 
-### Browse 593 Internship Roles by Category
+### Browse 592 Internship Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-internship-roles)** (226)
 
@@ -19,7 +19,7 @@
 
 📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (76)
 
-🔧 **[Hardware Engineering](#-hardware-engineering-internship-roles)** (45)
+🔧 **[Hardware Engineering](#-hardware-engineering-internship-roles)** (44)
 
 💼 **[Other](#-other-internship-roles)** (65)
 
@@ -4252,13 +4252,6 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">9d</td>
 </tr>
 <tr>
-<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/KBR?utm_source=GHList&utm_medium=company">KBR</a></strong></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Software/Firmware Development Intern</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Moffett Field, CA</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://kbr.wd5.myworkdayjobs.com/en-US/KBR_Careers/job/Moffett-Field-California/Software-Firmware-Development-Intern_R2110543?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">9d</td>
-</tr>
-<tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/GlobalFoundries?utm_source=GHList&utm_medium=company">GlobalFoundries</a></strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">3D Advanced Heterogeneous Integration Development Intern</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Malta, NY</td>
@@ -4496,6 +4489,27 @@
 </tbody>
 </table>
 
+
+</details>
+
+
+
+## 💼 Other Internship Roles
+
+[Back to top](#summer-2026-tech-internships-by-pitt-csc--simplify)
+
+<table style="width: 100%; border-collapse: collapse;">
+<thead>
+<tr>
+<th style="width: 25%; min-width: 200px; padding: 8px; text-align: left; border-bottom: 2px solid #ddd;">Company</th>
+<th style="width: 30%; min-width: 250px; padding: 8px; text-align: left; border-bottom: 2px solid #ddd;">Role</th>
+<th style="width: 20%; min-width: 150px; padding: 8px; text-align: left; border-bottom: 2px solid #ddd;">Location</th>
+<th style="width: 15%; min-width: 120px; padding: 8px; text-align: center; border-bottom: 2px solid #ddd;">Application</th>
+<th style="width: 10%; min-width: 80px; padding: 8px; text-align: center; border-bottom: 2px solid #ddd;">Age</th>
+</tr>
+</tbody>
+</table>
+
 ---
 
 <div align="center" id="github-cutoff-warning">
@@ -4519,27 +4533,6 @@
 </thead>
 <tbody>
 
-</tbody>
-</table>
-
-
-</details>
-
-
-
-## 💼 Other Internship Roles
-
-[Back to top](#summer-2026-tech-internships-by-pitt-csc--simplify)
-
-<table style="width: 100%; border-collapse: collapse;">
-<thead>
-<tr>
-<th style="width: 25%; min-width: 200px; padding: 8px; text-align: left; border-bottom: 2px solid #ddd;">Company</th>
-<th style="width: 30%; min-width: 250px; padding: 8px; text-align: left; border-bottom: 2px solid #ddd;">Role</th>
-<th style="width: 20%; min-width: 150px; padding: 8px; text-align: left; border-bottom: 2px solid #ddd;">Location</th>
-<th style="width: 15%; min-width: 120px; padding: 8px; text-align: center; border-bottom: 2px solid #ddd;">Application</th>
-<th style="width: 10%; min-width: 80px; padding: 8px; text-align: center; border-bottom: 2px solid #ddd;">Age</th>
-</tr>
 </thead>
 <tbody>
 <tr>
