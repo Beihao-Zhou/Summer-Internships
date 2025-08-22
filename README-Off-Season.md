@@ -10,9 +10,9 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 348 Internship Roles by Category
+### Browse 349 Internship Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-internship-roles)** (65)
+💻 **[Software Engineering](#-software-engineering-internship-roles)** (66)
 
 📱 **[Product Management](#-product-management-internship-roles)** (21)
 
@@ -75,6 +75,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
+<tr>
+<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Shopify?utm_source=GHList&utm_medium=company">🔥 Shopify</a></strong></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Canada Engineering Internships 🛂</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;"><details><summary><strong>4 locations</strong></summary>Remote in Canada</br>Montreal, CA</br>Ottawa, CA</br>Toronto, CA</details></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Winter 2026</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://www.shopify.com/careers/canada-engineering-internships-winter-2026_04cf2b87-6660-45c7-95f2-e734b7844612?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
+</tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/VetsEZ?utm_source=GHList&utm_medium=company">VetsEZ</a></strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">API Developer Intern</td>
@@ -6392,14 +6400,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://chapter2.teamtailor.com/jobs/6022015-product-team-intern-4-to-6-months?ats=teamtailor&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/7d2bf784-23b4-4890-80c5-9d163b7da643?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">2mo</td>
 </tr>
-<tr>
-<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/GeoComply?utm_source=GHList&utm_medium=company">GeoComply</a></strong></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Future Product Management Considerations</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Vancouver, BC, Canada</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Fall 2025</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://jobs.lever.co/geocomply-2/ca562c00-8ecf-4aae-b30c-9528aac47a7a/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/e20a54dd-f62c-43c5-b88c-d0e0adbaf4a5?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">3mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -6426,6 +6426,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </thead>
 <tbody>
 
+<tr>
+<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/GeoComply?utm_source=GHList&utm_medium=company">GeoComply</a></strong></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Future Product Management Considerations</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Vancouver, BC, Canada</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Fall 2025</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://jobs.lever.co/geocomply-2/ca562c00-8ecf-4aae-b30c-9528aac47a7a/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/e20a54dd-f62c-43c5-b88c-d0e0adbaf4a5?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">3mo</td>
+</tr>
 </tbody>
 </table>
 
