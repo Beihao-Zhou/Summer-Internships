@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 593 Internship Roles by Category
+### Browse 594 Internship Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-internship-roles)** (227)
+💻 **[Software Engineering](#-software-engineering-internship-roles)** (228)
 
 📱 **[Product Management](#-product-management-internship-roles)** (31)
 
@@ -91,6 +91,13 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong>Empirical</strong></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Software Engineering Intern</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Dakota Dunes, SD</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://careers-empiricalfoods.icims.com/jobs/2972/software-engineering-intern---summer-2026/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
+</tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong>Mesa Solutions</strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Software Engineer Intern</td>
@@ -1836,10 +1843,10 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Technology and Innovation Internship</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Charlotte, NC</br>Atlanta, GA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">🔒</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">20d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">21d</td>
 </tr>
 <tr>
-<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Truist?utm_source=GHList&utm_medium=company">Truist</a></strong></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">↳</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Technology and Innovation Internship 🛂</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Charlotte, NC</br>Atlanta, GA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">🔒</td>
@@ -4486,13 +4493,6 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">🔒</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">1mo</td>
 </tr>
-<tr>
-<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Western-Digital?utm_source=GHList&utm_medium=company">Western Digital</a></strong></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Software Engineering Co-Op</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Rochester, MN</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">🔒</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">2mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -4519,6 +4519,13 @@
 </thead>
 <tbody>
 
+<tr>
+<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Western-Digital?utm_source=GHList&utm_medium=company">Western Digital</a></strong></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Software Engineering Co-Op</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Rochester, MN</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">🔒</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">2mo</td>
+</tr>
 </tbody>
 </table>
 
