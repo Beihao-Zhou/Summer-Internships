@@ -9,7 +9,7 @@
 
 ---
 
-### Browse 587 Internship Roles by Category
+### Browse 588 Internship Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-internship-roles)** (224)
 
@@ -19,7 +19,7 @@
 
 📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (75)
 
-🔧 **[Hardware Engineering](#-hardware-engineering-internship-roles)** (42)
+🔧 **[Hardware Engineering](#-hardware-engineering-internship-roles)** (43)
 
 💼 **[Other](#-other-internship-roles)** (64)
 
@@ -4133,6 +4133,13 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
 </tr>
 <tr>
+<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Draper?utm_source=GHList&utm_medium=company">Draper</a></strong></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Device Physics & Engineering Intern</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Cambridge, MA</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Device-Physics---Engineering-Intern_JR001684?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/c1f37ea6-a226-4e89-af49-ba5361006f17?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">1d</td>
+</tr>
+<tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Skyworks?utm_source=GHList&utm_medium=company">Skyworks</a></strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Product Engineer Co-Op</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Irvine, CA</td>
@@ -4500,15 +4507,6 @@
 <th style="width: 15%; min-width: 120px; padding: 8px; text-align: center; border-bottom: 2px solid #ddd;">Application</th>
 <th style="width: 10%; min-width: 80px; padding: 8px; text-align: center; border-bottom: 2px solid #ddd;">Age</th>
 </tr>
-</thead>
-<tbody>
-<tr>
-<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Merchants-Bank-Of-Indiana?utm_source=GHList&utm_medium=company">Merchants Bank of Indiana</a></strong></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Information Security Intern</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Carmel, IN</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/3518937?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/da25d9a4-381f-4ff1-bc0c-4240b1bbc1fe?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
-</tr>
 </tbody>
 </table>
 
@@ -4535,6 +4533,15 @@
 </thead>
 <tbody>
 
+</thead>
+<tbody>
+<tr>
+<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Merchants-Bank-Of-Indiana?utm_source=GHList&utm_medium=company">Merchants Bank of Indiana</a></strong></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Information Security Intern</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Carmel, IN</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/3518937?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/da25d9a4-381f-4ff1-bc0c-4240b1bbc1fe?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
+</tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Dominion-Energy?utm_source=GHList&utm_medium=company">Dominion Energy</a></strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Intern-Investigations</td>
