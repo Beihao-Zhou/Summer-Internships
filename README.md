@@ -9,11 +9,11 @@
 
 ---
 
-### Browse 616 Internship Roles by Category
+### Browse 617 Internship Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-internship-roles)** (239)
 
-📱 **[Product Management](#-product-management-internship-roles)** (34)
+📱 **[Product Management](#-product-management-internship-roles)** (35)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (155)
 
@@ -2064,6 +2064,13 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Product Marketing</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Ashburn, VA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Ashburn-VA/Summer-2026-Internship--Product-Marketing_R2025-0996?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/eb5476fb-b5b2-4a6a-937a-c7b2301846c7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
+</tr>
+<tr>
+<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/HARMAN-International?utm_source=GHList&utm_medium=company">HARMAN International</a></strong></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Product Management Intern</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Northridge, LA</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://harman.wd3.myworkdayjobs.com/HARMAN/job/Northridge---California-USA/Product-Management-Intern_R-47677-2025?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/e67d23cd-9fa2-4f7b-bee9-3756383f9fd8?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
 </tr>
 <tr>
@@ -4419,13 +4426,6 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://jobs.bytedance.com/en/position/7538216145381492999/detail?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/877cc09a-f438-41ca-8b36-0e10e6a8ed2d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">7d</td>
 </tr>
-<tr>
-<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Flowserve?utm_source=GHList&utm_medium=company">Flowserve</a></strong></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Application Engineer COOP</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">South Houston, TX</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://flowserve.wd1.myworkdayjobs.com/applied/job/Pasadena-Texas-US/On-Site-Application-Engineer-COOP_R-15896?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/3668b3a9-c496-4f6a-bfeb-286e6e1e9524?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">7d</td>
-</tr>
 </tbody>
 </table>
 
@@ -4452,6 +4452,13 @@
 </thead>
 <tbody>
 
+<tr>
+<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Flowserve?utm_source=GHList&utm_medium=company">Flowserve</a></strong></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Application Engineer COOP</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">South Houston, TX</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://flowserve.wd1.myworkdayjobs.com/applied/job/Pasadena-Texas-US/On-Site-Application-Engineer-COOP_R-15896?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/3668b3a9-c496-4f6a-bfeb-286e6e1e9524?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">7d</td>
+</tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong>TetraMem</strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Software - Embedded Intern</td>
