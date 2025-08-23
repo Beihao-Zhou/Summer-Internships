@@ -9,7 +9,7 @@
 
 ---
 
-### Browse 619 Internship Roles by Category
+### Browse 620 Internship Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-internship-roles)** (238)
 
@@ -17,7 +17,7 @@
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (158)
 
-📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (77)
+📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (78)
 
 🔧 **[Hardware Engineering](#-hardware-engineering-internship-roles)** (44)
 
@@ -3714,6 +3714,13 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">1d</td>
 </tr>
 <tr>
+<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/EngineersGate?utm_source=GHList&utm_medium=company">Engineers Gate</a></strong></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Quantitative Researcher Intern</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">NYC</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://job-boards.greenhouse.io/engineersgate/jobs/7182973?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/391ee085-fee5-47f9-bcaf-35115915e0dc?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">1d</td>
+</tr>
+<tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/ChicagoTradingCo?utm_source=GHList&utm_medium=company">Chicago Trading Company</a></strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Quant Trading Internship</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">London, UK</td>
@@ -4426,13 +4433,6 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://careers.skyworksinc.com/job/Austin-IC-Development-(Software)-Summer-Intern-(May-'26-Aug-'26)-TX-73301/1318385200/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/44b34be5-ae62-4db8-a400-934b273ac533?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">3d</td>
 </tr>
-<tr>
-<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company">🔥 ByteDance</a></strong></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Software Development Engineer Intern - Storage-HDFS - BS/ MS</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Seattle, WA</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://jobs.bytedance.com/en/position/7539978900564281618/detail?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/7ce623f7-258e-4baf-8e05-fb37b6e3c0e8?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">4d</td>
-</tr>
 </tbody>
 </table>
 
@@ -4459,6 +4459,13 @@
 </thead>
 <tbody>
 
+<tr>
+<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company">🔥 ByteDance</a></strong></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Software Development Engineer Intern - Storage-HDFS - BS/ MS</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Seattle, WA</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://jobs.bytedance.com/en/position/7539978900564281618/detail?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/7ce623f7-258e-4baf-8e05-fb37b6e3c0e8?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">4d</td>
+</tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Skyworks?utm_source=GHList&utm_medium=company">Skyworks</a></strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Timing Customer Applications Summer Intern - Hardware - May-Aug</td>
