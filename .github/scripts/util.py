@@ -136,15 +136,18 @@ def create_md_table(listings, offSeason=False):
     prev_days_active = None  # FIXED: previously incorrectly using date_posted
 
     for listing in listings:
-        # Add fire emoji for FAANG+ companies
+        # Check if this is a FAANG+ company for fire emoji
         company_name = listing["company_name"]
-        if company_name.lower() in FAANG_PLUS:
-            company_name = f"🔥 {company_name}"
-            listing["company_name"] = company_name  # Update the listing as well
+        is_faang_plus = company_name.lower() in FAANG_PLUS
         
         raw_url = listing.get("company_url", "").strip()
         company_url = raw_url + '?utm_source=GHList&utm_medium=company' if raw_url.startswith("http") else ""
         company_markdown = f"**[{company_name}]({company_url})**" if company_url else f"**{company_name}**"
+        
+        # Add fire emoji outside the link for FAANG+ companies
+        if is_faang_plus:
+            company_markdown = f"🔥 {company_markdown}"
+        
         company = convert_markdown_to_html(company_markdown)
         location = getLocations(listing)
         
