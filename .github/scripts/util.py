@@ -404,6 +404,9 @@ def embedTable(listings, filepath, offSeason=False):
     # Order: Software, Product, Data, Quant, Hardware, Other
     category_order = ["Software", "Product", "AI/ML/Data", "Quant", "Hardware", "Other"]
     category_links = []
+    # Use the appropriate README file based on whether this is off-season or not
+    readme_filename = "README-Off-Season.md" if offSeason else "README.md"
+    github_readme_base = f"https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/{readme_filename}"
     for category_key in category_order:
         if category_key in CATEGORIES:
             category_info = CATEGORIES[category_key]
@@ -411,7 +414,7 @@ def embedTable(listings, filepath, offSeason=False):
             emoji = category_info["emoji"]
             count = category_counts[name]
             anchor = name.lower().replace(" ", "-").replace(",", "").replace("&", "")
-            category_links.append(f"{emoji} **[{name}](#-{anchor}-internship-roles)** ({count})")
+            category_links.append(f"{emoji} **[{name}]({github_readme_base}#-{anchor}-internship-roles)** ({count})")
     category_counts_str = "\n\n".join(category_links)
 
     newText = ""
