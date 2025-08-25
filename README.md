@@ -2968,7 +2968,7 @@
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">↳</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Current Master's – Data Science Internship 🎓</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;"><details><summary><strong>8 locations</strong></summary>Cambridge, MA</br>SF</br>San Jose, CA</br>Plano, TX</br>McLean, VA</br>Richmond, VA</br>Chicago, IL</br>NYC</details></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;"><details><summary><strong>8 locations</strong></summary>Cambridge, MA</br>San Francisco, CA</br>San Jose, CA</br>Plano, TX</br>McLean, VA</br>Richmond, VA</br>Chicago, IL</br>New York, NY</details></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Current-Master-s---Data-Science-Internship---Summer-2026_R218620-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/77e62047-a91c-4e63-a9bc-5df56d5e81ee?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">12d</td>
 </tr>
