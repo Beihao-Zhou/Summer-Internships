@@ -2195,7 +2195,7 @@
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Salesforce?utm_source=GHList&utm_medium=company">🔥 Salesforce</a></strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Summer 2026 Intern - Product Growth</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">SF</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">San Francisco, CA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/California---San-Francisco/Summer-2026-Intern---Product-Growth_JR307642-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/323995e6-d6bf-4bbf-9b1c-8537815f436e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">12d</td>
 </tr>
