@@ -9,7 +9,7 @@
 
 ---
 
-### Browse 648 Internship Roles by Category
+### Browse 649 Internship Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-internship-roles)** (240)
 
@@ -19,7 +19,7 @@
 
 📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (78)
 
-🔧 **[Hardware Engineering](#-hardware-engineering-internship-roles)** (48)
+🔧 **[Hardware Engineering](#-hardware-engineering-internship-roles)** (49)
 
 💼 **[Other](#-other-internship-roles)** (73)
 
@@ -4466,6 +4466,13 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong>QTS</strong></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Development Project Intern 🇺🇸</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Atlanta, GA</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://qtsdatacenters.wd5.myworkdayjobs.com/en-US/qts/job/Atlanta-GA/Summer-2026-Development-Project-Intern_R2025-0951?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
+</tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Intel?utm_source=GHList&utm_medium=company">Intel</a></strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Platform Hardware and Systems Engineering – Intern</td>
