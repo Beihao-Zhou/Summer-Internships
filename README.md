@@ -94,7 +94,7 @@
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong>Spectrum</strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Associate Dev Ops Engineer 🇺🇸</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Maryland Heights, MI</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Maryland Heights, MO</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://jobs.spectrum.com/job/maryland-heights/2026-summer-intern-associate-dev-ops-engineer/4673/85430606768?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
 </tr>
