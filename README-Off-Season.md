@@ -10,17 +10,17 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 383 Internship Roles by Category
+### Browse 390 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (83)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-product-management-internship-roles)** (19)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-data-science-ai--machine-learning-internship-roles)** (172)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-data-science-ai--machine-learning-internship-roles)** (175)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-quantitative-finance-internship-roles)** (6)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-hardware-engineering-internship-roles)** (44)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-hardware-engineering-internship-roles)** (48)
 
 💼 **[Other](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-other-internship-roles)** (59)
 
@@ -217,7 +217,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Roseville, CA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Fall 2025</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Roseville-California-United-States-of-America/Software-Engineering-Intern_1193025?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/87600012-fe9b-444d-be93-06426be1b725?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">1d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">2d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/BitGo?utm_source=GHList&utm_medium=company">BitGo</a></strong></td>
@@ -6706,6 +6706,30 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </thead>
 <tbody>
 <tr>
+<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Analog-Devices?utm_source=GHList&utm_medium=company">Analog Devices</a></strong></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Algorithm Engineer Intern</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Boston, MA</br>San Diego, CA</br>Burlington, MA</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Fall 2025</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Algorithm-Engineer-Intern_R255043?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/b6b364c9-a0c5-4bbe-9438-54d3ffe18da3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
+</tr>
+<tr>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">↳</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Machine Learning Intern</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Boston, MA</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Fall 2025</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Machine-Learning-Intern_R255268?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/660cb5a6-204f-4ccd-ac6a-792504e664ea?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
+</tr>
+<tr>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">↳</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Machine Learning Intern - PhD 🎓</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Boston, MA</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Fall 2025</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Machine-Learning-Intern--PhD-_R255001?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/cc96e6ea-6422-459f-b404-08632e7bbbd2?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
+</tr>
+<tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">🔥 <strong><a href="https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company">ByteDance</a></strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Machine Learning Engineer Intern - E-commerce-Supply Chain & Logistics 🎓</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">San Jose, CA</td>
@@ -8162,7 +8186,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Andover, MA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Fall 2025</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">🔒</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">8d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">9d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Hartford-Financial-Services?utm_source=GHList&utm_medium=company">Hartford Financial Services</a></strong></td>
@@ -10792,6 +10816,38 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </thead>
 <tbody>
 <tr>
+<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Hewlett-Packard-Enterprise?utm_source=GHList&utm_medium=company">Hewlett Packard Enterprise</a></strong></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Electrical Hardware Engineering Intern</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Houston, TX</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Fall 2025</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Houston-Texas-United-States-of-America/Electrical-Hardware-Engineering-Intern_1192939?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/9e1e967c-6993-45fc-96fd-a8e49c5ef4b5?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
+</tr>
+<tr>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">↳</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Hardware Engineering Intern</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Roseville, CA</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Fall 2025</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Roseville-California-United-States-of-America/Hardware-Engineering-Intern_1193043?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/3d0c1885-20b3-426b-8753-3abb9d769a2e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
+</tr>
+<tr>
+<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Analog-Devices?utm_source=GHList&utm_medium=company">Analog Devices</a></strong></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Product Engineer Prod Dev Intern</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Burlington, MA</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Fall 2025</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Product-Engineer-Prod-Dev-Intern_R255239?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/6e3a0d52-d186-41b7-b8f2-60e7fa6a8bef?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
+</tr>
+<tr>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">↳</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Embedded Software Intern</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Boston, MA</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Fall 2025</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Embedded-Software-Intern_R255237?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/ea3f3a87-664c-401e-9eef-aad38ce50998?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
+</tr>
+<tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Cisco?utm_source=GHList&utm_medium=company">Cisco</a></strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Hardware Engineer I – Intern</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">San Jose, CA</td>
@@ -11176,7 +11232,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Ottawa, ON, Canada</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Fall 2025, Winter 2025</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">🔒</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">13d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">14d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/91edf47c-f010-430e-8558-5c1fbb365984?utm_source=GHList&utm_medium=company">NXP Semiconductors</a></strong></td>

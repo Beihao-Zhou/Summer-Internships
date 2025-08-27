@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 734 Internship Roles by Category
+### Browse 735 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (260)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (261)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (39)
 
@@ -91,6 +91,13 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Software Engineer Intern - AI Applications</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Seattle, WA</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://lifeattiktok.com/search/7540823148805032210?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/177690e4-6703-4698-a2bd-350db211f356?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
+</tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/00a7425d-6e2f-482c-a9c4-abfe2f1de9cd?utm_source=GHList&utm_medium=company">SNC-Lavalin</a></strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Software Developer Intern</td>
@@ -180,7 +187,7 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Frontend Software Engineer Intern - Web and Client - Global Payment</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">San Jose, CA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://jobs.bytedance.com/en/position/7538583899431373063/detail?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/d663945e-b8da-4cc3-8af8-940cda193979?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">1d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">🔥 <strong><a href="https://simplify.jobs/c/Dropbox?utm_source=GHList&utm_medium=company">Dropbox</a></strong></td>
@@ -1328,7 +1335,7 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Software Engineer Intern - Payment Risk - Global Payment - BS/MS</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">San Jose, CA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://jobs.bytedance.com/en/position/7533003732948175112/detail?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/e67389e6-900e-4123-96d5-f9ad505ed5e0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">19d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">20d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Jump-Trading?utm_source=GHList&utm_medium=company">Jump Trading</a></strong></td>
@@ -1587,7 +1594,7 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Software Engineering Intern</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">North Haven, CT</br>Lafayette, CO</br>Minneapolis, MN</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/North-Haven-Connecticut-United-States-of-America/Software-Engineering-Intern---Summer-2026_R40546-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/65cba1ba-e064-47df-85a7-e8ae7fa2d2d3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">25d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">26d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Chase?utm_source=GHList&utm_medium=company">Chase</a></strong></td>
@@ -1948,7 +1955,7 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Enterprise Document Management Systems - Edms</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Greensboro, NC</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">🔒</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">4d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">5d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/VetsEZ?utm_source=GHList&utm_medium=company">VetsEZ</a></strong></td>
@@ -2781,10 +2788,10 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Data & Analytics Technology Consulting Intern</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><details><summary><strong>5 locations</strong></summary>Boston, MA</br>Washington, DC</br>Chicago, IL</br>Norridge, IL</br>NYC</details></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Data---Analytics-Technology-Consulting-Intern---Summer-2026_658980WD?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/babf9eea-59bd-4e8b-83f5-6d39483cd42d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">1d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">2d</td>
 </tr>
 <tr>
-<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/PwC?utm_source=GHList&utm_medium=company">PricewaterhouseCoopers (PwC)</a></strong></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">↳</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Cloud Engineering – Data Science Intern - Data & Analytics</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><details><summary><strong>14 locations</strong></summary>Boston, MA</br>Seattle, WA</br>Houston, TX</br>Washington, DC</br>SF</br>LA</br>Dallas, TX</br>Philadelphia, PA</br>Chicago, IL</br>Norridge, IL</br>NYC</br>Minneapolis, MN</br>Mountain View, CA</br>Atlanta, GA</details></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Cloud-Engineering--Data---Analytics----Data-Science-Intern---Summer-2026_658436WD?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/54adf01a-c62e-40d5-b5ac-122f19ae59b0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
@@ -3996,7 +4003,7 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Risk Analytics Intern</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Carmel, IN</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">🔒</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">4d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">5d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Arch-Capital-Group?utm_source=GHList&utm_medium=company">Arch Capital Group</a></strong></td>
@@ -4101,14 +4108,14 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Digital Technology Intern</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Decatur, AL</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">🔒</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">14d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">15d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/NBCUniversal?utm_source=GHList&utm_medium=company">NBCUniversal</a></strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Data Analytics Intern - Academic Year</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Needham, MA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">🔒</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">14d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">15d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
@@ -4336,13 +4343,6 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://careers-gtsx.icims.com/jobs/1562/quantitative-trading-internship---summer-2026/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">4d</td>
 </tr>
-<tr>
-<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Mackenzie-Investments?utm_source=GHList&utm_medium=company">Mackenzie Investments</a></strong></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Fixed Income Software Developer Platform Intern - Investment Management</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Toronto, ON, Canada</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://careersen-mackenzieinvestments.icims.com/jobs/5628/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/f223a018-bb8f-44af-84f5-cf0cfde18648?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">5d</td>
-</tr>
 </tbody>
 </table>
 
@@ -4369,6 +4369,13 @@
 </thead>
 <tbody>
 
+<tr>
+<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Mackenzie-Investments?utm_source=GHList&utm_medium=company">Mackenzie Investments</a></strong></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Fixed Income Software Developer Platform Intern - Investment Management</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Toronto, ON, Canada</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://careersen-mackenzieinvestments.icims.com/jobs/5628/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/f223a018-bb8f-44af-84f5-cf0cfde18648?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">5d</td>
+</tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/EngineersGate?utm_source=GHList&utm_medium=company">Engineers Gate</a></strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Quantitative Researcher Intern</td>
@@ -5094,7 +5101,7 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Product Engineering Intern</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Greensboro, NC</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://careers.qorvo.com/job/Greensboro-Product-Engineering-Intern-NC-27409/1319275800/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/5f114e14-8ad9-4de0-beb4-23f016661ce9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">4d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">5d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Veolia?utm_source=GHList&utm_medium=company">Veolia</a></strong></td>
