@@ -9,7 +9,7 @@
 
 ---
 
-### Browse 792 Internship Roles by Category
+### Browse 793 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (290)
 
@@ -21,7 +21,7 @@
 
 🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (63)
 
-💼 **[Other](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-other-internship-roles)** (94)
+💼 **[Other](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-other-internship-roles)** (95)
 
 ---
 
@@ -5996,6 +5996,13 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Cybersecurity and Privacy Intern</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Philadelphia, PA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/112913?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/84f20555-6220-48a2-b688-70e26ee47fce?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
+</tr>
+<tr>
+<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Aflac?utm_source=GHList&utm_medium=company">Aflac</a></strong></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">IT Co-Op</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Columbus, GA</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://careers.aflac.com/job/IT-Co-Op-GA/1320692000/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/1f0108cd-df97-4684-9647-5e61b7cedc8d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
 </tr>
 <tr>
