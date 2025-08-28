@@ -688,8 +688,8 @@
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">↳</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Campus Graduate Summer Internship Program - 2026 Software Engineer - Technology 🎓</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Plantation, FL</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Campus Graduate Summer Internship Program - 2026 Software Engineer - Technology</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Sunrise, FL</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://aexp.eightfold.ai/careers/job/30702553?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/287a2e39-556d-4469-8cf7-5d884bd23e76?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">9d</td>
 </tr>
