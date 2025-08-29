@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 853 Internship Roles by Category
+### Browse 854 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (299)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (300)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (43)
 
@@ -91,6 +91,13 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong>CGI</strong></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Software Developer Intern 🇺🇸</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">St. Louis, MO</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://cgi.njoyn.com/corp/xweb/xweb.asp?clid=21001&page=jobdetails&jobid=J0825-1620&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
+</tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/CACI?utm_source=GHList&utm_medium=company">CACI</a></strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Software Engineer Intern</td>
@@ -551,35 +558,35 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Software Developer Intern, MS 🎓</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Waterloo, ON</br>Montreal, QC</br>Toronto, ON</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/83033753760211654-software-developer-intern-ms-summer-2026?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">3d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">4d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">↳</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Software Engineering Intern 🎓</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><details><summary><strong>30 locations</strong></summary>Atlanta, GA</br>Austin, TX</br>Bellevue, WA</br>Boulder, CO</br>Cambridge, MA</br>Chicago, IL</br>Durham, NC</br>Goleta, CA</br>Irvine, CA</br>Kirkland, WA</br>Los Angeles, CA</br>Madison, WI</br>Mountain View, CA</br>New York, NY</br>Palo Alto, CA</br>Pittsburgh, PA</br>Portland, OR</br>Raleigh, NC</br>Redmond, WA</br>Redwood City, CA</br>Reston, VA</br>San Bruno, CA</br>San Diego, CA</br>San Francisco, CA</br>San Jose, CA</br>Santa Cruz, CA</br>Seattle, WA</br>South San Francisco, CA</br>Sunnyvale, CA</br>Washington D.C., DC</details></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/117118476782314182-software-engineering-intern-ms-summer-2026?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">3d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">4d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong>Trane Technologies</strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Systems Engineer Intern</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">St. Paul, MA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://careers.tranetechnologies.com/global/en/job/2505323/Systems-Engineer-Intern?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">3d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">4d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">🔥 <strong>Google</strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Software Developer Intern, BS</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Waterloo, ON</br>Montreal, QC</br>Toronto, ON</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/139918130284503750-software-developer-intern-bs-summer-2026?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">3d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">4d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Johnson-Johnson?utm_source=GHList&utm_medium=company">Johnson & Johnson</a></strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Technology 2026 Summer Internship 🛂</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><details><summary><strong>11 locations</strong></summary>Fort Washington, PA</br>Horsham, PA</br>Irvine, CA</br>Jacksonville, FL</br>New Brunswick, NJ</br>Palm Beach Gardens, FL</br>Raritan, NJ</br>Santa Clara, CA</br>Spring House, PA</br>Titusville, NJ</br>West Chester, PA</details></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://www.careers.jnj.com/en/jobs/r-029613/technology-2026-summer-internship/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">3d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">4d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">🔥 <strong>Google</strong></td>
