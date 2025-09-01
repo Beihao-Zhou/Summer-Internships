@@ -10,9 +10,9 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 414 Internship Roles by Category
+### Browse 413 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (111)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (110)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-product-management-internship-roles)** (19)
 
@@ -105,14 +105,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Calgary, AB, Canada</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Winter 2026</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://jobs.smartrecruiters.com/GDMSI/744000079048584?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/b87e2353-babd-4d9b-bb00-db68fc13a8de?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">2d</td>
-</tr>
-<tr>
-<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/SEL?utm_source=GHList&utm_medium=company">Schweitzer Engineering Laboratories</a></strong></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Application Engineering Intern</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Moscow, ID</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Fall 2025</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Application-Engineering-Intern_2025-17982?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/5a255f93-f6bd-44ba-9a50-3370cd974c67?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">2d</td>
 </tr>
 <tr>
@@ -6214,6 +6206,22 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">🔒</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">24mo</td>
 </tr>
+<tr>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">↳</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Software Developer Intern - May 2024 - 4 months</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Vancouver, BC, Canada</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Spring 2024</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">🔒</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">24mo</td>
+</tr>
+<tr>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">↳</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Software Developer Intern - January 2024 - 4 months</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Vancouver, BC, Canada</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Winter 2024</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">🔒</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">24mo</td>
+</tr>
 </tbody>
 </table>
 
@@ -6240,22 +6248,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </thead>
 <tbody>
 
-<tr>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">↳</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Software Developer Intern - May 2024 - 4 months</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Vancouver, BC, Canada</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Spring 2024</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">🔒</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">24mo</td>
-</tr>
-<tr>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">↳</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Software Developer Intern - January 2024 - 4 months</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Vancouver, BC, Canada</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Winter 2024</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">🔒</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">24mo</td>
-</tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Wellmark?utm_source=GHList&utm_medium=company">Wellmark</a></strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Software Engineer Internship</td>
@@ -13387,7 +13379,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Las Vegas, NV</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Fall 2025</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">🔒</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">17d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">18d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/2b84bc4f-aff6-498f-b5c7-311bab931da4?utm_source=GHList&utm_medium=company">Tutor Perini Corporation</a></strong></td>
