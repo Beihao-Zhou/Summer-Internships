@@ -10,9 +10,9 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 422 Internship Roles by Category
+### Browse 421 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (119)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (118)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-product-management-internship-roles)** (19)
 
@@ -81,14 +81,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Denver, CO</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Spring 2026</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://jobs.lever.co/xcimer/6c16370c-4ee0-49e8-81f8-5dc129895b6c/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/12657870-afd4-40db-863e-6cc71a1575b4?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
-</tr>
-<tr>
-<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/JP-Morgan-Chase?utm_source=GHList&utm_medium=company">JP Morgan Chase</a></strong></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">2026 Software Apprenticeship - Emerging Talent Program</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Glasgow, UK</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Fall 2026</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/210658757?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/d4670929-d33b-42b8-8ce4-158eed1e69aa?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
 </tr>
 <tr>
@@ -6166,6 +6158,22 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">🔒</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">24mo</td>
 </tr>
+<tr>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">↳</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Co-Op/Intern Software Developer - Architecture & Innovation</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Ottawa, ON, Canada</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Winter 2024</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">🔒</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">24mo</td>
+</tr>
+<tr>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">↳</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Co-Op/Intern Software Test Developer - Algorithms</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Ottawa, ON, Canada</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Winter 2024</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">🔒</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">24mo</td>
+</tr>
 </tbody>
 </table>
 
@@ -6192,22 +6200,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </thead>
 <tbody>
 
-<tr>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">↳</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Co-Op/Intern Software Developer - Architecture & Innovation</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Ottawa, ON, Canada</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Winter 2024</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">🔒</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">24mo</td>
-</tr>
-<tr>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">↳</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Co-Op/Intern Software Test Developer - Algorithms</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Ottawa, ON, Canada</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Winter 2024</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">🔒</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">24mo</td>
-</tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Boeing?utm_source=GHList&utm_medium=company">The Boeing Company</a></strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Software Development Intern</td>
