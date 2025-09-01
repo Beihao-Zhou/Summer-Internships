@@ -3168,7 +3168,7 @@
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">🔥 <strong><a href="https://simplify.jobs/c/Apple?utm_source=GHList&utm_medium=company">Apple</a></strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Engineering Program Management Intern</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">United States</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">USA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://jobs.apple.com/en-us/details/200606141/engineering-program-management-internships?team=STDNT&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">1mo</td>
 </tr>
