@@ -710,7 +710,7 @@
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Deutsche-Bank?utm_source=GHList&utm_medium=company">Deutsche Bank</a></strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Deutsche Bank – Deutsche Bank Internship Program - Technology - Data and Innovation - Tdi - 2026Yello Enterprise</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">NYC</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">New York, NY</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://db.recsolu.com/external/requisitions/Bw7mjFK6IZkEJB1Wtse0YA?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/04e7f68b-7c8f-443f-be35-f0763801c336?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">5d</td>
 </tr>
