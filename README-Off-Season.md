@@ -1975,7 +1975,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">3mo</td>
 </tr>
 <tr>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">↳</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">🔥 <strong><a href="https://simplify.jobs/c/Uber?utm_source=GHList&utm_medium=company">Uber</a></strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Software Engineer Internship</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">SF</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Fall 2025</td>
@@ -7751,7 +7751,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Toronto, ON, Canada</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Winter 2026, Spring 2026</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://careersen-mackenzieinvestments.icims.com/jobs/5624/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/48d9804f-9e22-4d45-9330-c8ae4fd46e16?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">11d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">12d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Fujitsu?utm_source=GHList&utm_medium=company">Fujitsu</a></strong></td>
@@ -8103,7 +8103,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Highland Park, IL</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Fall 2025</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://optioncare.wd1.myworkdayjobs.com/optioncare/job/Bannockburn-IL/Business-Intelligence---Intern_R32228?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/c3f94ab2-28aa-4a1c-8ebe-bd4791af45bc?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">18d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">19d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/WW-Grainger?utm_source=GHList&utm_medium=company">W.W. Grainger</a></strong></td>
@@ -9098,7 +9098,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Remote in Canada</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Fall 2025</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">🔒</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">24d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">25d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Cognitiv?utm_source=GHList&utm_medium=company">Cognitiv</a></strong></td>
@@ -14011,7 +14011,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td style="padding: 8px; border-bottom: 1px solid #eee;">SF</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Fall 2025</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">🔒</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">14d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">15d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/MRC-Global?utm_source=GHList&utm_medium=company">MRC Global</a></strong></td>
