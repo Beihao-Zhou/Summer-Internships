@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 1143 Internship Roles by Category
+### Browse 1144 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (385)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (386)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (64)
 
@@ -91,6 +91,13 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Vanguard?utm_source=GHList&utm_medium=company">Vanguard</a></strong></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">College to Corporate Internship - Technology Operations 🛂</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Malvern, PA</br>Charlotte, NC</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-Internship---Technology-Operations_170065?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
+</tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">🔥 <strong><a href="https://simplify.jobs/c/Atlassian?utm_source=GHList&utm_medium=company">Atlassian</a></strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Software Engineer Intern 🛂</td>
@@ -544,7 +551,7 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Undergrad Software Engineer Intern - Global Industries 🛂</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">USA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://careers.oracle.com/en/sites/jobsearch/job/306144?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">2d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">3d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">🔥 <strong><a href="https://simplify.jobs/c/Databricks?utm_source=GHList&utm_medium=company">Databricks</a></strong></td>
@@ -3985,7 +3992,7 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">IT Audit – Data Analytics Intern</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Cincinnati, OH</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://gaig.wd1.myworkdayjobs.com/gaig_external/job/Cincinnati-OH-USA/IT-Audit---Data-Analytics-Intern-2026_R7902?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/fd6a43f7-27ca-4c16-8cd2-ffe763a64fa3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">1d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Corning?utm_source=GHList&utm_medium=company">Corning</a></strong></td>
@@ -4288,13 +4295,6 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://elanco.wd5.myworkdayjobs.com/en-US/External_Career/job/US-Territory-Field-based/IT-Data-Engineer-Intern--Summer-2026-_R0023204?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/f4de6749-b80b-49cf-8364-d55caf4c90ae?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">4d</td>
 </tr>
-<tr>
-<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Erie-Insurance-Group?utm_source=GHList&utm_medium=company">Erie Insurance Group</a></strong></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Data Science Intern</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Erie, PA</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://jobs.erieinsurance.com/job/Erie-Data-Science-Intern-PA-16530/1321587300/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/43b55750-d040-475e-83bb-713f0ff55c6a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">4d</td>
-</tr>
 </tbody>
 </table>
 
@@ -4321,6 +4321,13 @@
 </thead>
 <tbody>
 
+<tr>
+<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Erie-Insurance-Group?utm_source=GHList&utm_medium=company">Erie Insurance Group</a></strong></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Data Science Intern</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Erie, PA</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://jobs.erieinsurance.com/job/Erie-Data-Science-Intern-PA-16530/1321587300/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/43b55750-d040-475e-83bb-713f0ff55c6a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">4d</td>
+</tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Emergent-Holdings?utm_source=GHList&utm_medium=company">Emergent Holdings </a></strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Summer 2026 Intern - Data Analytics</td>
@@ -6320,28 +6327,28 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Investment Analyst Internship</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Denver, CO</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Denver-CO/Investment-Analyst-Internship_R227?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/4714de3c-ad30-481f-beec-ac6ddf571b2c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">1d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">↳</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Investment Analyst Internship</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Austin, TX</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Austin-TX/Investment-Analyst-Internship_R228?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/f4f0f3eb-a843-4883-aa7b-e2c06651feac?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">1d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">↳</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Investment Analyst Internship</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Conshohocken, PA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/West-Conshohocken-PA/Investment-Analyst-Internship_R226?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/23b61459-0842-4b36-be6f-fcaf79e91939?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">1d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">↳</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Investment Analyst Internship</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">NYC</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/New-York-City-NY/Investment-Analyst-Internship_R225?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/92566dc6-dd41-462b-8455-1e0d714de09f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">1d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Barclays?utm_source=GHList&utm_medium=company">Barclays</a></strong></td>
