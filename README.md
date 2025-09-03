@@ -9,11 +9,11 @@
 
 ---
 
-### Browse 1087 Internship Roles by Category
+### Browse 1088 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (366)
 
-📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (58)
+📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (59)
 
 🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (293)
 
@@ -3124,6 +3124,13 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
 </tr>
 <tr>
+<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/b0914ae0-67cc-4a7d-ba1c-d8731e2f59a4?utm_source=GHList&utm_medium=company">Donaldson Company</a></strong></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Product Management Intern</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Bloomington, MN</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://donaldson.wd5.myworkdayjobs.com/donaldsoncareers/job/Bloomington-MN-USA/Product-Management-Intern_JR-24437?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/13751bac-afb3-4c72-bc42-3a8e71f17e62?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
+</tr>
+<tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/PIMCO?utm_source=GHList&utm_medium=company">PIMCO</a></strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">2026 Summer Internship - Product Analyst</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">London, UK</td>
@@ -4274,13 +4281,6 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://jobs.bytedance.com/en/position/7543005612200970503/detail?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/6bc3983c-65aa-4d29-9a3b-a08c3230a75a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">6d</td>
 </tr>
-<tr>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">↳</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Machine Learning Engineer Intern - Global E-commerce Risk Control - PhD 🎓</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Seattle, WA</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://jobs.bytedance.com/en/position/7535951608832657682/detail?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/2c746302-72dc-4ecf-88fe-0c93ec89ce6e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">6d</td>
-</tr>
 </tbody>
 </table>
 
@@ -4307,6 +4307,13 @@
 </thead>
 <tbody>
 
+<tr>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">↳</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Machine Learning Engineer Intern - Global E-commerce Risk Control - PhD 🎓</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Seattle, WA</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://jobs.bytedance.com/en/position/7535951608832657682/detail?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/2c746302-72dc-4ecf-88fe-0c93ec89ce6e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">6d</td>
+</tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">↳</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Machine Learning Engineer Intern - E-commerce Governance Algorithms - BS/MS</td>
@@ -5250,7 +5257,7 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">AI Intern</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">San Francisco, CA</br>Denver, CO</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://jobs.ashbyhq.com/Intellistack/0b5662ad-85ac-4d15-a291-f66b396d6c68/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/56fff996-d51d-4446-82cd-3489a318d443?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">25d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">26d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
