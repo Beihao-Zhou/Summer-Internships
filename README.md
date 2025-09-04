@@ -9,13 +9,13 @@
 
 ---
 
-### Browse 1178 Internship Roles by Category
+### Browse 1179 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (401)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (65)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (313)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (314)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (117)
 
@@ -3981,6 +3981,13 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
 </tr>
 <tr>
+<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Gridmatic?utm_source=GHList&utm_medium=company">Gridmatic</a></strong></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Machine Learning Intern</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Cupertino, CA</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://jobs.lever.co/gridmatic/846b8375-c841-47b3-90d0-253736ee8f2d/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/f827b665-b73a-4eb7-b3f6-0f5c30bac75e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
+</tr>
+<tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Cigna-Group?utm_source=GHList&utm_medium=company">Cigna Group</a></strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Technology Development Program - Tecdp</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><details><summary><strong>5 locations</strong></summary>Bloomington, MN</br>Austin, TX</br>Morristown, NJ</br>St. Louis, MO</br>Hartford, CT</details></td>
@@ -4302,13 +4309,6 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/Holmdel/XMLNAME-2026-Guardian-Summer-Intern--Artificial-Intelligence-Business-Analyst_R000107476?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/4379cbc8-ee5a-4631-a975-3fc85cc322a1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">1d</td>
 </tr>
-<tr>
-<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Stryker?utm_source=GHList&utm_medium=company">Stryker</a></strong></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">2026 Summer Intern - Data Analytics</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">San Jose, CA</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/San-Jose-California/XMLNAME-2026-Summer-Intern---Data-Analytics---California_R548759?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/5f782988-9a17-4e95-9e28-4ab53efa3eff?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">2d</td>
-</tr>
 </tbody>
 </table>
 
@@ -4335,6 +4335,13 @@
 </thead>
 <tbody>
 
+<tr>
+<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Stryker?utm_source=GHList&utm_medium=company">Stryker</a></strong></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">2026 Summer Intern - Data Analytics</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">San Jose, CA</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/San-Jose-California/XMLNAME-2026-Summer-Intern---Data-Analytics---California_R548759?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/5f782988-9a17-4e95-9e28-4ab53efa3eff?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">2d</td>
+</tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Edison-International?utm_source=GHList&utm_medium=company">Edison International</a></strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">2026 Summer Internship - Data Analytics/Data Science/Applied Math/Statistics</td>
