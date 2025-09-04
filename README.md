@@ -362,7 +362,7 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Software Engineer Co-Op</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Burnsville, MN</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HMN03-SIS-Sensors---Burnsville-Ea-14300-Judicial-Rd-Burnsville-MN-55306-USA/Software-Engineer-Co-Op--Spring-Summer-2026--Hybrid-_01789800?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/3fbfe076-b604-4878-844c-3c64b171148e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">1d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/9a775ea7-e29a-4fa8-963a-761444b7066a?utm_source=GHList&utm_medium=company">Santander Global Facilities (SGF) US - Santander Group</a></strong></td>
@@ -1874,7 +1874,7 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Software Engineer Intern</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><details><summary><strong>6 locations</strong></summary>Boston, MA</br>Seattle, WA</br>Newport Beach, CA</br>Irvine, CA</br>Reston, VA</br>Atlanta, GA</details></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/4807506007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/aed30efe-b239-427b-a4d7-c01c27ba05c2?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">21d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">22d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong>Nicolet National Bank</strong></td>
@@ -3800,7 +3800,7 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Product Management Intern</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">San Francisco, CA</br>Bellevue, WA</br>Mountain View, CA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://boards.greenhouse.io/embed/job_app?token=6883068002&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/ae507b57-02d4-4bfc-a7e8-6e6d6c0a6521?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">25d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">26d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
@@ -4928,7 +4928,7 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Saas Co-Op 🎓</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Sunnyvale, CA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24089?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/5e23376e-08f2-4136-bc26-45acada1f1d0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">7d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">8d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/55341c12-8fd6-4cce-8472-d15c4a3ab583?utm_source=GHList&utm_medium=company">Marsh</a></strong></td>
@@ -5019,7 +5019,7 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">NPI Automation Engineering Co-Op 🎓</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Irvine, CA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://careers.skyworksinc.com/job/Irvine-NPI-Automation-Engineering-Co-Op-(SummerFall-2026)-CA-92602/1320119000/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/094efcc4-7550-4775-ae4b-512aafb05ed1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">8d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">9d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">🔥 <strong><a href="https://simplify.jobs/c/Meta?utm_source=GHList&utm_medium=company">Meta</a></strong></td>
@@ -7034,14 +7034,14 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Algorithm Development – PhD Internship - Quant Research 🎓</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">New York, NY</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://www.hudsonrivertrading.com/careers/job/?gh_jid=7142685&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/0cd300f3-f862-42e3-8a3f-269dff1846e7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">26d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">27d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">↳</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Algorithm Trader – Internship - Quantitative Trader</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">New York, NY</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://www.hudsonrivertrading.com/careers/job/?gh_jid=7063975&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/8267bdf4-b0c6-4073-871b-6799c86aac52?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">26d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">27d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Talos-Trading?utm_source=GHList&utm_medium=company">Talos Trading</a></strong></td>
@@ -8290,7 +8290,7 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Device Physics & Engineering Intern</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Cambridge, MA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">🔒</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">13d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">14d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d?utm_source=GHList&utm_medium=company">Amentum</a></strong></td>
