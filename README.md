@@ -9,13 +9,13 @@
 
 ---
 
-### Browse 1226 Internship Roles by Category
+### Browse 1227 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (421)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (68)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (328)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (329)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (121)
 
@@ -4065,6 +4065,13 @@
 </thead>
 <tbody>
 <tr>
+<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong>Cencora</strong></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">InSite Data Analyst 🛂</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Orange, CA</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://myhrabc.wd5.myworkdayjobs.com/en-US/Global/job/Orange-CA/InSite-Data-Analyst-Intern_R2515584?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
+</tr>
+<tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong>P&G</strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Data Scientist (Masters Degree) Internship 🎓</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Cincinnati, OH</td>
@@ -4316,13 +4323,6 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://careers-wipfli.icims.com/jobs/7196/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/2e678c66-1e64-4895-bb46-f076ed6ef404?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">1d</td>
 </tr>
-<tr>
-<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Altium-Packaging?utm_source=GHList&utm_medium=company">Altium Packaging</a></strong></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">2026 Summer Intern</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Atlanta, GA</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://ccc.wd5.myworkdayjobs.com/ccc_External/job/Atlanta-GA/XMLNAME-2026-Summer-Intern_R17796?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/52c434a8-fc6e-480d-9f6a-422a140161a5?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">1d</td>
-</tr>
 </tbody>
 </table>
 
@@ -4349,6 +4349,13 @@
 </thead>
 <tbody>
 
+<tr>
+<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Altium-Packaging?utm_source=GHList&utm_medium=company">Altium Packaging</a></strong></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">2026 Summer Intern</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Atlanta, GA</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://ccc.wd5.myworkdayjobs.com/ccc_External/job/Atlanta-GA/XMLNAME-2026-Summer-Intern_R17796?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/52c434a8-fc6e-480d-9f6a-422a140161a5?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">1d</td>
+</tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Cardinal-Health?utm_source=GHList&utm_medium=company">Cardinal Health</a></strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Data and Analytics Internship</td>
@@ -9804,7 +9811,7 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Information Technology</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Atlanta, GA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://hdsupply.jobs/us/en/job/R25003763/Summer-2026-Intern---Information-Technology?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">26d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">27d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
