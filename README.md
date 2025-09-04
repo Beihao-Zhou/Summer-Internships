@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 1192 Internship Roles by Category
+### Browse 1191 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (406)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (405)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (66)
 
@@ -1496,13 +1496,6 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Software Characterization Engineering Intern</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Greensboro, NC</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://careers.qorvo.com/job/Greensboro-Software-Characterization-Engineering-Intern-NC-27409/1318261400/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/193d969e-779a-4ee4-8839-c966f62e133f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">14d</td>
-</tr>
-<tr>
-<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong>Seagate</strong></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Software Engineer</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Shakopee, MN</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://seagatecareers.com/job/Shakopee-Summer-Intern-Software-Engineer-MN/1318324100?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">14d</td>
 </tr>
 <tr>
