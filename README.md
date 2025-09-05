@@ -9,13 +9,13 @@
 
 ---
 
-### Browse 1272 Internship Roles by Category
+### Browse 1273 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (441)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (70)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (355)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (356)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (121)
 
@@ -4247,6 +4247,13 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
 </tr>
 <tr>
+<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Ingredion?utm_source=GHList&utm_medium=company">Ingredion</a></strong></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Data Scientist Intern</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Brookfield, IL</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Westchester-IL/Data-Scientist-Intern_Req-36014?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/66b1b3b1-bca5-4489-9a90-b4320e322766?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
+</tr>
+<tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Seven-Research?utm_source=GHList&utm_medium=company">Seven Research</a></strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Deep Learning Researcher – Intern 🎓</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">NYC</td>
@@ -4337,13 +4344,6 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://usfoods.wd1.myworkdayjobs.com/en-US/usfoodscareersExternal/job/Rosemont-IL/Intern---Data-Engineer--M-A--Hybrid--Onsite---Remote-_R271233?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
 </tr>
-<tr>
-<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong>Cencora</strong></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">InSite Data Analyst 🛂</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Orange, CA</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://myhrabc.wd5.myworkdayjobs.com/en-US/Global/job/Orange-CA/InSite-Data-Analyst-Intern_R2515584?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
-</tr>
 </tbody>
 </table>
 
@@ -4370,6 +4370,13 @@
 </thead>
 <tbody>
 
+<tr>
+<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong>Cencora</strong></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">InSite Data Analyst 🛂</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Orange, CA</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://myhrabc.wd5.myworkdayjobs.com/en-US/Global/job/Orange-CA/InSite-Data-Analyst-Intern_R2515584?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
+</tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong>P&G</strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Data Scientist (Masters Degree) Internship 🎓</td>
