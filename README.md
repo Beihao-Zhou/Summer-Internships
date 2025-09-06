@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 1353 Internship Roles by Category
+### Browse 1352 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (441)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (440)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (81)
 
@@ -915,13 +915,6 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Infrastructure and DevOps Internship</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Atlanta, GA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://careers.inspirebrands.com/infrastructure-and-devops-internship-summer-2026/job/44E0457CE423184B5723F5EE9BCD637E?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">3d</td>
-</tr>
-<tr>
-<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/CACI?utm_source=GHList&utm_medium=company">CACI</a></strong></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Software Quality Engineer Intern 🎓 🛂</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Austin, TX</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://careers.caci.com/global/en/job/CACIGLOBAL316652EXTERNALENGLOBAL/Software-Quality-Engineer-Intern-Summer-2026?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">3d</td>
 </tr>
 <tr>
@@ -4341,6 +4334,13 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Attleboro-Massachusetts/Product-Marketing-Intern---Summer-2026_IRC95849?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/427626a1-d94c-4df9-8714-04eebb92d6aa?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">29d</td>
 </tr>
+<tr>
+<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/fd33cc05-7479-4979-9bc3-fcf69310e14d?utm_source=GHList&utm_medium=company">Altruist</a></strong></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Product Management Intern</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">San Francisco, CA</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://altruist.com/join-altruist/5601875004?gh_jid=5601875004&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/4667db17-4ed3-4a6e-b593-392f7c3c1790?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">1mo</td>
+</tr>
 </tbody>
 </table>
 
@@ -4367,13 +4367,6 @@
 </thead>
 <tbody>
 
-<tr>
-<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/fd33cc05-7479-4979-9bc3-fcf69310e14d?utm_source=GHList&utm_medium=company">Altruist</a></strong></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Product Management Intern</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">San Francisco, CA</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://altruist.com/join-altruist/5601875004?gh_jid=5601875004&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/4667db17-4ed3-4a6e-b593-392f7c3c1790?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">1mo</td>
-</tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">↳</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Product Management Intern</td>
