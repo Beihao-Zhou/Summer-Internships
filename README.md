@@ -9,7 +9,7 @@
 
 ---
 
-### Browse 1349 Internship Roles by Category
+### Browse 1350 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (438)
 
@@ -21,7 +21,7 @@
 
 🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (109)
 
-💼 **[Other](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-other-internship-roles)** (212)
+💼 **[Other](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-other-internship-roles)** (213)
 
 ---
 
@@ -4966,25 +4966,25 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">1d</td>
 </tr>
 <tr>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">↳</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">🔥 <strong><a href="https://simplify.jobs/c/Meta?utm_source=GHList&utm_medium=company">Meta</a></strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Research Scientist Intern - Computational Diffractive Optics - PhD 🎓</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Redmond, WA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://www.metacareers.com/jobs/650648060973548?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/70603fee-3510-4d39-898f-c61fab1fc695?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">1d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">2d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/LexisNexis-Risk-Solutions?utm_source=GHList&utm_medium=company">LexisNexis Risk Solutions</a></strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Data Science Internship</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Raleigh, NC</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Data-Science-Internship_R100964-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/96a823c8-6dad-4760-aec6-b6c27b57c064?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">1d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">2d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Skyworks?utm_source=GHList&utm_medium=company">Skyworks</a></strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Quality Systems – Data Analyst Co-Op 🎓</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Ottawa, ON, Canada</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://careers.skyworksinc.com/job/Ottawa-Quality-Systems-Data-Analyst-Co-Op-ON/1322663500/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/17fca957-c1d6-435f-a72e-d9c335bb1461?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">1d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">2d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/DIRECTV?utm_source=GHList&utm_medium=company">DIRECTV</a></strong></td>
@@ -6769,21 +6769,21 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Intern – Land Administration GIS</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Bartlesville, OK</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://conocophillips.wd1.myworkdayjobs.com/External/job/Bartlesville-OK/Intern--Land-Administration-GIS-2026_REQ-005151?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/364cc17f-e247-44bc-a2be-c9f6fb91e0a7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">28d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">29d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">↳</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Intern – Land GIS Analyst</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Midland, TX</br>Houston, TX</br>Bartlesville, OK</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://conocophillips.wd1.myworkdayjobs.com/External/job/Houston-TX/Intern--Land-GIS-Analyst-2026_REQ-005138?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/91933386-a7d0-4948-8805-be44737f7c17?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">28d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">29d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Intellistack?utm_source=GHList&utm_medium=company">Intellistack</a></strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">AI Intern</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">San Francisco, CA</br>Denver, CO</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://jobs.ashbyhq.com/Intellistack/0b5662ad-85ac-4d15-a291-f66b396d6c68/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/56fff996-d51d-4446-82cd-3489a318d443?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">28d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">29d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
@@ -6930,7 +6930,7 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Data Science Intern 🛂</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Auburn Hills, MI</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Data-Science-Intern--Year-Round-_R2025-2865?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">29d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">30d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">🔥 <strong><a href="https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company">ByteDance</a></strong></td>
@@ -9727,6 +9727,13 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">IT Engineer Internship</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Marlborough, MA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Marlborough-MA-01752/IT-Engineer-Internship-Summer-2026_REQ55814?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/05d263b4-c2b1-4255-9a42-e554e83fd61b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
+</tr>
+<tr>
+<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Boston-Consulting-Group?utm_source=GHList&utm_medium=company">Boston Consulting Group</a></strong></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Female Talent Internship - BCG Platinion</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;"><details><summary><strong>7 locations</strong></summary>Wenden, Germany</br>Hamburg, Germany</br>Neukirchen-Vluyn, Germany</br>Frankfurt, Germany</br>Stuttgart, Germany</br>Berlin, Germany</br>Munich, Germany</details></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://careers.bcg.com/global/en/job/715?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/17080d7a-5741-4f48-b12d-5999d0cc729e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
 </tr>
 <tr>
