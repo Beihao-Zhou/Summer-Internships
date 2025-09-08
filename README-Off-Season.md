@@ -841,7 +841,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Palo Alto, CA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Winter 2026, Spring 2026</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://www.tesla.com/careers/search/job/248805?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">13d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">14d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Hewlett-Packard-Enterprise?utm_source=GHList&utm_medium=company">Hewlett Packard Enterprise</a></strong></td>
@@ -14576,7 +14576,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Palo Alto, CA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Winter 2026, Spring 2026</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://www.tesla.com/careers/search/job/248920?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">13d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">14d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong>Cirrus Logic</strong></td>
