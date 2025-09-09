@@ -9,7 +9,7 @@
 
 ---
 
-### Browse 1443 Internship Roles by Category
+### Browse 1444 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (455)
 
@@ -19,7 +19,7 @@
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (130)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (115)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (116)
 
 💼 **[Other](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-other-internship-roles)** (234)
 
@@ -2042,7 +2042,7 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Software Engineer Intern - Multi-Cloud CDN Platform</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">San Jose, CA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://jobs.bytedance.com/en/position/7538139519473092882/detail?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/66d624a4-bf98-4f02-b127-38342b345cff?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">23d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">24d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
@@ -4206,7 +4206,7 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Product Management Internship - Interim Intern</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">San Diego, CA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://qualcomm.eightfold.ai/careers/job/446707492877?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/edec5f96-0a62-4833-9ed3-7753cf61bf78?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">5d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">6d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">🔥 <strong><a href="https://simplify.jobs/c/Roblox?utm_source=GHList&utm_medium=company">Roblox</a></strong></td>
@@ -6387,11 +6387,11 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">12d</td>
 </tr>
 <tr>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">↳</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">🔥 <strong><a href="https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company">ByteDance</a></strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Machine Learning Engineer Intern - E-commerce Governance Algorithms - BS/MS</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Seattle, WA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://jobs.bytedance.com/en/position/7535168003103033618/detail?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/77245ac7-931e-4d69-8030-18400e8793a2?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">12d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">13d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/AbbVie?utm_source=GHList&utm_medium=company">AbbVie</a></strong></td>
@@ -6643,7 +6643,7 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Global Monetization Strategy and Analytics Intern - Mso - BS/MS</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">New York, NY</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://jobs.bytedance.com/en/position/7533673691735361799/detail?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/df0d29e3-c6f3-49d6-96ec-eb7ff567d037?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">14d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">15d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/OptionsClearingCorporation?utm_source=GHList&utm_medium=company">OCC</a></strong></td>
@@ -6965,7 +6965,7 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Machine Learning Engineer Intern - Global E-commerce Risk Control - 2026 Summer - BS/MS</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Seattle, WA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://jobs.bytedance.com/en/position/7535953226975054098/detail?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/38e9b155-826a-49f7-a431-a689d10c579e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">23d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">24d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Uline?utm_source=GHList&utm_medium=company">Uline</a></strong></td>
@@ -9332,6 +9332,13 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">3d</td>
 </tr>
 <tr>
+<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/KBR?utm_source=GHList&utm_medium=company">KBR</a></strong></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Product Engineer – Intern</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Huntsville, AL</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Redstone-Arsenal-Alabama/Product-Engineer---Intern_R2111743?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/20f546f4-0636-43de-abd8-a2789524eeb4?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">3d</td>
+</tr>
+<tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/United-Launch-Alliance?utm_source=GHList&utm_medium=company">United Launch Alliance</a></strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Software Engineering Internship</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Denver, CO</td>
@@ -9875,7 +9882,7 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Software Development Engineer Intern - Storage-HDFS - BS/ MS</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Seattle, WA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://jobs.bytedance.com/en/position/7539978900564281618/detail?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/7ce623f7-258e-4baf-8e05-fb37b6e3c0e8?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">20d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">21d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Skyworks?utm_source=GHList&utm_medium=company">Skyworks</a></strong></td>
