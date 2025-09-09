@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 1465 Internship Roles by Category
+### Browse 1466 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (456)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (457)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (98)
 
@@ -215,6 +215,13 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Intern – Software Development</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Bismarck, ND</br>Lake St Louis, MO</br>Cedar Rapids, IA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://job-boards.greenhouse.io/testnisc/jobs/7233164?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/6bf1ec25-7c32-451c-a2ad-87c91d255ac0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">3d</td>
+</tr>
+<tr>
+<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Viavi-Solutions?utm_source=GHList&utm_medium=company">Viavi Solutions</a></strong></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Intern – Software Engineering</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Remote in USA</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Home-Office-USA/Intern--Software-Engineering_250003598-2?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/44465521-54a4-4505-9d84-375248cd94ac?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">3d</td>
 </tr>
 <tr>
@@ -4369,13 +4376,6 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://santander.wd3.myworkdayjobs.com/santandercareers/job/Miami/Digital-Product-and-Innovation-Intern_Req1486536-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/ccaab6bd-7d8f-4e0d-917b-b47eef2bb849?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">9d</td>
 </tr>
-<tr>
-<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/AccuWeather?utm_source=GHList&utm_medium=company">AccuWeather</a></strong></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Product Intern - Digital Strategy</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">State College, PA</br>NYC</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://job-boards.greenhouse.io/accuweather/jobs/7211006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/880d0068-0c7c-4a83-89c0-90de82bac42e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">10d</td>
-</tr>
 </tbody>
 </table>
 
@@ -4402,6 +4402,13 @@
 </thead>
 <tbody>
 
+<tr>
+<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/AccuWeather?utm_source=GHList&utm_medium=company">AccuWeather</a></strong></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Product Intern - Digital Strategy</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">State College, PA</br>NYC</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://job-boards.greenhouse.io/accuweather/jobs/7211006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/880d0068-0c7c-4a83-89c0-90de82bac42e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">10d</td>
+</tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Appian?utm_source=GHList&utm_medium=company">Appian</a></strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Product Manager Intern</td>
