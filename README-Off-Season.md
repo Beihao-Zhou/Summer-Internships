@@ -10,7 +10,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 645 Internship Roles by Category
+### Browse 646 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (166)
 
@@ -20,9 +20,9 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-quantitative-finance-internship-roles)** (13)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-hardware-engineering-internship-roles)** (84)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-hardware-engineering-internship-roles)** (83)
 
-💼 **[Other](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-other-internship-roles)** (72)
+💼 **[Other](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-other-internship-roles)** (74)
 
 ---
 
@@ -7906,12 +7906,12 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
 </tr>
 <tr>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">↳</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Manulife-Financial?utm_source=GHList&utm_medium=company">Manulife Financial</a></strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Winter Co-op - Data Science 🎓</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Kitchener, ON, Canada</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Winter 2026</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Waterloo-Ontario/Winter-Co-op-2026---Data-Science_JR25090574?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/45f883c6-7f43-49f4-855c-30aad26becbf?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">1d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/TheScore?utm_source=GHList&utm_medium=company">theScore</a></strong></td>
@@ -9202,15 +9202,15 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">25d</td>
 </tr>
 <tr>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">↳</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">🔥 <strong><a href="https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company">ByteDance</a></strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Researcher Intern - Virtual Network 🎓</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Seattle, WA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Fall 2025</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://jobs.bytedance.com/en/position/7537163899668531474/detail?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/de5074f8-86bf-493d-b154-08ce9f1f4a9c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">25d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">26d</td>
 </tr>
 <tr>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">🔥 <strong><a href="https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company">ByteDance</a></strong></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">↳</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Research Scientist Intern - ML System 🎓</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">San Jose, CA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Fall 2025</td>
@@ -9962,7 +9962,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td style="padding: 8px; border-bottom: 1px solid #eee;">New Braunfels, TX</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Winter 2025</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">🔒</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">5d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">6d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Generac?utm_source=GHList&utm_medium=company">Generac</a></strong></td>
@@ -10186,7 +10186,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Santa Clara, CA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Fall 2026, Spring 2026</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">🔒</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">21d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">22d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">🔥 <strong><a href="https://simplify.jobs/c/Salesforce?utm_source=GHList&utm_medium=company">Salesforce</a></strong></td>
@@ -13540,14 +13540,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Software Engineering Intern</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Salt Lake City, UT</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Fall 2025</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://jobs.l3harris.com/job/Salt-Lake-City-Software-Engineering-Intern-(Salt-Lake-City,-UT)-UT-84116/1316795000/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/954a9159-a828-437a-ac81-1d130986030d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">22d</td>
-</tr>
-<tr>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">↳</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Software Engineering Intern</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Salt Lake City, UT</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Fall 2025</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://jobs.l3harris.com/job/Salt-Lake-City-Software-Engineering-Intern-(Salt-Lake-City,-UT)-UT-84116/1316792200/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/85bc6320-0658-4ca9-b1e3-5c9040bb7622?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">22d</td>
 </tr>
@@ -13716,7 +13708,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (160)</summary>
+<summary>🗃️ Inactive roles (161)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -13814,6 +13806,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td style="padding: 8px; border-bottom: 1px solid #eee;">↳</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Software Engineering Intern</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Rochester, NY</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Fall 2025</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">🔒</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">22d</td>
+</tr>
+<tr>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">↳</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Software Engineering Intern</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Salt Lake City, UT</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Fall 2025</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">🔒</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">22d</td>
@@ -15034,6 +15034,22 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
+<tr>
+<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Mackenzie-Investments?utm_source=GHList&utm_medium=company">Mackenzie Investments</a></strong></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Winter – Cybersecurity Services Intern</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Winnipeg, MB, Canada</br>Toronto, ON, Canada</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Winter 2026</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://careersen-mackenzieinvestments.icims.com/jobs/5619/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/0dd7bc57-f5fb-4843-a1b5-f42cbc761bdc?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
+</tr>
+<tr>
+<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/General-Dynamics-Mission-Systems?utm_source=GHList&utm_medium=company">General Dynamics Mission Systems</a></strong></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Cyber Security – Intern</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Colorado Springs, CO</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Winter 2025</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://careers-gdms.icims.com/jobs/68026/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/c31e949c-2173-4c26-a892-17f70c07137a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
+</tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/University-Of-Mary-And-Medical-System?utm_source=GHList&utm_medium=company">University of Maryland Medical System</a></strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">MS IT Helpdesk Specialist Intern</td>
