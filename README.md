@@ -9,7 +9,7 @@
 
 ---
 
-### Browse 1640 Internship Roles by Category
+### Browse 1641 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (513)
 
@@ -21,7 +21,7 @@
 
 🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (134)
 
-💼 **[Other](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-other-internship-roles)** (260)
+💼 **[Other](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-other-internship-roles)** (261)
 
 ---
 
@@ -11687,6 +11687,13 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Applications Development Intern</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Georgia</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://careers.mohawkind.com/job/Applications-Development-Intern-Summer-2026-Geor/1324593400/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/9aee43bc-723e-4ec5-bc7e-f81c91ebbe35?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
+</tr>
+<tr>
+<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/9ff05b27-3c7e-4c70-82e2-d3bfb40bb992?utm_source=GHList&utm_medium=company">Vermeer</a></strong></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">IT Security Analyst Intern</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Newton, IA</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://vermeer.wd5.myworkdayjobs.com/en-US/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/IT-Security-Analyst-Intern_REQ-19858?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/b4174d6c-115f-47b3-ae6e-db683adeb9c6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
 </tr>
 <tr>

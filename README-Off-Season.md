@@ -10,7 +10,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 590 Internship Roles by Category
+### Browse 589 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (158)
 
@@ -22,7 +22,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-hardware-engineering-internship-roles)** (67)
 
-💼 **[Other](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-other-internship-roles)** (72)
+💼 **[Other](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-other-internship-roles)** (71)
 
 ---
 
@@ -14640,14 +14640,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Knoxville, TN</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Winter 2025</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://jobs.lever.co/avertium/4d458a87-b2eb-4286-94c7-97dc343e0e03/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/6813b628-5e86-4148-8749-dd682238b825?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
-</tr>
-<tr>
-<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/9ff05b27-3c7e-4c70-82e2-d3bfb40bb992?utm_source=GHList&utm_medium=company">Vermeer</a></strong></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">IT Security Analyst Intern</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Newton, IA</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Winter 2025</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://vermeer.wd5.myworkdayjobs.com/en-US/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/IT-Security-Analyst-Intern_REQ-19858?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/b4174d6c-115f-47b3-ae6e-db683adeb9c6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
 </tr>
 <tr>
