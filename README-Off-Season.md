@@ -10,11 +10,11 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 602 Internship Roles by Category
+### Browse 601 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (167)
 
-📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-product-management-internship-roles)** (25)
+📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-product-management-internship-roles)** (24)
 
 🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-data-science-ai--machine-learning-internship-roles)** (261)
 
@@ -7298,14 +7298,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
-<tr>
-<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Oshkosh?utm_source=GHList&utm_medium=company">Oshkosh</a></strong></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Aftermarket Product Management Intern</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Hagerstown, MD</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Winter 2025</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Hagerstown-Maryland-United-States/Aftermarket-Product-Management-Intern_R39698?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/1ae16948-f74b-450a-abbf-251bbea924cb?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
-</tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Emerson-Electric?utm_source=GHList&utm_medium=company">Emerson Electric</a></strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Product Management Co-op</td>
