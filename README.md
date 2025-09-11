@@ -9,7 +9,7 @@
 
 ---
 
-### Browse 1720 Internship Roles by Category
+### Browse 1721 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (536)
 
@@ -21,7 +21,7 @@
 
 🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (143)
 
-💼 **[Other](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-other-internship-roles)** (272)
+💼 **[Other](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-other-internship-roles)** (273)
 
 ---
 
@@ -4960,7 +4960,7 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Intern – Product Management</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Milwaukee, WI</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Product-Management_R25-6637-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/8803b08f-4068-45b5-a035-94dcd715d2d5?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">5d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">6d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Elf-Beauty?utm_source=GHList&utm_medium=company">Elf Beauty</a></strong></td>
@@ -12338,6 +12338,13 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Summer Internships - Cyber Security</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Sherman Oaks, LA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://activision.wd1.myworkdayjobs.com/External/job/Sherman-Oaks/XMLNAME-2026-US-Summer-Internships---Cyber-Security_R025992?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/b095bd1a-cdc6-47d7-b5fe-7acc2ad45b5b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">1d</td>
+</tr>
+<tr>
+<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/NextEra-Energy?utm_source=GHList&utm_medium=company">NextEra Energy</a></strong></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">IT Power Delivery Analyst – College Intern</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Jupiter, FL</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://jobs.nexteraenergy.com/job/Jupiter-IT-Power-Delivery-Analyst-College-Intern-FL-33478/1324721500/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/842b6aab-5092-4c94-b278-302a32690b2c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">1d</td>
 </tr>
 <tr>
