@@ -9,13 +9,13 @@
 
 ---
 
-### Browse 1934 Internship Roles by Category
+### Browse 1935 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (572)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (120)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (584)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (585)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (150)
 
@@ -5925,6 +5925,13 @@
 </thead>
 <tbody>
 <tr>
+<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/WR-Berkley?utm_source=GHList&utm_medium=company">W.R. Berkley</a></strong></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">AI Intern</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Wilmington, DE</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://careers-berkley.icims.com/jobs/12875/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/e0f69806-7896-4be8-a283-0a348eb5d929?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
+</tr>
+<tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Bristol-Myers-Squibb?utm_source=GHList&utm_medium=company">Bristol Myers Squibb</a></strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Portfolio Insights and Data Innovation Internship 🎓</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Tampa, FL</td>
@@ -10259,7 +10266,7 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Data Analytics Summer Intern</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Minneapolis, MN</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">🔒</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">8d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">9d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">🔥 <strong><a href="https://simplify.jobs/c/Salesforce?utm_source=GHList&utm_medium=company">Salesforce</a></strong></td>
