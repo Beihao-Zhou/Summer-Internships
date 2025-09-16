@@ -217,7 +217,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Blacksburg, VA</br>Reston, VA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Fall 2026</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://careers-peraton.icims.com/jobs/159303/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/81033ada-85ff-495b-831f-eadaaf74b84a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">4d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">5d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Cohere?utm_source=GHList&utm_medium=company">Cohere</a></strong></td>
@@ -1161,7 +1161,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td style="padding: 8px; border-bottom: 1px solid #eee;">LA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Fall 2025</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-California-Los-Angeles/Game-Research---Development-Intern--Engine-Research_R105963-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/5b9ccd8e-4f2a-4117-b696-9a8e34774279?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">27d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">28d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Fifth-Third-Bank?utm_source=GHList&utm_medium=company">Fifth Third Bank</a></strong></td>
@@ -8031,7 +8031,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Atlanta, GA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Winter 2025</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://ccc.wd5.myworkdayjobs.com/ccc_External/job/Atlanta-GA/XMLNAME-2026-IS-AI---Automations-Developer-Intern_R17924?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/dc653cbb-6837-4e67-be07-c9bf94872a61?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">3d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">4d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Sands-Capital?utm_source=GHList&utm_medium=company">Sands Capital </a></strong></td>
@@ -8303,7 +8303,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Longueuil, QC, Canada</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Winter 2026, Spring 2026</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/LOC13052-1000-Boul-Marie-VictorinLongueuilQuebecJ4G-1A1Canada/Stage-Hiver-Support-aux-projets-Donnes-Clients---Internship-Winter-Support-to-Customer-Master-Data-projects_01788865?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/580e17a6-906d-4cb9-a632-7d32a6e28222?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">9d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">10d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Solidigm?utm_source=GHList&utm_medium=company">Solidigm</a></strong></td>
@@ -10138,7 +10138,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Remote in USA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Winter 2025</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">🔒</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">12d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">13d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/de12bd0c-8c45-4a57-8bc7-a686a35ac41f?utm_source=GHList&utm_medium=company">Royal Bank of Canada</a></strong></td>
@@ -15712,7 +15712,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><details><summary><strong>99 locations</strong></summary>Newark, CA</br>Palo Alto, CA</br>Davis, CA</br>Sonoma, CA</br>Washington</br>Fresno, CA</br>Concord, CA</br>Monterey, CA</br>Salinas, CA</br>Redding, CA</br>Fremont, CA</br>San Rafael, CA</br>Milpitas, CA</br>Washington, CA</br>California</br>Rancho Cordova, CA</br>Washington, DC</br>Vallejo, CA</br>Galt, CA</br>SF</br>Jackson, CA</br>Modesto, CA</br>Santa Rosa, CA</br>Livermore, CA</br>San Jose, CA</br>San Mateo, CA</br>Coalinga, CA</br>Central California, CA</br>Daly City, CA</br>San Carlos, CA</br>Fairfield, CA</br>Oakland, CA</br>Martinez, CA</br>San Ramon, CA</br>Eureka, CA</br>Willits, CA</br>San Bruno, CA</br>Half Moon Bay, CA</br>Richmond, CA</br>Hanford, CA</br>Santa Cruz, CA</br>Laughlin, NV</br>Healdsburg, CA</br>Stockton, CA</br>Lompoc, CA</br>Los Gatos, CA</br>Auburn, CA</br>Rocklin, CA</br>Manteca, CA</br>Folsom, CA</br>Pittsburg, CA</br>Napa, CA</br>Alameda, CA</br>Sacramento, CA</br>Hollister, CA</br>Walnut Creek, CA</br>Chico, CA</br>Visalia, CA</br>Bakersfield, CA</br>Tracy, CA</br>Lathrop, CA</br>Morgan Hill, CA</br>Ridgecrest, CA</br>Northern California, CA</br>Barstow, CA</br>Petaluma, CA</br>Wheatland, CA</br>Danville, CA</br>Berkeley, CA</br>Westwood, CA</br>Geyserville, CA</br>Clovis, CA</br>Shelter Cove, CA</br>Menlo Park, CA</br>Novato, CA</br>Cupertino, CA</br>Strawberry, CA</br>Paso Robles, CA</br>Vacaville, CA</br>Marysville, CA</br>San Luis Obispo, CA</br>Santa Maria, CA</br>Mountain View, CA</br>Lemoore, CA</br>Aptos, CA</br>Delano, CA</br>Antioch, CA</br>Roseville, CA</br>Hayward, CA</br>Woodland, CA</br>Merced, CA</br>Nevada County, CA</br>Turlock, CA</br>Anderson, CA</br>Gilroy, CA</br>Greenfield, CA</br>Brentwood, CA</br>Porterville, CA</br>Dublin, CA</details></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Winter 2025</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://careers.pge.com/job/San-Carlos-Apprentice-Telecommunications-Technician-(Various-Locations)-CA-94070/1323232000/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/eaefcfcf-5bc7-4808-8e83-4025e1b8c6c0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">10d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">11d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company">Nokia</a></strong></td>
