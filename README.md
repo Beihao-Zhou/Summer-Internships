@@ -1200,7 +1200,7 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Software Developer Summer Internship</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Greenwich, CT</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://job-boards.greenhouse.io/ibkr/jobs/8158590002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/417657bf-bbe0-4df1-87b2-d9493ee855c7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">5d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">6d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Reframe-Systems?utm_source=GHList&utm_medium=company">Reframe Systems</a></strong></td>
@@ -7754,7 +7754,7 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Autonomy Intern</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Wixom, MI</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/New-Hudson-Michigan-United-States/Autonomy-Intern---Summer-2026_R41067?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/622b802a-5717-4540-972c-3723e76ba452?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">4d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">5d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Qorvo?utm_source=GHList&utm_medium=company">Qorvo</a></strong></td>
@@ -10925,7 +10925,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (217)</summary>
+<summary>🗃️ Inactive roles (216)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -10975,13 +10975,6 @@
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/TWG-Global?utm_source=GHList&utm_medium=company">TWG Global</a></strong></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">AI Engineering Intern 🎓</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Santa Monica, CA</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">🔒</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">5d</td>
-</tr>
-<tr>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">↳</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">AI/ML Scientist Intern 🎓</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">London, UK</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">🔒</td>
@@ -16641,7 +16634,7 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Global Information Services Internship</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Toledo, OH</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://careers.owenscorning.com/job/Toledo-Global-Information-Services-Internship-(2026)-OH-43659-0001/1323918100/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/bf79014d-257c-462f-b11c-32a28fd4a3e3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">7d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">8d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Williams?utm_source=GHList&utm_medium=company">Williams</a></strong></td>
