@@ -405,7 +405,7 @@ def embedTable(listings, filepath, offSeason=False):
 
     # Build the category summary for the Browse section
     # Order: Software, Product, Data, Quant, Hardware, Other
-    category_order = ["Software", "Product", "AI/ML/Data", "Quant", "Hardware", "Other"]
+    category_order = ["Software", "Product", "AI/ML/Data", "Quant", "Hardware"]
     category_links = []
     # Use the appropriate README file based on whether this is off-season or not
     readme_filename = "README-Off-Season.md" if offSeason else "README.md"
