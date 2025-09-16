@@ -766,7 +766,7 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Solution Development – Intern - Software Development - Breakthrough</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Green Bay, WI</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://usventure.wd1.myworkdayjobs.com/usvexternal/job/WI---Green-Bay/Solution-Development--Software-Development--Intern---Breakthrough_R4331?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/8ce0b087-4b56-4907-97fa-78fd493a5456?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">3d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">4d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Schonfeld?utm_source=GHList&utm_medium=company">Schonfeld</a></strong></td>
@@ -13038,7 +13038,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (105)</summary>
+<summary>🗃️ Inactive roles (104)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -13055,13 +13055,6 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/GTS?utm_source=GHList&utm_medium=company">GTS</a></strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Quantitative Trading Internship</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">NYC</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">🔒</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">5d</td>
-</tr>
-<tr>
-<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/TWG-Global?utm_source=GHList&utm_medium=company">TWG Global</a></strong></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">AI/ML Scientist Intern - Quantitative Research & Data Science 🎓</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Santa Monica, CA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">🔒</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">5d</td>
 </tr>
