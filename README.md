@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 1909 Internship Roles by Category
+### Browse 1910 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (1007)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (1008)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (82)
 
@@ -437,6 +437,13 @@
 <td>2026 Intern - Software Engineer-Test Equipment</td>
 <td>Tucson, AZ</td>
 <td><div align="center"><a href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ201-RMS-AP-Bldg-801-1151-East-Hermans-Road-Building-801-Tucson-AZ-85756-USA/XMLNAME-2026-Intern---Software-Engineer--Test-Equipment---Onsite_01790571?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/b19c3ec1-7a2a-4b28-8b82-aa4957b70336?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>1d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/AlixPartners?utm_source=GHList&utm_medium=company">AlixPartners</a></strong></td>
+<td>Infrastructure Operations Intern - Datacenter</td>
+<td>Southfield, MI</td>
+<td><div align="center"><a href="https://www.alixpartners.com/careers/7327994003?gh_jid=7327994003&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/3c0b7eb5-116f-42df-8126-675202173d6d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>1d</td>
 </tr>
 <tr>
@@ -5885,13 +5892,6 @@
 <td><div align="center"><a href="https://aexp.eightfold.ai/careers/job/30702558?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/40e2795d-c6b5-4103-beb4-cbd81b1e9f43?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>28d</td>
 </tr>
-<tr>
-<td>↳</td>
-<td>Campus Graduate Summer Internship Program - 2026 Software Engineer - Technology</td>
-<td>Sunrise, FL</td>
-<td><div align="center"><a href="https://aexp.eightfold.ai/careers/job/30702553?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/287a2e39-556d-4469-8cf7-5d884bd23e76?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>28d</td>
-</tr>
 </tbody>
 </table>
 
@@ -5918,6 +5918,13 @@
 </thead>
 <tbody>
 
+<tr>
+<td>↳</td>
+<td>Campus Graduate Summer Internship Program - 2026 Software Engineer - Technology</td>
+<td>Sunrise, FL</td>
+<td><div align="center"><a href="https://aexp.eightfold.ai/careers/job/30702553?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/287a2e39-556d-4469-8cf7-5d884bd23e76?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>28d</td>
+</tr>
 <tr>
 <td>↳</td>
 <td>Campus Graduate Summer Internship Program - 2026 Software Engineer - Technology 🎓</td>
@@ -9624,7 +9631,7 @@
 <td>Product Management Intern</td>
 <td>Bloomington, MN</td>
 <td>🔒</td>
-<td>14d</td>
+<td>15d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/HARMAN-International?utm_source=GHList&utm_medium=company">HARMAN International</a></strong></td>
