@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 1907 Internship Roles by Category
+### Browse 1908 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (1005)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (1006)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (82)
 
@@ -465,6 +465,13 @@
 <td>Comcast Software Engineer Intern</td>
 <td>Reston, VA</td>
 <td><div align="center"><a href="https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/VA---Reston-11951-Freedom-Dr-Ste-900/Comcast-Software-Engineer-Intern_R419937?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/8f510500-9240-4cab-9c74-fe1e295d339e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>1d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/0584b8e0-c24c-4b9b-9e06-b2484d8779bf?utm_source=GHList&utm_medium=company">CAE</a></strong></td>
+<td>Software Engineering Co-op</td>
+<td>Arlington, TX</td>
+<td><div align="center"><a href="https://cae.wd3.myworkdayjobs.com/career/job/Arlington-TX/Georgia-Tech---Software-Engineering-Co-op_118037?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/5df81354-dd49-4a80-b54f-66d9e0bb6f06?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>1d</td>
 </tr>
 <tr>
@@ -5885,13 +5892,6 @@
 <td><div align="center"><a href="https://aexp.eightfold.ai/careers/job/30702548?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/001b4703-d924-4138-b1e2-6cfe66089562?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>28d</td>
 </tr>
-<tr>
-<td>↳</td>
-<td>Campus Undergraduate Summer Internship Program - 2026 Software Engineer - Technology</td>
-<td>New York, NY</td>
-<td><div align="center"><a href="https://aexp.eightfold.ai/careers/job/30702556?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/1a638e09-e313-47e4-90bf-92b6362c5111?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>28d</td>
-</tr>
 </tbody>
 </table>
 
@@ -5918,6 +5918,13 @@
 </thead>
 <tbody>
 
+<tr>
+<td>↳</td>
+<td>Campus Undergraduate Summer Internship Program - 2026 Software Engineer - Technology</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://aexp.eightfold.ai/careers/job/30702556?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/1a638e09-e313-47e4-90bf-92b6362c5111?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>28d</td>
+</tr>
 <tr>
 <td>↳</td>
 <td>Campus Undergraduate Summer Internship Program - 2026 Software Engineer - Technology</td>
@@ -14151,7 +14158,7 @@
 <td>Financial Data Analyst Co-op - SLC Management</td>
 <td>Toronto, ON, Canada</br>Kitchener, ON, Canada</td>
 <td><div align="center"><a href="https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Waterloo-Ontario/Financial-Data-Analyst-Co-op--SLC-Management--Winter---Summer-2026-_JR00113915?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/2465d349-fd1f-4d73-a84e-3986ae8ecf2a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>7d</td>
+<td>8d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Ernst-And-Young?utm_source=GHList&utm_medium=company">Ernst & Young</a></strong></td>

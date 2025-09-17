@@ -10,9 +10,9 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 455 Internship Roles by Category
+### Browse 454 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (224)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (223)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-product-management-internship-roles)** (6)
 
@@ -231,14 +231,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Arlington, TX</td>
 <td>Winter 2025</td>
 <td><div align="center"><a href="https://cae.wd3.myworkdayjobs.com/career/job/Arlington-TX/University-of-Texas-at-Arlington---Engineering-Co-op_117976?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/6a81c8d2-5142-46b6-966c-2f2ac7c6c9ef?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Software Engineering Co-op</td>
-<td>Arlington, TX</td>
-<td>Winter 2025</td>
-<td><div align="center"><a href="https://cae.wd3.myworkdayjobs.com/career/job/Arlington-TX/Georgia-Tech---Software-Engineering-Co-op_118037?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/5df81354-dd49-4a80-b54f-66d9e0bb6f06?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>1d</td>
 </tr>
 <tr>
@@ -954,12 +946,12 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>11d</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Geotab?utm_source=GHList&utm_medium=company">Geotab</a></strong></td>
 <td>Support Engineering Intern</td>
 <td>Oakville, ON, Canada</td>
 <td>Winter 2026</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/internshiplist2000/jobs/4872993008?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/82063ecb-9213-4ffa-98dc-c72f9e8557a8?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>11d</td>
+<td>12d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/PGE?utm_source=GHList&utm_medium=company">PG&E</a></strong></td>
@@ -12112,6 +12104,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>🔒</td>
 <td>3mo</td>
 </tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Caterpillar-Inc?utm_source=GHList&utm_medium=company">Caterpillar Inc.</a></strong></td>
+<td>Stagiaire en conception de logiciels/Software Designer Intern</td>
+<td>Laval, QC, Canada</td>
+<td>Fall 2025, Winter 2025</td>
+<td>🔒</td>
+<td>3mo</td>
+</tr>
 </tbody>
 </table>
 
@@ -12138,14 +12138,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </thead>
 <tbody>
 
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Caterpillar-Inc?utm_source=GHList&utm_medium=company">Caterpillar Inc.</a></strong></td>
-<td>Stagiaire en conception de logiciels/Software Designer Intern</td>
-<td>Laval, QC, Canada</td>
-<td>Fall 2025, Winter 2025</td>
-<td>🔒</td>
-<td>3mo</td>
-</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/American-Financial-Group?utm_source=GHList&utm_medium=company">American Financial Group</a></strong></td>
 <td>Catastrophe Modeling & Data Analytics Intern</td>
