@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 1963 Internship Roles by Category
+### Browse 1964 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (1053)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (1054)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (81)
 
@@ -304,7 +304,7 @@
 <td>2026 Summer Internship - Software Solutions Software Engineer - Corporate and Business Services</td>
 <td>Kennesaw, GA</td>
 <td><div align="center"><a href="https://zebra.eightfold.ai/careers/job/343627948996?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/b0bd0726-513e-47f7-b68e-33c633be70a7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>0d</td>
+<td>1d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Cox?utm_source=GHList&utm_medium=company">Cox</a></strong></td>
@@ -353,6 +353,13 @@
 <td>Enterprise Application Software Engineer Intern</td>
 <td>Atlanta, GA</td>
 <td><div align="center"><a href="https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Enterprise-Application-Software-Engineer-Intern---Summer-2026_R202566795?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/5f171b9f-7e98-4171-bd26-3457482f63d5?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>1d</td>
+</tr>
+<tr>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Meta?utm_source=GHList&utm_medium=company">Meta</a></strong></td>
+<td>Product Security Engineer – Intern</td>
+<td>Menlo Park, CA</br>NYC</td>
+<td><div align="center"><a href="https://www.metacareers.com/jobs/1993387314912727?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/1543715e-2144-4579-9ba4-42c53e7a5bc8?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>1d</td>
 </tr>
 <tr>
@@ -5878,13 +5885,6 @@
 <td><div align="center"><a href="https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Richmond-VA/Federal-Reserve-Summer-2026-Technical-Internship_R-0000030022?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/8dce2a3e-1794-4397-9615-0cd7fd341c0d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>23d</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Equitable-Holdings?utm_source=GHList&utm_medium=company">Equitable Holdings</a></strong></td>
-<td>2026 Summer Intern - Information Technology</td>
-<td>Charlotte, NC</br>Syracuse, NY</td>
-<td><div align="center"><a href="https://equitable.taleo.net/careersection/eqh_1/jobdetail.ftl?job=250000EE&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/dc67bb50-4caa-410c-baf4-8f197e0cf9fc?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>23d</td>
-</tr>
 </tbody>
 </table>
 
@@ -5911,6 +5911,13 @@
 </thead>
 <tbody>
 
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Equitable-Holdings?utm_source=GHList&utm_medium=company">Equitable Holdings</a></strong></td>
+<td>2026 Summer Intern - Information Technology</td>
+<td>Charlotte, NC</br>Syracuse, NY</td>
+<td><div align="center"><a href="https://equitable.taleo.net/careersection/eqh_1/jobdetail.ftl?job=250000EE&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/dc67bb50-4caa-410c-baf4-8f197e0cf9fc?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>23d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Zip?utm_source=GHList&utm_medium=company">Zip</a></strong></td>
 <td>Software Engineer Intern</td>
