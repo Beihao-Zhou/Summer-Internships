@@ -10,9 +10,9 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 473 Internship Roles by Category
+### Browse 472 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (230)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (229)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-product-management-internship-roles)** (7)
 
@@ -247,14 +247,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Paterson, NJ</td>
 <td>Winter 2025</td>
 <td><div align="center"><a href="https://jobs.l3harris.com/job/Clifton-Software-Engineering-Intern-(Clifton,-NJ)-NJ-07014/1327055300/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/f0548932-e128-4d40-8525-c1d450ce6624?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>0d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Software Engineering Intern</td>
-<td>Rochester, NY</td>
-<td>Winter 2025</td>
-<td><div align="center"><a href="https://jobs.l3harris.com/job/Rochester-Software-Engineering-Intern-(Rochester,-NY)-NY-14606/1327045700/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/408bcdb0-4db0-49c2-b35c-1f4c7ce6776d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>0d</td>
 </tr>
 <tr>
@@ -9911,7 +9903,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Bentonville, AR</td>
 <td>Winter 2025</td>
 <td>🔒</td>
-<td>8d</td>
+<td>9d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Walmart?utm_source=GHList&utm_medium=company">Walmart</a></strong></td>
@@ -11968,6 +11960,22 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>🔒</td>
 <td>2mo</td>
 </tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/CrucialLogics?utm_source=GHList&utm_medium=company">CrucialLogics</a></strong></td>
+<td>Intern Associate Consultant - Microsoft AI Solutions</td>
+<td>Remote in Canada</td>
+<td>Fall 2025</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Toyota-Research-Institute?utm_source=GHList&utm_medium=company">Toyota Research Institute</a></strong></td>
+<td>Energy & Materials Research Intern - Agentic Modeling 🎓</td>
+<td>Mountain View, CA</td>
+<td>Fall 2025, Winter 2026</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
 </tbody>
 </table>
 
@@ -11994,22 +12002,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </thead>
 <tbody>
 
-<tr>
-<td><strong><a href="https://simplify.jobs/c/CrucialLogics?utm_source=GHList&utm_medium=company">CrucialLogics</a></strong></td>
-<td>Intern Associate Consultant - Microsoft AI Solutions</td>
-<td>Remote in Canada</td>
-<td>Fall 2025</td>
-<td>🔒</td>
-<td>2mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Toyota-Research-Institute?utm_source=GHList&utm_medium=company">Toyota Research Institute</a></strong></td>
-<td>Energy & Materials Research Intern - Agentic Modeling 🎓</td>
-<td>Mountain View, CA</td>
-<td>Fall 2025, Winter 2026</td>
-<td>🔒</td>
-<td>2mo</td>
-</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Citadel?utm_source=GHList&utm_medium=company">Citadel</a></strong></td>
 <td>Sector Data Analyst – Intern</td>

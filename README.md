@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 1975 Internship Roles by Category
+### Browse 1976 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (1065)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (1066)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (81)
 
@@ -217,6 +217,13 @@
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/L3Harris-Technologies?utm_source=GHList&utm_medium=company">L3Harris Technologies</a></strong></td>
+<td>Software Engineering Intern</td>
+<td>Rochester, NY</td>
+<td><div align="center"><a href="https://jobs.l3harris.com/job/Rochester-Software-Engineering-Intern-(Rochester,-NY)-NY-14606/1327045700/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/408bcdb0-4db0-49c2-b35c-1f4c7ce6776d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>↳</td>
 <td>Software Engineering Intern</td>
 <td>Paterson, NJ</td>
 <td><div align="center"><a href="https://jobs.l3harris.com/job/Clifton-Software-Engineering-Intern-(Clifton,-NJ)-NJ-07014/1326929100/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/254078cd-9a53-44c2-8b06-bc1a9148032f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
@@ -1564,7 +1571,7 @@
 <td>Software Engineering Intern</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/viamrobotics/jobs/5648506004?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/74df2129-8b36-43b2-8476-b31b94eff255?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>4d</td>
+<td>5d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Zurich-Insurance?utm_source=GHList&utm_medium=company">Zurich Insurance</a></strong></td>
@@ -2824,7 +2831,7 @@
 <td>2026 Information Technology Internship Program</td>
 <td>Middlesex, NJ</td>
 <td><div align="center"><a href="https://everestre.wd5.myworkdayjobs.com/careers/job/Warren-NJ/XMLNAME-2026-Information-Technology-Internship-Program_R6756?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/c749546b-413b-484f-9608-89a26c84d1e2?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>7d</td>
+<td>8d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/LabCorp?utm_source=GHList&utm_medium=company">LabCorp</a></strong></td>
@@ -3230,14 +3237,14 @@
 <td>Summer Internship Program - Platforms and Technology - Software Engineer</td>
 <td>Mt Laurel Township, NJ</td>
 <td><div align="center"><a href="https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2026-Summer-Internship-Program---Platforms-and-Technology---Software-Engineer_R_1443921?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/a2f23612-7208-41fe-8689-641fb46a4751?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>8d</td>
+<td>9d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Emerson-Electric?utm_source=GHList&utm_medium=company">Emerson Electric</a></strong></td>
 <td>Product Engineering Co-Op</td>
 <td>Iowa</td>
 <td><div align="center"><a href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/25025728?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/2eda5b43-9ee1-4b71-b1aa-e0e580d3e238?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>8d</td>
+<td>9d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Walmart?utm_source=GHList&utm_medium=company">Walmart</a></strong></td>
@@ -5878,13 +5885,6 @@
 <td><div align="center"><a href="https://job-boards.greenhouse.io/verkada/jobs/4838307007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/bc5f682f-392c-4ecb-8e19-9d6b59c2f99c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>23d</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Fannie-Mae?utm_source=GHList&utm_medium=company">Fannie Mae</a></strong></td>
-<td>Campus – Technology Program Intern</td>
-<td>Plano, TX</br>Reston, VA</td>
-<td><div align="center"><a href="https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Reston-Town-Center/Campus---Technology-Program-Intern-_JR1262?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/38eb8b54-e681-410a-af0a-c98dbc6f3116?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>23d</td>
-</tr>
 </tbody>
 </table>
 
@@ -5911,6 +5911,13 @@
 </thead>
 <tbody>
 
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Fannie-Mae?utm_source=GHList&utm_medium=company">Fannie Mae</a></strong></td>
+<td>Campus – Technology Program Intern</td>
+<td>Plano, TX</br>Reston, VA</td>
+<td><div align="center"><a href="https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Reston-Town-Center/Campus---Technology-Program-Intern-_JR1262?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/38eb8b54-e681-410a-af0a-c98dbc6f3116?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>23d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Abridge?utm_source=GHList&utm_medium=company">Abridge</a></strong></td>
 <td>Full Stack Engineering Intern</td>
@@ -7831,7 +7838,7 @@
 <td>Software Engineering Intern</td>
 <td>Austin, TX</td>
 <td>🔒</td>
-<td>8d</td>
+<td>9d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Western-Southern-Financial-Group?utm_source=GHList&utm_medium=company">Western & Southern Financial Group</a></strong></td>
@@ -11695,7 +11702,7 @@
 <td>Data Analyst Co-Op</td>
 <td>Iowa</td>
 <td><div align="center"><a href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/25025649?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/9dd282d8-1812-4fab-aefd-cfff0726f0af?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>8d</td>
+<td>9d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/64266d7e-3396-4232-b0e2-6d27da163273?utm_source=GHList&utm_medium=company">Meijer</a></strong></td>
