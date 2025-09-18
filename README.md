@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 1967 Internship Roles by Category
+### Browse 1968 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (1057)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (1058)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (81)
 
@@ -241,6 +241,13 @@
 <td>Software or Computer Engineering Intern 🇺🇸</td>
 <td>Sterling Heights, MI</td>
 <td><div align="center"><a href="https://jobs.baesystems.com/global/en/job/BAE1US115987BREXTERNAL/Software-or-Computer-Engineering-Intern-Summer-2026?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>🔥 <strong><a href="https://simplify.jobs/c/ServiceNow?utm_source=GHList&utm_medium=company">ServiceNow</a></strong></td>
+<td>Servicenow Security Organization – Associate Information Security Analyst Intern - Sso</td>
+<td>San Diego, CA</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/ServiceNow/744000082318027?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/24e5efbf-8bae-427f-8742-a193065d54c7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>0d</td>
 </tr>
 <tr>
@@ -5878,13 +5885,6 @@
 <td><div align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/83033753760211654-software-developer-intern-ms-summer-2026?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
 <td>23d</td>
 </tr>
-<tr>
-<td>↳</td>
-<td>Software Engineering Intern 🎓</td>
-<td><details><summary><strong>30 locations</strong></summary>Atlanta, GA</br>Austin, TX</br>Bellevue, WA</br>Boulder, CO</br>Cambridge, MA</br>Chicago, IL</br>Durham, NC</br>Goleta, CA</br>Irvine, CA</br>Kirkland, WA</br>Los Angeles, CA</br>Madison, WI</br>Mountain View, CA</br>New York, NY</br>Palo Alto, CA</br>Pittsburgh, PA</br>Portland, OR</br>Raleigh, NC</br>Redmond, WA</br>Redwood City, CA</br>Reston, VA</br>San Bruno, CA</br>San Diego, CA</br>San Francisco, CA</br>San Jose, CA</br>Santa Cruz, CA</br>Seattle, WA</br>South San Francisco, CA</br>Sunnyvale, CA</br>Washington D.C., DC</details></td>
-<td><div align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/117118476782314182-software-engineering-intern-ms-summer-2026?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>23d</td>
-</tr>
 </tbody>
 </table>
 
@@ -5911,6 +5911,13 @@
 </thead>
 <tbody>
 
+<tr>
+<td>↳</td>
+<td>Software Engineering Intern 🎓</td>
+<td><details><summary><strong>30 locations</strong></summary>Atlanta, GA</br>Austin, TX</br>Bellevue, WA</br>Boulder, CO</br>Cambridge, MA</br>Chicago, IL</br>Durham, NC</br>Goleta, CA</br>Irvine, CA</br>Kirkland, WA</br>Los Angeles, CA</br>Madison, WI</br>Mountain View, CA</br>New York, NY</br>Palo Alto, CA</br>Pittsburgh, PA</br>Portland, OR</br>Raleigh, NC</br>Redmond, WA</br>Redwood City, CA</br>Reston, VA</br>San Bruno, CA</br>San Diego, CA</br>San Francisco, CA</br>San Jose, CA</br>Santa Cruz, CA</br>Seattle, WA</br>South San Francisco, CA</br>Sunnyvale, CA</br>Washington D.C., DC</details></td>
+<td><div align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/117118476782314182-software-engineering-intern-ms-summer-2026?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td>23d</td>
+</tr>
 <tr>
 <td>↳</td>
 <td>Software Developer Intern, BS</td>
@@ -11646,7 +11653,7 @@
 <td>Store Analytics Intern</td>
 <td>Grand Rapids, MI</td>
 <td><div align="center"><a href="https://meijer.wd5.myworkdayjobs.com/en-US/Meijer/job/Grand-Rapids-MI/Store-Analytics-Intern--Summer-2026_R000608209-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/597dffe9-0105-44ce-996f-e24422685ae5?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>8d</td>
+<td>9d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Waymo?utm_source=GHList&utm_medium=company">Waymo</a></strong></td>

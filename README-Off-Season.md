@@ -10,9 +10,9 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 481 Internship Roles by Category
+### Browse 480 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (238)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (237)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-product-management-internship-roles)** (7)
 
@@ -327,14 +327,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td><details><summary><strong>4 locations</strong></summary>Austin, TX</br>Dallas, TX</br>Chicago, IL</br>NYC</details></td>
 <td>Winter 2025</td>
 <td><div align="center"><a href="https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Software-Engineering-Intern_JR103564?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/3ef25068-0c26-4aed-bfdc-1637a3f4e004?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>0d</td>
-</tr>
-<tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/ServiceNow?utm_source=GHList&utm_medium=company">ServiceNow</a></strong></td>
-<td>Servicenow Security Organization – Associate Information Security Analyst Intern - Sso</td>
-<td>San Diego, CA</td>
-<td>Winter 2025</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/ServiceNow/744000082318027?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/24e5efbf-8bae-427f-8742-a193065d54c7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>0d</td>
 </tr>
 <tr>
@@ -11856,6 +11848,30 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>🔒</td>
 <td>1mo</td>
 </tr>
+<tr>
+<td>↳</td>
+<td>Machine Learning Engineer Intern - Tiktok-Recommendation 🎓</td>
+<td>San Jose, CA</td>
+<td>Fall 2025</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Machine Learning Scientist Intern - Tiktok-Data-Plus 🎓</td>
+<td>San Jose, CA</td>
+<td>Fall 2025</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Machine Learning Scientist Intern - Tiktok-Recommendation-Live - PhD 🎓</td>
+<td>San Jose, CA</td>
+<td>Fall 2025</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
 </tbody>
 </table>
 
@@ -11882,30 +11898,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </thead>
 <tbody>
 
-<tr>
-<td>↳</td>
-<td>Machine Learning Engineer Intern - Tiktok-Recommendation 🎓</td>
-<td>San Jose, CA</td>
-<td>Fall 2025</td>
-<td>🔒</td>
-<td>1mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Machine Learning Scientist Intern - Tiktok-Data-Plus 🎓</td>
-<td>San Jose, CA</td>
-<td>Fall 2025</td>
-<td>🔒</td>
-<td>1mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Machine Learning Scientist Intern - Tiktok-Recommendation-Live - PhD 🎓</td>
-<td>San Jose, CA</td>
-<td>Fall 2025</td>
-<td>🔒</td>
-<td>1mo</td>
-</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Moog-Inc?utm_source=GHList&utm_medium=company">Moog Inc</a></strong></td>
 <td>Intern – Artificial Intelligence</td>
