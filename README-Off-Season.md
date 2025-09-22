@@ -8821,7 +8821,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>24mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Splunk?utm_source=GHList&utm_medium=company">Splunk</a></strong></td>
+<td>↳</td>
 <td>Software Engineer Intern - Front-end - Remote US - Winter 2024</td>
 <td><details><summary><strong>4 locations</strong></summary>Texas</br>Remote</br>Colorado</br>North Carolina</details></td>
 <td>Winter 2024</td>
@@ -13915,7 +13915,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>20mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Kinaxis?utm_source=GHList&utm_medium=company">Kinaxis</a></strong></td>
 <td>Co-Op/Intern Software Engineer - AI Platform</td>
 <td>Canada</td>
 <td>Spring 2024</td>
