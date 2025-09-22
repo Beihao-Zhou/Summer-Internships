@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 2023 Internship Roles by Category
+### Browse 2024 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (1078)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (1079)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (79)
 
@@ -89,6 +89,13 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Brilliant</strong></td>
+<td>Software Engineering Intern</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://jobs.lever.co/brilliant/758ab26f-5a61-4079-918f-f984d9818391?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
 <tr>
 <td><strong>Darkhiv</strong></td>
 <td>Software Engineer 🇺🇸</td>
@@ -5225,42 +5232,42 @@
 <td>2026 Summer Intern - Software Engineering</td>
 <td>Portage, MI</td>
 <td><div align="center"><a href="https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/XMLNAME-2026-Summer-Intern---Software-Engineering---Michigan_R549763?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/f7a2ee6f-6eed-4622-9d43-bbec9c35c9a7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>20d</td>
+<td>21d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>2026 Summer Intern - Software Engineering</td>
 <td>Fort Wayne, IN</td>
 <td><div align="center"><a href="https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Wayne-Indiana/XMLNAME-2026-Summer-Intern---Software-Engineering---Indiana_R549765?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/b7b8e488-bdc3-46e1-b216-ba3d15bcde37?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>20d</td>
+<td>21d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>2026 Summer Intern - Software Engineering</td>
 <td>Fort Lauderdale, FL</td>
 <td><div align="center"><a href="https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Lauderdale-Florida/XMLNAME-2026-Summer-Intern---Software-Engineering---Florida_R549793?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/07a6ba14-b0f8-498d-8e24-c8d5fd0d4be6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>20d</td>
+<td>21d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>2026 Summer Intern - Software Engineering</td>
 <td>Flower Mound, TX</td>
 <td><div align="center"><a href="https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Flower-Mound-Texas/XMLNAME-2026-Summer-Intern---Software-Engineering---Texas_R549794?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/b3f56aba-1dc2-49b5-b630-ed37efc7e306?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>20d</td>
+<td>21d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>2026 Summer Intern - Information Technology</td>
 <td>Kalamazoo, MI</td>
 <td><div align="center"><a href="https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Kalamazoo-Michigan/XMLNAME-2026-Summer-Intern---Information-Technology---Michigan_R548761?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/0c43f92a-07fc-4aa2-891a-56698b35304e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>20d</td>
+<td>21d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>2026 Summer Intern - Information Technology</td>
 <td>Mahwah, NJ</td>
 <td><div align="center"><a href="https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Mahwah-New-Jersey/XMLNAME-2026-Summer-Intern---Information-Technology---New-Jersey_R548764?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/db8fd81b-ba14-454a-8fa8-e86286754943?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>20d</td>
+<td>21d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Duke-Energy?utm_source=GHList&utm_medium=company">Duke Energy</a></strong></td>
@@ -5857,13 +5864,6 @@
 <td><div align="center"><a href="https://www.janestreet.com/join-jane-street/position/8069279002/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
 <td>25d</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Analog-Devices?utm_source=GHList&utm_medium=company">Analog Devices</a></strong></td>
-<td>Algorithm Engineer Intern</td>
-<td>Boston, MA</br>San Diego, CA</br>Burlington, MA</td>
-<td><div align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Algorithm-Engineer-Intern_R255043?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/b6b364c9-a0c5-4bbe-9438-54d3ffe18da3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>25d</td>
-</tr>
 </tbody>
 </table>
 
@@ -5890,6 +5890,13 @@
 </thead>
 <tbody>
 
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Analog-Devices?utm_source=GHList&utm_medium=company">Analog Devices</a></strong></td>
+<td>Algorithm Engineer Intern</td>
+<td>Boston, MA</br>San Diego, CA</br>Burlington, MA</td>
+<td><div align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Algorithm-Engineer-Intern_R255043?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/b6b364c9-a0c5-4bbe-9438-54d3ffe18da3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>25d</td>
+</tr>
 <tr>
 <td>↳</td>
 <td>Product Engineer Prod Dev Intern</td>
@@ -13298,14 +13305,14 @@
 <td>2026 Summer Intern - Data Analytics</td>
 <td>Mahwah, NJ</td>
 <td><div align="center"><a href="https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Mahwah-New-Jersey/XMLNAME-2026-Summer-Intern---Data-Analytics---New-Jersey_R548706?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/c9389197-4749-40f6-930b-015044a4d2ad?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>20d</td>
+<td>21d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>2026 Summer Intern - Data Analytics</td>
 <td>Portage, MI</td>
 <td><div align="center"><a href="https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/XMLNAME-2026-Summer-Intern---Data-Analytics---Michigan_R548703?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/e9db0359-fcfc-4ede-9785-53dba01f7258?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>20d</td>
+<td>21d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/JP-Morgan-Chase?utm_source=GHList&utm_medium=company">JP Morgan Chase</a></strong></td>
