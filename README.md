@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 2015 Internship Roles by Category
+### Browse 2016 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (1042)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (1043)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (95)
 
@@ -318,6 +318,13 @@
 <td>Offensive Security Intern - Offensive Security</td>
 <td>Toronto, ON, Canada</td>
 <td><div align="center"><a href="https://boards.greenhouse.io/robinhood/jobs/7161054?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/81bf9eb5-6e98-4196-a830-5f3bd88daa74?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/NextEra-Energy?utm_source=GHList&utm_medium=company">NextEra Energy</a></strong></td>
+<td>IT Nuclear Cybersecurity Analyst – College Intern</td>
+<td>Jensen Beach, FL</td>
+<td><div align="center"><a href="https://jobs.nexteraenergy.com/job/Jensen-Beach-IT-Nuclear-Cybersecurity-Analyst-College-Intern-FL-34957/1326511300/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/6e44193d-feb4-4c96-82fb-c1871c103fc9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>0d</td>
 </tr>
 <tr>
@@ -5934,13 +5941,6 @@
 <td><div align="center"><a href="https://jobs.l3harris.com/job/Melbourne-Application-Developer-Intern-(Melbourne,-FL)-FL-32919/1320080300/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/f15d24d4-4b61-44f6-83e4-f9f6e9e77763?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>28d</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Fannie-Mae?utm_source=GHList&utm_medium=company">Fannie Mae</a></strong></td>
-<td>Campus – Chief Security Office Program Intern</td>
-<td>Reston, VA</td>
-<td><div align="center"><a href="https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Reston-Town-Center/Campus---Chief-Security-Office-Program-Intern_JR1267-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/ab3de33e-f5db-4648-8acc-87c6a35ceb32?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>28d</td>
-</tr>
 </tbody>
 </table>
 
@@ -5967,6 +5967,13 @@
 </thead>
 <tbody>
 
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Fannie-Mae?utm_source=GHList&utm_medium=company">Fannie Mae</a></strong></td>
+<td>Campus – Chief Security Office Program Intern</td>
+<td>Reston, VA</td>
+<td><div align="center"><a href="https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Reston-Town-Center/Campus---Chief-Security-Office-Program-Intern_JR1267-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/ab3de33e-f5db-4648-8acc-87c6a35ceb32?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>28d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/GE-Appliances?utm_source=GHList&utm_medium=company">GE Appliances</a></strong></td>
 <td>Software Engineering Co-op</td>
@@ -14968,7 +14975,7 @@
 <td>GBS Data Science Internship</td>
 <td>Atlanta, GA</td>
 <td>🔒</td>
-<td>25d</td>
+<td>26d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/GuideWell-Mutual?utm_source=GHList&utm_medium=company">GuideWell Mutual</a></strong></td>
