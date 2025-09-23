@@ -242,6 +242,13 @@ def classifyJobCategory(job):
     # Always classify by title for better accuracy, ignore existing category
     title = job.get("title", "").lower()
     
+    # Filter out IT technical support roles that aren't really tech internships
+    if any(term in title for term in [
+        "it technical intern", "it technician", "it support", "technical support intern",
+        "help desk", "desktop support", "it help desk", "computer support"
+    ]):
+        return None
+    
     # Hardware (first priority) - expanded keywords
     if any(term in title for term in [
         "hardware", "embedded", "fpga", "circuit", "chip", "silicon", "asic", "robotics", "firmware", 

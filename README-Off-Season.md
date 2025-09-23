@@ -1870,7 +1870,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (592)</summary>
+<summary>🗃️ Inactive roles (591)</summary>
 
 <table>
 <thead>
@@ -3745,14 +3745,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Product Development Intern - Beverage</td>
 <td>Needham, MA</td>
 <td>Fall 2025, Winter 2025</td>
-<td>🔒</td>
-<td>2mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/PrimeRx?utm_source=GHList&utm_medium=company">PrimeRx</a></strong></td>
-<td>Technical Support Internship</td>
-<td>Uniondale, NY</td>
-<td>Fall 2025</td>
 <td>🔒</td>
 <td>2mo</td>
 </tr>
