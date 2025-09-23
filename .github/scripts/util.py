@@ -245,7 +245,8 @@ def classifyJobCategory(job):
     # Filter out IT technical support roles that aren't really tech internships
     if any(term in title for term in [
         "it technical intern", "it technician", "it support", "technical support intern",
-        "help desk", "desktop support", "it help desk", "computer support"
+        "help desk", "desktop support", "it help desk", "computer support", "security operations", "field operations",
+        "information technology"
     ]):
         return None
     
