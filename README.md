@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 2051 Internship Roles by Category
+### Browse 2052 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (1063)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (1064)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (95)
 
@@ -150,6 +150,13 @@
 <td>Student Software Engineering Intern</td>
 <td>Richardson, TX</td>
 <td><div align="center"><a href="https://jobs.smartrecruiters.com/RESPECInc/744000083551378?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/7e3150d2-3408-4a2a-8c6f-7634903812d8?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/CIBC?utm_source=GHList&utm_medium=company">CIBC</a></strong></td>
+<td>IT Project Coordinator Co-op - Technology, Infrastructure, and Innovation</td>
+<td>Toronto, ON, Canada</td>
+<td><div align="center"><a href="https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/IT-Project-Coordinator-Co-op_2521255?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/718cbaab-9f75-4371-9856-33afe2c454d4?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>0d</td>
 </tr>
 <tr>
@@ -5913,13 +5920,6 @@
 <td><div align="center"><a href="https://jobs.cisco.com/jobs/ProjectDetail/Consulting-Engineer-I-Intern-United-States/1448044?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/237d2a1a-b20e-41ee-99cd-a39ff8110bfb?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>28d</td>
 </tr>
-<tr>
-<td>↳</td>
-<td>Security Consulting Engineer I – Intern</td>
-<td>Research Triangle, Durham, NC</td>
-<td><div align="center"><a href="https://jobs.cisco.com/jobs/ProjectDetail/Security-Consulting-Engineer-I-Intern-United-States/1448053?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/733bfe30-fec6-4086-a93f-e45ab4d7045f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>28d</td>
-</tr>
 </tbody>
 </table>
 
@@ -5946,6 +5946,13 @@
 </thead>
 <tbody>
 
+<tr>
+<td>↳</td>
+<td>Security Consulting Engineer I – Intern</td>
+<td>Research Triangle, Durham, NC</td>
+<td><div align="center"><a href="https://jobs.cisco.com/jobs/ProjectDetail/Security-Consulting-Engineer-I-Intern-United-States/1448053?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/733bfe30-fec6-4086-a93f-e45ab4d7045f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>28d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Verkada?utm_source=GHList&utm_medium=company">Verkada</a></strong></td>
 <td>Backend Software Engineering Intern</td>
