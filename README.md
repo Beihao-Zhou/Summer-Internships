@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 2052 Internship Roles by Category
+### Browse 2053 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (1064)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (1065)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (95)
 
@@ -122,6 +122,13 @@
 <td>Technology Analyst 🇺🇸</td>
 <td><details><summary><strong>14 locations</strong></summary>Chicago, IL</br>Arlington, VA</br>Atlanta, GA</br>Austin, TX</br>Boston, MA</br>Charlotte, NC</br>Houston, TX</br>Irving, TX</br>Los Angeles, CA</br>Morristown, NJ</br>New York City, NY</br>Philadelphia, PA</br>San Francisco, CA</br>Seattle, WA</details></td>
 <td><div align="center"><a href="https://www.accenture.com/us-en/careers/jobdetails?id=R00285547_en&title=Technology+Summer+Analyst+-+NAELFY26&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Constellation-Brands?utm_source=GHList&utm_medium=company">Constellation Brands</a></strong></td>
+<td>Intern - Automation - Process & Transformation - RPA</td>
+<td>Rochester, NY</td>
+<td><div align="center"><a href="https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--Automation--Process---Transformation--RPA-_R-38380?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/3a833108-0e8b-460e-8bfd-1b8662cf1a9c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>0d</td>
 </tr>
 <tr>
@@ -5913,13 +5920,6 @@
 <td><div align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Product-Engineer-Prod-Dev-Intern_R255239?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/6e3a0d52-d186-41b7-b8f2-60e7fa6a8bef?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>28d</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Cisco?utm_source=GHList&utm_medium=company">Cisco</a></strong></td>
-<td>Consulting Engineer I – Intern</td>
-<td>Research Triangle, Durham, NC</td>
-<td><div align="center"><a href="https://jobs.cisco.com/jobs/ProjectDetail/Consulting-Engineer-I-Intern-United-States/1448044?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/237d2a1a-b20e-41ee-99cd-a39ff8110bfb?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>28d</td>
-</tr>
 </tbody>
 </table>
 
@@ -5946,6 +5946,13 @@
 </thead>
 <tbody>
 
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Cisco?utm_source=GHList&utm_medium=company">Cisco</a></strong></td>
+<td>Consulting Engineer I – Intern</td>
+<td>Research Triangle, Durham, NC</td>
+<td><div align="center"><a href="https://jobs.cisco.com/jobs/ProjectDetail/Consulting-Engineer-I-Intern-United-States/1448044?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/237d2a1a-b20e-41ee-99cd-a39ff8110bfb?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>28d</td>
+</tr>
 <tr>
 <td>↳</td>
 <td>Security Consulting Engineer I – Intern</td>
