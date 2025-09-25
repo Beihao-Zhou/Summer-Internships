@@ -1538,7 +1538,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>1mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Notion?utm_source=GHList&utm_medium=company">Notion</a></strong></td>
+<td>↳</td>
 <td>Software Engineer – Mobile Intern</td>
 <td>SF</br>NYC</td>
 <td>Winter 2026, Spring 2026</td>
