@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 2085 Internship Roles by Category
+### Browse 2086 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (1080)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (1081)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (95)
 
@@ -171,6 +171,13 @@
 <td>Software Engineer Intern - Multiple Teams</td>
 <td>Orlando, FL</td>
 <td><div align="center"><a href="https://jobs.ea.com/en_US/careers/JobDetail/Modes-Software-Engineer-Intern-SUMMER-2026/210907?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/a3ab23a6-689c-4acd-bb3b-d56e24a13b24?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Banner-Health?utm_source=GHList&utm_medium=company">Banner Health</a></strong></td>
+<td>Intern IT 1 Cybersecurity - IT Threat & Vulnerability Management</td>
+<td><details><summary><strong>6 locations</strong></summary>California</br>Wyoming</br>Nevada</br>Colorado</br>Nebraska</br>Phoenix, AZ</details></td>
+<td><div align="center"><a href="https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Banner-Health-Corp-Phoenix-2901-N-Central-Ave/Intern-IT-I-Cybersecurity-SOC_R4416898-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/5792c0c1-b8f3-4288-bb06-0d1857c368bb?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>0d</td>
 </tr>
 <tr>
@@ -5864,13 +5871,6 @@
 <td><div align="center"><a href="https://jobs.ashbyhq.com/Commure-Athelas/566a84fb-d93e-4177-ac07-3c16d3ae8e8d/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/61e8edc5-c449-4818-951d-28ada489ac0d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>28d</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Santander?utm_source=GHList&utm_medium=company">Santander</a></strong></td>
-<td>Model Development Intern</td>
-<td>Boston, MA</td>
-<td><div align="center"><a href="https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Boston/Model-Development-Intern_Req1486222-2?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/3d2fe5c0-828f-40b0-80ff-619b6b11a0fe?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>28d</td>
-</tr>
 </tbody>
 </table>
 
@@ -5897,6 +5897,13 @@
 </thead>
 <tbody>
 
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Santander?utm_source=GHList&utm_medium=company">Santander</a></strong></td>
+<td>Model Development Intern</td>
+<td>Boston, MA</td>
+<td><div align="center"><a href="https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Boston/Model-Development-Intern_Req1486222-2?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/3d2fe5c0-828f-40b0-80ff-619b6b11a0fe?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>28d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Newrez?utm_source=GHList&utm_medium=company">Newrez</a></strong></td>
 <td>2026 Summer Internship - Software Engineering</td>
