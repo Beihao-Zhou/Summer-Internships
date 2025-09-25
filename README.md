@@ -9,7 +9,7 @@
 
 ---
 
-### Browse 2122 Internship Roles by Category
+### Browse 2121 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (1100)
 
@@ -17,7 +17,7 @@
 
 🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (556)
 
-📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (183)
+📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (182)
 
 🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (188)
 
@@ -4920,11 +4920,11 @@
 <td>20d</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>Simon</strong></td>
 <td>Software Quality Assurance</td>
 <td>Indianapolis, IN</td>
 <td><div align="center"><a href="https://simon.wd1.myworkdayjobs.com/en-US/Simon/job/Indianapolis-IN/Intern---Software-Quality-Assurance_R12533?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>20d</td>
+<td>21d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/SPS-Commerce?utm_source=GHList&utm_medium=company">SPS Commerce</a></strong></td>
@@ -5449,7 +5449,7 @@
 <td>Infrastructure and DevOps Internship</td>
 <td>Atlanta, GA</td>
 <td><div align="center"><a href="https://careers.inspirebrands.com/infrastructure-and-devops-internship-summer-2026/job/44E0457CE423184B5723F5EE9BCD637E?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Dicks-Sporting-Goods?utm_source=GHList&utm_medium=company">Dick's Sporting Goods</a></strong></td>
@@ -13753,7 +13753,7 @@
 <td>Data Engineer, M&A 🛂</td>
 <td>Rosemont, IL</td>
 <td><div align="center"><a href="https://usfoods.wd1.myworkdayjobs.com/en-US/usfoodscareersExternal/job/Rosemont-IL/Intern---Data-Engineer--M-A--Hybrid--Onsite---Remote-_R271233?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>20d</td>
+<td>21d</td>
 </tr>
 <tr>
 <td><strong>P&G</strong></td>
@@ -16319,13 +16319,6 @@
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Walker-And-Dunlop?utm_source=GHList&utm_medium=company">Walker & Dunlop</a></strong></td>
 <td>Capital Markets Intern</td>
-<td>Oconomowoc, WI</td>
-<td><div align="center"><a href="https://walkerdunlop.wd1.myworkdayjobs.com/WD/job/Hartland-WI-USA/XMLNAME-2026-Capital-Markets-Intern_Req-1627?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/960a4162-9282-4448-afe8-44d2b0442719?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>6d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Capital Markets Intern</td>
 <td>Atlanta, GA</td>
 <td><div align="center"><a href="https://walkerdunlop.wd1.myworkdayjobs.com/WD/job/Atlanta-GA-USA/XMLNAME-2026-Capital-Markets-Intern_Req-1629?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/b4ba88ac-3f79-496d-ba2c-381710b521ad?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>6d</td>
@@ -17455,7 +17448,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (121)</summary>
+<summary>🗃️ Inactive roles (122)</summary>
 
 <table>
 <thead>
@@ -17474,6 +17467,13 @@
 <td>SF</td>
 <td>🔒</td>
 <td>2d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Walker-And-Dunlop?utm_source=GHList&utm_medium=company">Walker & Dunlop</a></strong></td>
+<td>Capital Markets Intern</td>
+<td>Oconomowoc, WI</td>
+<td>🔒</td>
+<td>6d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Genworth-Financial?utm_source=GHList&utm_medium=company">Genworth Financial</a></strong></td>
