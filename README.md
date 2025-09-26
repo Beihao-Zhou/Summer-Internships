@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 2171 Internship Roles by Category
+### Browse 2172 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (1119)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (1120)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (101)
 
@@ -192,6 +192,13 @@
 <td>Security Engineer Intern - Summer 2026</td>
 <td>Raleigh, NC</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/pendo/jobs/8185903002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/723dbf18-5553-444e-a6ff-3cbdd2bd68bb?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/b5727a15-6e9d-4d6c-9941-869756efc588?utm_source=GHList&utm_medium=company">Openlane</a></strong></td>
+<td>Software Engineer Intern - Multiple Teams</td>
+<td>Remote in USA</td>
+<td><div align="center"><a href="https://kar.wd1.myworkdayjobs.com/en-US/OPENLANE_Careers/job/Remote-United-States/Software-Engineer-Intern--Remote-_R-252685?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/32fb455b-5b49-41de-b8d0-627b1ce89028?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>0d</td>
 </tr>
 <tr>
@@ -2537,7 +2544,7 @@
 <td>Fed Summer Internship – Technical Intern</td>
 <td>Salt Lake City, UT</br>SF</td>
 <td><div align="center"><a href="https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/San-Francisco-CA/XMLNAME-2026-SF-Fed-Summer-Internship---TECHNICAL-Intern_R-0000030167?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/52793ff4-07d7-4eb0-9eb3-e2bccf4064d0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>10d</td>
+<td>11d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Midmark?utm_source=GHList&utm_medium=company">Midmark </a></strong></td>
@@ -5864,13 +5871,6 @@
 <td><div align="center"><a href="https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northfield-Illinois/IT-Software-Development-Intern--E-Commerce----Summer-2026_R2514365?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/d07b4638-476a-4ae2-8b35-0711d4676140?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>27d</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Dow-Jones?utm_source=GHList&utm_medium=company">Dow Jones</a></strong></td>
-<td>Enterprise Application Intern</td>
-<td>New York, NY</td>
-<td><div align="center"><a href="https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/New-York-City/Summer-2026-Internship---Enterprise-Application-Intern_Job_Req_48496?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/7a6d2b66-1bdc-4956-a495-67c5dd9bcad2?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>27d</td>
-</tr>
 </tbody>
 </table>
 
@@ -5897,6 +5897,13 @@
 </thead>
 <tbody>
 
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Dow-Jones?utm_source=GHList&utm_medium=company">Dow Jones</a></strong></td>
+<td>Enterprise Application Intern</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/New-York-City/Summer-2026-Internship---Enterprise-Application-Intern_Job_Req_48496?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/7a6d2b66-1bdc-4956-a495-67c5dd9bcad2?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>27d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/L3Harris-Technologies?utm_source=GHList&utm_medium=company">L3Harris Technologies</a></strong></td>
 <td>Field Engineer Intern</td>

@@ -10,9 +10,9 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 474 Internship Roles by Category
+### Browse 473 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (224)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (223)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-product-management-internship-roles)** (13)
 
@@ -215,14 +215,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Melbourne, FL</td>
 <td>Winter 2025</td>
 <td><div align="center"><a href="https://jobs.l3harris.com/job/Melbourne-Network-Control-Intern-(Melbourne,-FL)-FL-32919/1329372100/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/612350ff-c18f-4446-9269-4b41c7c92343?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>0d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/b5727a15-6e9d-4d6c-9941-869756efc588?utm_source=GHList&utm_medium=company">Openlane</a></strong></td>
-<td>Software Engineer Intern - Multiple Teams</td>
-<td>Remote in USA</td>
-<td>Winter 2025</td>
-<td><div align="center"><a href="https://kar.wd1.myworkdayjobs.com/en-US/OPENLANE_Careers/job/Remote-United-States/Software-Engineer-Intern--Remote-_R-252685?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/32fb455b-5b49-41de-b8d0-627b1ce89028?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>0d</td>
 </tr>
 <tr>
@@ -11283,6 +11275,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td><div align="center"><a href="https://jobs.lever.co/sanctuary/a94859ae-7139-4e0f-8f7c-078f0602cc9c/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/e92e67f4-9950-419b-80d8-1adca283c829?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>10d</td>
 </tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Rolls-Royce-Motorcars?utm_source=GHList&utm_medium=company">Rolls Royce</a></strong></td>
+<td>Paint Shop Digitalization Developer Maintenance Planning and Training Intern</td>
+<td>Spartanburg, SC</td>
+<td>Winter 2026, Spring 2026</td>
+<td><div align="center"><a href="https://jobs.bmwgroup.com/job/Spartanburg-Paint-Shop-Digitalization-Developer-Maintenance-Planning-and-Training-Intern-(Spring-2026)-Sout/1237133001/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/90a13b78-2d12-4360-9f57-a8d46c0795c4?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>11d</td>
+</tr>
 </tbody>
 </table>
 
@@ -11309,14 +11309,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </thead>
 <tbody>
 
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Rolls-Royce-Motorcars?utm_source=GHList&utm_medium=company">Rolls Royce</a></strong></td>
-<td>Paint Shop Digitalization Developer Maintenance Planning and Training Intern</td>
-<td>Spartanburg, SC</td>
-<td>Winter 2026, Spring 2026</td>
-<td><div align="center"><a href="https://jobs.bmwgroup.com/job/Spartanburg-Paint-Shop-Digitalization-Developer-Maintenance-Planning-and-Training-Intern-(Spring-2026)-Sout/1237133001/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/90a13b78-2d12-4360-9f57-a8d46c0795c4?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>11d</td>
-</tr>
 <tr>
 <td>↳</td>
 <td>Production Digitalization Intern - Data / Computer Science</td>
