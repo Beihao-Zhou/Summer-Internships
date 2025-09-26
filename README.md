@@ -13592,7 +13592,7 @@
 <td>Machine Learning Intern</td>
 <td>New York, NY</br>Cambridge, MA</td>
 <td><div align="center"><a href="https://spgi.wd5.myworkdayjobs.com/en-US/kensho_careers/job/New-York-NY/Machine-Learning-Intern---Summer-2026_319677-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>17d</td>
+<td>18d</td>
 </tr>
 <tr>
 <td><strong>Merck & Co.</strong></td>
