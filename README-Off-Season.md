@@ -7179,7 +7179,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>San Mateo, CA</td>
 <td>Fall 2025</td>
 <td><div align="center"><a href="https://jobs.lever.co/cognitiv/be2b3e65-a5e6-4914-ba01-8f07bb80cfa0?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>14d</td>
+<td>15d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Wiltshire-Farm-Foods?utm_source=GHList&utm_medium=company">Wiltshire Farm Foods</a></strong></td>
