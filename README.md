@@ -9,15 +9,15 @@
 
 ---
 
-### Browse 2156 Internship Roles by Category
+### Browse 2158 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (1109)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (102)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (569)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (570)
 
-📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (183)
+📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (184)
 
 🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (193)
 
@@ -4497,7 +4497,7 @@
 <td>Software Engineering Intern</td>
 <td>Troy, MI</td>
 <td><div align="center"><a href="https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Troy-MI---USA/Software-Engineering-Intern_J000686016?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/6e05a750-b954-48a3-81d0-157ae3886c9e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>18d</td>
+<td>19d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/d4f97dc1-3bd7-4767-8ce4-7becb28a3775?utm_source=GHList&utm_medium=company">Charles River Associates (CRA)</a></strong></td>
@@ -5179,7 +5179,7 @@
 <td>22d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/e5d9f8c8-cd9c-4097-a9cb-fed51fec6168?utm_source=GHList&utm_medium=company">General Dynamics Information Technology</a></strong></td>
+<td><strong>GDIT</strong></td>
 <td>Cloud Developer Associate 🛂</td>
 <td>Bossier City, LA</td>
 <td><div align="center"><a href="https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-LA-Bossier-City/Cloud-Developer-Associate--Intern-_RQ205801?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
@@ -5871,6 +5871,13 @@
 <td><div align="center"><a href="https://www.athelas.com/careers?ashby_jid=566a84fb-d93e-4177-ac07-3c16d3ae8e8d&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
 <td>27d</td>
 </tr>
+<tr>
+<td><strong>Ember AI</strong></td>
+<td>Full Stack Engineering Intern</td>
+<td>San Francisco, CA</td>
+<td><div align="center"><a href="https://app.dover.com/apply/Ember%20AI/527d1d2a-dc8e-40ce-af14-788a1ff12b13/?rs=76643084&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td>27d</td>
+</tr>
 </tbody>
 </table>
 
@@ -5897,13 +5904,6 @@
 </thead>
 <tbody>
 
-<tr>
-<td><strong>Ember AI</strong></td>
-<td>Full Stack Engineering Intern</td>
-<td>San Francisco, CA</td>
-<td><div align="center"><a href="https://app.dover.com/apply/Ember%20AI/527d1d2a-dc8e-40ce-af14-788a1ff12b13/?rs=76643084&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>27d</td>
-</tr>
 <tr>
 <td><strong>DraftKings</strong></td>
 <td>Software Engineer Intern</td>
@@ -5979,7 +5979,7 @@
 <td>University – Software Developer Intern</td>
 <td><details><summary><strong>11 locations</strong></summary>Honolulu, HI</br>Annapolis Junction, MD</br>Colorado Springs, CO</br>McLean, VA</br>Rome, NY</br>Panama City, FL</br>Charleston, SC</br>Atlanta, GA</br>Huntsville, AL</br>San Diego, CA</br>El Segundo, CA</details></td>
 <td><div align="center"><a href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--2026-Summer-Games-Software-Developer-Intern_R0225356?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/c007327d-d3cc-426d-9772-317fb5167d97?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>27d</td>
+<td>28d</td>
 </tr>
 <tr>
 <td><strong>Garmin</strong></td>
@@ -11333,6 +11333,13 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/One-Finance?utm_source=GHList&utm_medium=company">ONE Finance</a></strong></td>
+<td>AI Research Intern</td>
+<td>NYC</td>
+<td><div align="center"><a href="https://jobs.ashbyhq.com/oneapp/d018ba22-f5ec-48d0-9940-fea52877316c/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/239bf7a5-7b43-4238-9f77-1625ee5f6d40?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>0d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Oshkosh?utm_source=GHList&utm_medium=company">Oshkosh</a></strong></td>
 <td>Machine Learning Intern</td>
@@ -17192,6 +17199,13 @@
 <td>21d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Susquehanna?utm_source=GHList&utm_medium=company">Susquehanna International Group (SIG)</a></strong></td>
+<td>Quantitative Research Internship 🎓</td>
+<td>Ardmore, PA</td>
+<td><div align="center"><a href="https://careers-sig.icims.com/jobs/9238/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/08b5f3e9-aa6a-4dcb-839c-f936a41196a3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>21d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/United-Parcel-Service?utm_source=GHList&utm_medium=company">United Parcel Service (UPS)</a></strong></td>
 <td>UPS Global Finance Analytics Internship</td>
 <td>Atlanta, GA</td>
@@ -17308,10 +17322,10 @@
 <td>Quantitative Trader/Researcher Summer Internship</td>
 <td>London, UK</td>
 <td><div align="center"><a href="https://www.tower-research.com/open-positions/?gh_jid=7210138&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/7553a415-e98d-48c7-80ef-e0e4b474ee34?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>24d</td>
+<td>25d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Tower-Research-Capital?utm_source=GHList&utm_medium=company">Tower Research Capital</a></strong></td>
+<td>↳</td>
 <td>Quantitative Developer Summer Internship 2026 – 2027 Graduates</td>
 <td>London, UK</td>
 <td><div align="center"><a href="https://www.tower-research.com/open-positions/?gh_jid=7210139&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/f4d92f6a-a274-47cd-8a7d-075ac84f76bd?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
@@ -17343,7 +17357,7 @@
 <td>Associate, Quantitative & Data Analytics 🛂</td>
 <td>Chicago, IL</td>
 <td><div align="center"><a href="https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/Chicago-River-Point/Associate--Quantitative---Data-Analytics_R20984?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>27d</td>
+<td>28d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Royal-Bank-Of-Canada?utm_source=GHList&utm_medium=company">Royal Bank of Canada</a></strong></td>
@@ -17728,7 +17742,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (121)</summary>
+<summary>🗃️ Inactive roles (120)</summary>
 
 <table>
 <thead>
@@ -17943,13 +17957,6 @@
 <td>Vienna, VA</td>
 <td>🔒</td>
 <td>20d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Susquehanna?utm_source=GHList&utm_medium=company">Susquehanna International Group (SIG)</a></strong></td>
-<td>Quantitative Research Internship 🎓</td>
-<td>Ardmore, PA</td>
-<td>🔒</td>
-<td>21d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Royal-Bank-Of-Canada?utm_source=GHList&utm_medium=company">Royal Bank of Canada</a></strong></td>
