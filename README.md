@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 2143 Internship Roles by Category
+### Browse 2144 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (1104)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (1105)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (102)
 
@@ -89,6 +89,13 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Ibotta</strong></td>
+<td>Software Engineering Intern 🛂</td>
+<td>Denver, CO</td>
+<td><div align="center"><a href="https://ibotta.wd1.myworkdayjobs.com/en-US/ibotta/job/Denver-CO/Software-Engineering-Intern_R-102113?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/IXL-Learning?utm_source=GHList&utm_medium=company">IXL Learning</a></strong></td>
 <td>Software Engineer</td>
@@ -958,18 +965,18 @@
 <td>3d</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>Quantum Signal AI</strong></td>
 <td>Real-Time Software Intern 🛂</td>
 <td>Saline, MI</td>
 <td><div align="center"><a href="https://quantumsignalai.applytojob.com/apply/paMGQ9RKXd/RealTime-Software-Intern?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/3029bb2b-dfaa-47bf-9787-65cdb3c86cb9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>3d</td>
+<td>4d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/QuantCo?utm_source=GHList&utm_medium=company">QuantCo</a></strong></td>
 <td>Software Engineering Intern</td>
 <td>USA</td>
 <td><div align="center"><a href="https://jobs.lever.co/quantco-/945bd3c0-117a-4b0e-b60a-6759add05fc9?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>3d</td>
+<td>4d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Mastercard?utm_source=GHList&utm_medium=company">Mastercard</a></strong></td>
@@ -5864,13 +5871,6 @@
 <td><div align="center"><a href="https://newrez.wd1.myworkdayjobs.com/en-US/NRZ/job/TX-Coppell/XMLNAME-2026-Summer-Internship---Software-Engineering_R8395?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
 <td>27d</td>
 </tr>
-<tr>
-<td><strong>Kingland</strong></td>
-<td>Advanced Software Engineering Intern</td>
-<td>Ames, IA</br>Clear Lake, IA</br>Fort Myers, FL</td>
-<td><div align="center"><a href="https://recruiting2.ultipro.com/KIN1010KNGL/JobBoard/f915a6d0-9b98-4b5e-992b-83828a3d66d6/OpportunityDetail?opportunityId=f6072d74-9ed1-4eab-9525-8b0551691787&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>27d</td>
-</tr>
 </tbody>
 </table>
 
@@ -5897,6 +5897,13 @@
 </thead>
 <tbody>
 
+<tr>
+<td><strong>Kingland</strong></td>
+<td>Advanced Software Engineering Intern</td>
+<td>Ames, IA</br>Clear Lake, IA</br>Fort Myers, FL</td>
+<td><div align="center"><a href="https://recruiting2.ultipro.com/KIN1010KNGL/JobBoard/f915a6d0-9b98-4b5e-992b-83828a3d66d6/OpportunityDetail?opportunityId=f6072d74-9ed1-4eab-9525-8b0551691787&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td>27d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Qorvo?utm_source=GHList&utm_medium=company">Qorvo</a></strong></td>
 <td>Software Engineering Intern 🛂</td>
