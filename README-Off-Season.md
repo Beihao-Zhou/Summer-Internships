@@ -7222,14 +7222,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>12d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Intact?utm_source=GHList&utm_medium=company">Intact</a></strong></td>
-<td>Data Engineering Developer</td>
-<td>Montreal, QC, Canada</br>Toronto, ON, Canada</td>
-<td>Winter 2026, Spring 2026</td>
-<td><div align="center"><a href="https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Montral-Quebec-CAN/Data-Engineering-Developer---4-months-Internship-Coop--Winter-2026--_R148851?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/92ef0f4d-f446-4fe1-a58f-1e7e2035f19d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>12d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Transamerica?utm_source=GHList&utm_medium=company">Transamerica</a></strong></td>
 <td>Data Analytics Intern - Full-time Hours</td>
 <td>Cedar Rapids, IA</td>
@@ -7339,6 +7331,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>San Mateo, CA</td>
 <td>Fall 2025</td>
 <td><div align="center"><a href="https://jobs.lever.co/cognitiv/be2b3e65-a5e6-4914-ba01-8f07bb80cfa0?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td>17d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Wiltshire-Farm-Foods?utm_source=GHList&utm_medium=company">Wiltshire Farm Foods</a></strong></td>
+<td>Apprentice Data Analyst</td>
+<td>Trowbridge, UK</td>
+<td>Winter 2025</td>
+<td><div align="center"><a href="https://wiltshirefarmfoods-apetito.icims.com/jobs/7505/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/1593a1c8-12f0-4186-8a95-e65649275f09?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>17d</td>
 </tr>
 <tr>
@@ -7958,7 +7958,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>1mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td>🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
 <td>Machine Learning Scientist Intern - Tiktok-Recommendation - PhD 🎓</td>
 <td>Seattle, WA</td>
 <td>Fall 2025</td>
@@ -8153,6 +8153,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>11d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Intact?utm_source=GHList&utm_medium=company">Intact</a></strong></td>
+<td>Data Engineering Developer</td>
+<td>Montreal, QC, Canada</br>Toronto, ON, Canada</td>
+<td>Winter 2026, Spring 2026</td>
+<td>🔒</td>
+<td>12d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
 <td>Machine Learning Researcher 🎓</td>
 <td>Hartford, CT</td>
@@ -8191,14 +8199,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Winter 2026</td>
 <td>🔒</td>
 <td>16d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Wiltshire-Farm-Foods?utm_source=GHList&utm_medium=company">Wiltshire Farm Foods</a></strong></td>
-<td>Apprentice Data Analyst</td>
-<td>Trowbridge, UK</td>
-<td>Winter 2025</td>
-<td>🔒</td>
-<td>17d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Meta?utm_source=GHList&utm_medium=company">Meta</a></strong></td>
@@ -8817,7 +8817,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>1mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td>🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
 <td>Machine Learning Scientist Intern - Tiktok-Recommendation-Responsible AI - PhD 🎓</td>
 <td>San Jose, CA</td>
 <td>Fall 2025</td>
@@ -8833,7 +8833,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>1mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
+<td>↳</td>
 <td>Machine Learning Engineer Intern - Tiktok-Recommendation 🎓</td>
 <td>San Jose, CA</td>
 <td>Fall 2025</td>
@@ -11169,7 +11169,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>San Bruno, CA</td>
 <td>Spring 2026</td>
 <td><div align="center"><a href="https://www.flyzipline.com/careers/open-roles?gh_jid=7479993003&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/2282c2e7-9227-4f69-be7c-a5443d0a7346?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>0d</td>
+<td>1d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/CIBC?utm_source=GHList&utm_medium=company">CIBC</a></strong></td>
