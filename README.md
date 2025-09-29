@@ -9,15 +9,15 @@
 
 ---
 
-### Browse 2204 Internship Roles by Category
+### Browse 2203 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (1146)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (1145)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (102)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (585)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (586)
 
-📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (176)
+📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (175)
 
 🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (195)
 
@@ -367,13 +367,6 @@
 <td>Security Analyst Intern Summer 2026</td>
 <td>Long Beach, CA</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7478737003?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/c597c644-de9c-4de9-bff1-f0300d42440c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>2d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Symphony-Comm?utm_source=GHList&utm_medium=company">Symphony</a></strong></td>
-<td>Intern – Software Development</td>
-<td>Belfast, UK</td>
-<td><div align="center"><a href="https://symphony.com/company/apply?gh_jid=7267903&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/0df10b5c-a875-490a-bdfd-861204339dbf?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>2d</td>
 </tr>
 <tr>
@@ -5878,6 +5871,13 @@
 <td><div align="center"><a href="https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Buffalo-Grove-IL/Intern---Product-Engineer--Summer-2026-_R033995?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/91d4ead6-b78c-4531-af81-1e2630c5d3aa?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>26d</td>
 </tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/JP-Morgan-Chase?utm_source=GHList&utm_medium=company">JP Morgan Chase</a></strong></td>
+<td>2026 Software Engineer Program – Summer Internship</td>
+<td>London, UK</br>Christchurch, UK</br>Glasgow, UK</td>
+<td><div align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/210653533?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/056aeea9-2ad2-40b8-9da4-32e8d6e82197?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>27d</td>
+</tr>
 </tbody>
 </table>
 
@@ -5904,13 +5904,6 @@
 </thead>
 <tbody>
 
-<tr>
-<td><strong><a href="https://simplify.jobs/c/JP-Morgan-Chase?utm_source=GHList&utm_medium=company">JP Morgan Chase</a></strong></td>
-<td>2026 Software Engineer Program – Summer Internship</td>
-<td>London, UK</br>Christchurch, UK</br>Glasgow, UK</td>
-<td><div align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/210653533?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/056aeea9-2ad2-40b8-9da4-32e8d6e82197?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>27d</td>
-</tr>
 <tr>
 <td>↳</td>
 <td>2026 Software Apprenticeship - Emerging Talent Program</td>
@@ -13742,6 +13735,13 @@
 <td>18d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Susquehanna?utm_source=GHList&utm_medium=company">Susquehanna International Group (SIG)</a></strong></td>
+<td>Machine Learning Internship 🎓</td>
+<td>Ardmore, PA</td>
+<td><div align="center"><a href="https://careers-sig.icims.com/jobs/9400/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/3900ee26-a593-429d-aeb9-6cea38b113a8?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>18d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Citizens-Financial-Group?utm_source=GHList&utm_medium=company">Citizens Financial Group</a></strong></td>
 <td>Data Analytics Graduate Internship 🎓</td>
 <td><details><summary><strong>4 locations</strong></summary>Coralville, IA</br>Providence, RI</br>Columbus, OH</br>Norwood, MA</details></td>
@@ -15832,7 +15832,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (165)</summary>
+<summary>🗃️ Inactive roles (164)</summary>
 
 <table>
 <thead>
@@ -16046,7 +16046,7 @@
 <td>Multi-Modal AI SEPP Intern</td>
 <td>Cedar Rapids, IA</td>
 <td>🔒</td>
-<td>15d</td>
+<td>16d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Workiva?utm_source=GHList&utm_medium=company">Workiva</a></strong></td>
@@ -16080,13 +16080,6 @@
 <td>🔥 <strong><a href="https://simplify.jobs/c/Waymo?utm_source=GHList&utm_medium=company">Waymo</a></strong></td>
 <td>2026 Summer Intern - Machine Learning Infra Foundations</td>
 <td>Mountain View, CA</td>
-<td>🔒</td>
-<td>18d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Susquehanna?utm_source=GHList&utm_medium=company">Susquehanna International Group (SIG)</a></strong></td>
-<td>Machine Learning Internship 🎓</td>
-<td>Ardmore, PA</td>
 <td>🔒</td>
 <td>18d</td>
 </tr>
@@ -17220,13 +17213,6 @@
 <td>10d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/NextEra-Energy?utm_source=GHList&utm_medium=company">NextEra Energy</a></strong></td>
-<td>IT Energy Trading Cloud Analyst – College Intern</td>
-<td>Palm Beach Gardens, FL</td>
-<td><div align="center"><a href="https://jobs.nexteraenergy.com/job/Juno-Beach-IT-Energy-Trading-Cloud-Analyst-College-Intern-FL-33408/1327400800/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/ad436ad5-4aca-440e-a7a7-143624ff4f09?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>10d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Stryker?utm_source=GHList&utm_medium=company">Stryker</a></strong></td>
 <td>Product Management Co-Op and Marketing Co-Op</td>
 <td>Belfast, UK</td>
@@ -18260,7 +18246,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (130)</summary>
+<summary>🗃️ Inactive roles (131)</summary>
 
 <table>
 <thead>
@@ -18298,6 +18284,13 @@
 <td>↳</td>
 <td>Capital Markets Intern</td>
 <td>Irvine, CA</td>
+<td>🔒</td>
+<td>10d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/NextEra-Energy?utm_source=GHList&utm_medium=company">NextEra Energy</a></strong></td>
+<td>IT Energy Trading Cloud Analyst – College Intern</td>
+<td>Palm Beach Gardens, FL</td>
 <td>🔒</td>
 <td>10d</td>
 </tr>
@@ -19708,7 +19701,7 @@
 <td>Digital Seeds Business Requirements Intern</td>
 <td>Des Moines, IA</td>
 <td><div align="center"><a href="https://corteva.wd5.myworkdayjobs.com/en-US/ctp/job/Des-Moines-Iowa-United-States/Digital-Seeds-Business-Requirements-Intern_242916W-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/6f88555f-e6f7-4a10-ba1b-ef5c95ffcffe?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>15d</td>
+<td>16d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/07d9f7f0-9f1a-4ecb-9346-f3ac39d905f2?utm_source=GHList&utm_medium=company">MKS Instruments</a></strong></td>
