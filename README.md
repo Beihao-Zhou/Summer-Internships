@@ -297,7 +297,7 @@
 <td>Internship - IT and Software Engineering</td>
 <td>Colorado Springs, CO</td>
 <td><div align="center"><a href="https://compassion.wd5.myworkdayjobs.com/compassioncareers/job/Colorado-Springs-CO/XMLNAME-2026-Summer-Internship---IT-and-Software-Engineering_R7446?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/4cad432e-56cc-4915-9946-5e7cf1ae625a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>2d</td>
+<td>3d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Microsoft?utm_source=GHList&utm_medium=company">Microsoft</a></strong></td>
@@ -17213,7 +17213,7 @@
 </thead>
 <tbody>
 <tr>
-<td><strong>Tudor Group</strong></td>
+<td><strong>The Tudor Group</strong></td>
 <td>Quantitative Developer Intern (Pipeline Team) 🛂</td>
 <td>New York, NY</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/tudorgroup/jobs/7228194?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
