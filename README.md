@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 2171 Internship Roles by Category
+### Browse 2172 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (1122)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (1123)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (102)
 
@@ -129,6 +129,13 @@
 <td>Internship - Software Engineering - Corporate and Business Services</td>
 <td>Vernon Hills, IL</td>
 <td><div align="center"><a href="https://zebra.eightfold.ai/careers/job/343635585848?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/684a3257-027b-4980-b195-62afd9129156?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/CME-Group?utm_source=GHList&utm_medium=company">CME Group</a></strong></td>
+<td>Information Security Intern - Global Information Security</td>
+<td>Belfast, UK</td>
+<td><div align="center"><a href="https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/Belfast---Millennium-House/Global-Information-Security-Internship-2026-7-Placement-year_33148-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/b2da7339-8626-436c-888a-9ce0029e14c3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>0d</td>
 </tr>
 <tr>
@@ -5857,20 +5864,6 @@
 <td><div align="center"><a href="https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Buffalo-Grove-IL/Intern---Product-Engineer--Summer-2026-_R033995?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/91d4ead6-b78c-4531-af81-1e2630c5d3aa?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>28d</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/JP-Morgan-Chase?utm_source=GHList&utm_medium=company">JP Morgan Chase</a></strong></td>
-<td>2026 Software Engineer Program – Summer Internship</td>
-<td>London, UK</br>Christchurch, UK</br>Glasgow, UK</td>
-<td><div align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/210653533?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/056aeea9-2ad2-40b8-9da4-32e8d6e82197?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>29d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>2026 Software Apprenticeship - Emerging Talent Program</td>
-<td>Glasgow, UK</td>
-<td><div align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/210658757?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/d4670929-d33b-42b8-8ce4-158eed1e69aa?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>29d</td>
-</tr>
 </tbody>
 </table>
 
@@ -5897,6 +5890,20 @@
 </thead>
 <tbody>
 
+<tr>
+<td><strong><a href="https://simplify.jobs/c/JP-Morgan-Chase?utm_source=GHList&utm_medium=company">JP Morgan Chase</a></strong></td>
+<td>2026 Software Engineer Program – Summer Internship</td>
+<td>London, UK</br>Christchurch, UK</br>Glasgow, UK</td>
+<td><div align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/210653533?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/056aeea9-2ad2-40b8-9da4-32e8d6e82197?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>29d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>2026 Software Apprenticeship - Emerging Talent Program</td>
+<td>Glasgow, UK</td>
+<td><div align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/210658757?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/d4670929-d33b-42b8-8ce4-158eed1e69aa?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>29d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Tranzact?utm_source=GHList&utm_medium=company">Tranzact</a></strong></td>
 <td>2026 Software Developer Internship</td>
@@ -18530,10 +18537,10 @@
 <td>Capital Markets Intern</td>
 <td>Oconomowoc, WI</td>
 <td>🔒</td>
-<td>11d</td>
+<td>12d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Walker-And-Dunlop?utm_source=GHList&utm_medium=company">Walker & Dunlop</a></strong></td>
+<td>↳</td>
 <td>Capital Markets Intern</td>
 <td>Atlanta, GA</td>
 <td>🔒</td>
