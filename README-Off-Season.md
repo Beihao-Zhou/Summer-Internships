@@ -7099,7 +7099,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Tulsa, OK</td>
 <td>Winter 2025</td>
 <td><div align="center"><a href="https://jobs.l3harris.com/job/Tulsa-Computer-Vision-AI-Intern-(Tulsa,-OK)-1-OK-74115/1330380100/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/6280e392-681b-4a1e-8aaf-e119245e7914?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>0d</td>
+<td>1d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Wealthsimple?utm_source=GHList&utm_medium=company">Wealthsimple</a></strong></td>
@@ -7339,7 +7339,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>North Bethesda, MD</td>
 <td>Fall 2025</td>
 <td><div align="center"><a href="https://jobs.lever.co/sunwatercapital/583d67a5-46c3-4448-ba2e-604549a8627c?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>13d</td>
+<td>14d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/SharkNinja?utm_source=GHList&utm_medium=company">SharkNinja</a></strong></td>
