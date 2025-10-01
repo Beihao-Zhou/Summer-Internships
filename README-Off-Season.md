@@ -10,9 +10,9 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 479 Internship Roles by Category
+### Browse 480 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (207)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (208)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-product-management-internship-roles)** (13)
 
@@ -73,6 +73,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Walmart?utm_source=GHList&utm_medium=company">Walmart</a></strong></td>
+<td>Intern Conversion - 2026 Return Corporate Intern Manager - Automation Engineering</td>
+<td>Mount Comfort, IN</td>
+<td>Winter 2025</td>
+<td><div align="center"><a href="https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-IN-MCCORDSVILLE-07552-ECOMM-WHSE-LOGISTICS/XMLNAME-2025-Intern-Conversion---2026-Return-Corporate-Intern--Manager--Automation-Engineering_R-2265990?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/9bce3bfe-7261-4ba0-a2e9-617442b0d331?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>0d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Travelers?utm_source=GHList&utm_medium=company">The Travelers Companies</a></strong></td>
 <td>Engineering Development Program Intern - Engineering Development Program</td>
@@ -255,7 +263,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Reston, VA</td>
 <td>Spring 2026, Fall 2026</td>
 <td><div align="center"><a href="https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Software-Engineer-Intern--Spring---Fall-2026-_R-00167404?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/8563617f-9dbf-4347-9bb7-8d972bac5b47?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>3d</td>
+<td>4d</td>
 </tr>
 <tr>
 <td>↳</td>
@@ -263,7 +271,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Reston, VA</td>
 <td>Spring 2027, Fall 2027</td>
 <td><div align="center"><a href="https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Software-Engineer-Intern--Spring---Fall-2027-_R-00167584?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/d282e0c7-6e2f-4a60-8b5c-b3a969164097?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>3d</td>
+<td>4d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Trend-Micro?utm_source=GHList&utm_medium=company">Trend Micro</a></strong></td>
@@ -1255,7 +1263,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Montreal, QC, CAN</td>
 <td>Winter 2026</td>
 <td><div align="center"><a href="https://cdpq.wd10.myworkdayjobs.com/en-US/CDPQ-recrutement-universitaire/job/Montreal/Stagiaire--Cyberscurit---compter-de-janvier-2026-_R04417?locations=978e30c0c8bf01e2d723af68920c298a&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>28d</td>
+<td>29d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/TD-Bank?utm_source=GHList&utm_medium=company">TD Bank</a></strong></td>
@@ -7211,7 +7219,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>London, UK</td>
 <td>Winter 2025</td>
 <td><div align="center"><a href="https://www.metacareers.com/jobs/791706973548682?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/c0abdcc6-1d50-46a7-97b0-1deadcea7d77?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>4d</td>
+<td>5d</td>
 </tr>
 <tr>
 <td><strong>Ahold Delhaize USA</strong></td>
@@ -10782,7 +10790,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Montreal, QC, CAN</td>
 <td>Winter 2026</td>
 <td><div align="center"><a href="https://cdpq.wd10.myworkdayjobs.com/en-US/CDPQ-recrutement-universitaire/job/Montreal/Stagiaire--Ingnierie-de-donnes---March-de-donnes-externes---compter-de-janvier-2026-_R04407?locations=978e30c0c8bf01e2d723af68920c298a&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>28d</td>
+<td>29d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/TD-Bank?utm_source=GHList&utm_medium=company">TD Bank</a></strong></td>
@@ -11451,14 +11459,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td><div align="center"><a href="https://jobs.cisco.com/jobs/ProjectDetail/Hardware-Engineer-II-Co-op-United-States/1448142?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/16d6202d-5110-4206-9a30-e4397917f6e5?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>4d</td>
 </tr>
-<tr>
-<td>↳</td>
-<td>Hardware Engineer 2 Intern</td>
-<td>San Jose, CA</td>
-<td>Winter 2025</td>
-<td><div align="center"><a href="https://jobs.cisco.com/jobs/ProjectDetail/Hardware-Engineer-II-Intern-United-States/1448143?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/ac19976c-1f2c-4c8f-9d7b-332351e804cb?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>4d</td>
-</tr>
 </tbody>
 </table>
 
@@ -11485,6 +11485,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </thead>
 <tbody>
 
+<tr>
+<td>↳</td>
+<td>Hardware Engineer 2 Intern</td>
+<td>San Jose, CA</td>
+<td>Winter 2025</td>
+<td><div align="center"><a href="https://jobs.cisco.com/jobs/ProjectDetail/Hardware-Engineer-II-Intern-United-States/1448143?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/ac19976c-1f2c-4c8f-9d7b-332351e804cb?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>4d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Rambus?utm_source=GHList&utm_medium=company">Rambus</a></strong></td>
 <td>Intern Digital RTL</td>
@@ -11923,7 +11931,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Montreal, QC, CAN</td>
 <td>Winter 2026</td>
 <td><div align="center"><a href="https://cdpq.wd10.myworkdayjobs.com/en-US/CDPQ-recrutement-universitaire/job/Montreal/Stagiaire--Conseillerre-Adoption-numrique---compter-de-janvier-2026-_R04404?locations=978e30c0c8bf01e2d723af68920c298a&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>28d</td>
+<td>29d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Plexus?utm_source=GHList&utm_medium=company">Plexus</a></strong></td>

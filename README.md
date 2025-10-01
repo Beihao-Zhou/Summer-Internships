@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 2222 Internship Roles by Category
+### Browse 2221 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (1151)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (1150)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (106)
 
@@ -794,21 +794,21 @@
 <td>Network Control Intern - Multiple Teams</td>
 <td>Melbourne, FL</td>
 <td><div align="center"><a href="https://jobs.l3harris.com/job/Melbourne-Network-Control-Intern-(Melbourne,-FL)-FL-32919/1329371500/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/a9717866-a366-452c-951d-c61a891f3a4d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>4d</td>
+<td>5d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Network Control Intern - Multiple Teams</td>
 <td>Melbourne, FL</td>
 <td><div align="center"><a href="https://jobs.l3harris.com/job/Melbourne-Network-Control-Intern-(Melbourne,-FL)-FL-32919/1329372100/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/612350ff-c18f-4446-9269-4b41c7c92343?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>4d</td>
+<td>5d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/b5727a15-6e9d-4d6c-9941-869756efc588?utm_source=GHList&utm_medium=company">Openlane</a></strong></td>
 <td>Software Engineer Intern - Multiple Teams</td>
 <td>Remote in USA</td>
 <td><div align="center"><a href="https://kar.wd1.myworkdayjobs.com/en-US/OPENLANE_Careers/job/Remote-United-States/Software-Engineer-Intern--Remote-_R-252685?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/32fb455b-5b49-41de-b8d0-627b1ce89028?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>4d</td>
+<td>5d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Microsoft?utm_source=GHList&utm_medium=company">Microsoft</a></strong></td>
@@ -951,11 +951,11 @@
 <td>5d</td>
 </tr>
 <tr>
-<td>↳</td>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Pinterest?utm_source=GHList&utm_medium=company">Pinterest</a></strong></td>
 <td>Software Engineer Intern 🛂</td>
 <td>San Francisco, CA</br>Palo Alto, CA</td>
 <td><div align="center"><a href="https://www.pinterestcareers.com/jobs/7210881/software-engineer-intern-2026/?gh_jid=7210881&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
+<td>6d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Hitachi?utm_source=GHList&utm_medium=company">Hitachi</a></strong></td>
@@ -3191,13 +3191,6 @@
 <td>16d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Wipfli?utm_source=GHList&utm_medium=company">Wipfli</a></strong></td>
-<td>Cybersecurity Internship</td>
-<td>Minneapolis, MN</td>
-<td><div align="center"><a href="https://careers-wipfli.icims.com/jobs/7197/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/2475f313-954b-4b78-a5e7-4875eda6037b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>16d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Xcel-Energy?utm_source=GHList&utm_medium=company">Xcel Energy</a></strong></td>
 <td>Operation Technology Technical Intern</td>
 <td>Minneapolis, MN</br>Denver, CO</br>Amarillo, TX</td>
@@ -5295,7 +5288,7 @@
 <td>Software Engineer Co-op</td>
 <td>Bothell, WA</br>Redmond, WA</td>
 <td><div align="center"><a href="https://terex.wd1.myworkdayjobs.com/terexcareers/job/USA-WA-Redmond/XMLNAME-2026-Software-Engineer-Co-op_REQ-10003?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/9e2e45af-38ad-4717-80d6-3cfc3036d5c4?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>25d</td>
+<td>26d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/ServiceNow?utm_source=GHList&utm_medium=company">ServiceNow</a></strong></td>
@@ -5519,14 +5512,14 @@
 <td>Software Engineer Intern (Talent Pool)</td>
 <td>Minneapolis, MN</td>
 <td><div align="center"><a href="https://careers-spscommerce.icims.com/jobs/9793/software-engineer-intern-%28talent-pool%29/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>26d</td>
+<td>27d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Software Engineer Intern (Talent Pool)</td>
 <td>Rogers, AR</td>
 <td><div align="center"><a href="https://careers-spscommerce.icims.com/jobs/9785/software-engineer-intern-%28talent-pool%29/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>26d</td>
+<td>27d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Amgen?utm_source=GHList&utm_medium=company">Amgen</a></strong></td>
@@ -5871,6 +5864,13 @@
 <td><div align="center"><a href="https://qualcomm.eightfold.ai/careers/job/446707492763?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/47b16186-ade6-4128-a6af-a7c05f3779d9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>28d</td>
 </tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Nelnet?utm_source=GHList&utm_medium=company">Nelnet</a></strong></td>
+<td>Intern – Software Engineer - Application Security</td>
+<td>Madison, WI</br>Centennial, CO</br>Lincoln, NE</td>
+<td><div align="center"><a href="https://nelnet.wd1.myworkdayjobs.com/mynelnet/job/Madison-WI/Intern---Software-Engineer---Application-Security---Summer-2026_R21623?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/1cf90d2c-eedb-4a54-b4f5-4b7e59f06f8d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>28d</td>
+</tr>
 </tbody>
 </table>
 
@@ -5897,13 +5897,6 @@
 </thead>
 <tbody>
 
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Nelnet?utm_source=GHList&utm_medium=company">Nelnet</a></strong></td>
-<td>Intern – Software Engineer - Application Security</td>
-<td>Madison, WI</br>Centennial, CO</br>Lincoln, NE</td>
-<td><div align="center"><a href="https://nelnet.wd1.myworkdayjobs.com/mynelnet/job/Madison-WI/Intern---Software-Engineer---Application-Security---Summer-2026_R21623?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/1cf90d2c-eedb-4a54-b4f5-4b7e59f06f8d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>28d</td>
-</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Fifth-Third-Bank?utm_source=GHList&utm_medium=company">Fifth Third Bank</a></strong></td>
 <td>Information Security College co-op - Cyber Threat Analyst</td>
@@ -8177,7 +8170,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (425)</summary>
+<summary>🗃️ Inactive roles (426)</summary>
 
 <table>
 <thead>
@@ -8728,6 +8721,13 @@
 <td>Reston, VA</td>
 <td>🔒</td>
 <td>15d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Wipfli?utm_source=GHList&utm_medium=company">Wipfli</a></strong></td>
+<td>Cybersecurity Internship</td>
+<td>Minneapolis, MN</td>
+<td>🔒</td>
+<td>16d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
@@ -11594,7 +11594,7 @@
 <td>Product Management Intern</td>
 <td>Bothell, WA</td>
 <td><div align="center"><a href="https://terex.wd1.myworkdayjobs.com/terexcareers/job/USA-WA-Bothell/XMLNAME-2026-Product-Management-Intern_REQ-10159?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/faaa0713-ebe6-4a16-a70e-1a7ea86c5602?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>25d</td>
+<td>26d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Goldman-Sachs?utm_source=GHList&utm_medium=company">Goldman Sachs</a></strong></td>
@@ -15104,7 +15104,7 @@
 <td>Data Scientist (Masters Degree) Internship 🎓</td>
 <td>Cincinnati, OH</td>
 <td><div align="center"><a href="https://pg.wd5.myworkdayjobs.com/en-US/1000/job/CINCINNATI-GENERAL-OFFICES/Data-Scientist--Masters-Degree--Internship_R000137918?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>26d</td>
+<td>27d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Eluvio?utm_source=GHList&utm_medium=company">Eluvio</a></strong></td>
@@ -17679,7 +17679,7 @@
 <td>Internship Program - Credit Trading</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York-1345/XMLNAME-2026-Summer-Internship-Program---Credit-Trading--New-York_JR101228?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/08a3d53f-a9e4-4e32-a336-daedc703498b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>5d</td>
+<td>6d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Assured-Guaranty?utm_source=GHList&utm_medium=company">Assured Guaranty</a></strong></td>
