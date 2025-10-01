@@ -1718,7 +1718,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (501)</summary>
+<summary>🗃️ Inactive roles (502)</summary>
 
 <table>
 <thead>
@@ -4005,6 +4005,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>3mo</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Plexus?utm_source=GHList&utm_medium=company">Plexus</a></strong></td>
+<td>Intern – Software Engineer - Spring 2026</td>
+<td>Neenah, WI</td>
+<td>Spring 2026</td>
+<td>🔒</td>
+<td>3mo</td>
+</tr>
+<tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company">NVIDIA</a></strong></td>
 <td>System Software Engineering Intern - CUDA Driver</td>
 <td>Santa Clara, CA</td>
@@ -4197,7 +4205,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>4mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Splunk?utm_source=GHList&utm_medium=company">Splunk</a></strong></td>
+<td>↳</td>
 <td>Software Engineer Co-Op - Backend/Full-stack</td>
 <td>Remote in Canada</td>
 <td>Fall 2025, Winter 2025</td>
@@ -5946,7 +5954,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Walmart?utm_source=GHList&utm_medium=company">Walmart</a></strong></td>
+<td>↳</td>
 <td>Product Manager II</td>
 <td>Bentonville, AR</td>
 <td>Fall 2025</td>
@@ -8897,7 +8905,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>5mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company">Nokia</a></strong></td>
 <td>Next-Gen AI Co-op/Intern</td>
 <td>Canada</td>
 <td>Fall 2025, Winter 2025</td>
@@ -10642,7 +10650,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (122)</summary>
+<summary>🗃️ Inactive roles (123)</summary>
 
 <table>
 <thead>
@@ -11009,7 +11017,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>2mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/043a00ac-6fd9-4afc-991a-4d845205ab9a?utm_source=GHList&utm_medium=company">Bank of America</a></strong></td>
+<td>↳</td>
 <td>Global Technology Apprentice - Npower/Per Scholas</td>
 <td>NYC</td>
 <td>Fall 2025</td>
@@ -11037,6 +11045,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Verification Engineer Intern</td>
 <td>Alpharetta, GA</td>
 <td>Fall 2025</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Plexus?utm_source=GHList&utm_medium=company">Plexus</a></strong></td>
+<td>Intern - Hardware Engineer - Multiple Teams</td>
+<td>Raleigh, NC</td>
+<td>Spring 2026</td>
 <td>🔒</td>
 <td>2mo</td>
 </tr>
