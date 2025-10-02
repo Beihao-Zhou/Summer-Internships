@@ -17054,7 +17054,7 @@
 <td>Machine Learning Engineer Intern</td>
 <td>Santa Clara, CA</td>
 <td>🔒</td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Waymo?utm_source=GHList&utm_medium=company">Waymo</a></strong></td>
@@ -20208,7 +20208,7 @@
 <td>0d</td>
 </tr>
 <tr>
-<td><strong>Hexagon</strong></td>
+<td><strong>Hexagon AB</strong></td>
 <td>Software Test Engineering Intern</td>
 <td>Calgary, AB, CAN</td>
 <td><div align="center"><a href="https://careers-hexagonpositioning.icims.com/jobs/2860/software-test-engineering-intern/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
