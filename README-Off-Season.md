@@ -4602,7 +4602,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>St. Petersburg, FL</td>
 <td>Spring 2025</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Capital-One?utm_source=GHList&utm_medium=company">Capital One</a></strong></td>
@@ -9513,7 +9513,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Toronto, ON, Canada</td>
 <td>Winter 2025</td>
 <td>🔒</td>
-<td>27d</td>
+<td>28d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Generac?utm_source=GHList&utm_medium=company">Generac</a></strong></td>
@@ -9953,10 +9953,10 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>San Bruno, CA</td>
 <td>Spring 2026</td>
 <td><div align="center"><a href="https://www.flyzipline.com/careers/open-roles?gh_jid=7479637003&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/bd67c985-29c2-421b-80d5-c795a36cc548?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>4d</td>
+<td>5d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Zipline?utm_source=GHList&utm_medium=company">Zipline</a></strong></td>
+<td>↳</td>
 <td>Droid Autonomy Validation Intern - Droid Autonomy 🎓</td>
 <td>San Bruno, CA</td>
 <td>Winter 2026, Spring 2026</td>
