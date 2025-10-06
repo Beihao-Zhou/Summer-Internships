@@ -8410,8 +8410,8 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Sony?utm_source=GHList&utm_medium=company">Sony</a></strong></td>
-<td>Research Intern on Generative AI for Content Creation 🎓</td>
-<td>NYC</td>
+<td>Research Intern on Generative AI for Content Creation</td>
+<td>New York, NY</td>
 <td>Fall 2025</td>
 <td>🔒</td>
 <td>2mo</td>
