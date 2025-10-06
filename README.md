@@ -9,13 +9,13 @@
 
 ---
 
-### Browse 2259 Internship Roles by Category
+### Browse 2260 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (1174)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (105)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (603)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (604)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (169)
 
@@ -13021,6 +13021,13 @@
 </thead>
 <tbody>
 <tr>
+<td><strong>State Farm</strong></td>
+<td>Claims BASD - Software Developer 🛂</td>
+<td>Bloomington, IL</br>Dallas, TX</br>Phoenix, AZ</td>
+<td><div align="center"><a href="https://jobs.statefarm.com/main/jobs/41952/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
 <td>🔥 <strong>Oracle</strong></td>
 <td>Data Science Intern - Industries 🛂</td>
 <td>USA</td>
@@ -19677,7 +19684,7 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong>Citi</strong></td>
+<td>↳</td>
 <td>Functions - Quantitative Risk Management 🎓</td>
 <td>Irving, TX</td>
 <td><div align="center"><a href="https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Functions---Quantitative-Risk-Management--Summer-Analyst--Irving---US--2026_25840226?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
