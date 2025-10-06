@@ -13021,7 +13021,7 @@
 </thead>
 <tbody>
 <tr>
-<td><strong>Axos</strong></td>
+<td><strong>Axos Bank</strong></td>
 <td>Data Science Intern</td>
 <td>San Diego, CA</td>
 <td><div align="center"><a href="https://axos.wd5.myworkdayjobs.com/en-US/axos/job/HQ---San-Diego-CA/Data-Science-Intern---Summer-2026_JR3587?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
