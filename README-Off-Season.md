@@ -647,7 +647,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Coppell, TX</td>
 <td>Winter 2025</td>
 <td><div align="center"><a href="https://careers-blackhawknetwork.icims.com/jobs/24801/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/cd1eeddf-de6b-42cb-93a8-e468e9b5f219?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>13d</td>
+<td>14d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/SingleStore?utm_source=GHList&utm_medium=company">SingleStore</a></strong></td>
@@ -10641,7 +10641,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>San Jose, CA</td>
 <td>Winter 2025</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/figureai/jobs/4032250006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/07d6bdd5-2bbc-4a74-b608-92c949fb1551?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>19d</td>
+<td>20d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Sanctuary-AI?utm_source=GHList&utm_medium=company">Sanctuary AI</a></strong></td>
@@ -11705,7 +11705,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>5mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company">Tesla</a></strong></td>
+<td>↳</td>
 <td>Internship - Firmware Engineer - AI Hardware</td>
 <td>Palo Alto, CA</td>
 <td>Fall 2025, Winter 2026, Spring 2026</td>
