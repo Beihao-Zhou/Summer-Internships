@@ -90,7 +90,7 @@
 </thead>
 <tbody>
 <tr>
-<td><strong>Momentiv</strong></td>
+<td><strong>Momentive</strong></td>
 <td>Software Developer Intern</td>
 <td>Niskayuna, NY</td>
 <td><div align="center"><a href="https://momentive.wd1.myworkdayjobs.com/en-US/MC/job/US-NY-Niskayuna/Software-Developer-Intern-2026_R8836?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
