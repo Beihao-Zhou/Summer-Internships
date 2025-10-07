@@ -119,10 +119,10 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Canonsburg, PA</td>
 <td>Spring 2026</td>
 <td><div align="center"><a href="https://careers.ansys.com/job/Canonsburg-Spring-2026-Co-op,-Software-Development-(Bachelors)-PA-15317/1301897800/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/83f37c75-5c48-460e-940d-41ee6d440dcc?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1d</td>
+<td>2d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Ansys?utm_source=GHList&utm_medium=company">Ansys</a></strong></td>
+<td>↳</td>
 <td>Software Development Intern - Photonics 🎓</td>
 <td>Montreal, QC, Canada</br>Kitchener, ON, Canada</br>Vancouver, BC, Canada</td>
 <td>Winter 2026, Spring 2026</td>
@@ -6651,7 +6651,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Toronto, ON, Canada</td>
 <td>Winter 2026</td>
 <td><div align="center"><a href="https://www.pinterestcareers.com/job-form?gh_jid=7268255&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/e55622a5-e9fc-401e-8124-56bc861d4d41?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>10d</td>
+<td>11d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Meta?utm_source=GHList&utm_medium=company">Meta</a></strong></td>
