@@ -276,14 +276,14 @@
 <td>Timing Engineer</td>
 <td>Austin, TX</td>
 <td><div align="center"><a href="https://careers.skyworksinc.com/job/Austin-Timing-Engineer-Summer-Intern-%28May-%2726-Aug-%2726%29-TX-73301/1322327900/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>0d</td>
+<td>1d</td>
 </tr>
 <tr>
 <td><strong>Innovative Defense Technologies</strong></td>
 <td>Software Engineer Intern 🇺🇸</td>
 <td>Arlington, VA</br>Mount Laurel, NJ</td>
 <td><div align="center"><a href="https://jobs.jobvite.com/careers/idtus/job/oiEfyfwt?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>0d</td>
+<td>1d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Sanofi?utm_source=GHList&utm_medium=company">Sanofi</a></strong></td>
@@ -857,7 +857,7 @@
 <td>ServiceNow Developer Intern - Multiple Teams</td>
 <td>Durham, NC</td>
 <td><div align="center"><a href="https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/ServiceNow-Developer-Intern_2530483?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/62856d1a-c64e-4209-89c5-d28199693e47?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>5d</td>
+<td>6d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Boston-Scientific?utm_source=GHList&utm_medium=company">Boston Scientific</a></strong></td>
@@ -3097,7 +3097,7 @@
 <td>Intelligent Automation Engineering Intern</td>
 <td>Atlanta, GA</td>
 <td><div align="center"><a href="https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Intelligent-Automation-Engineering-Intern---Summer-2026_R202566707?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/4938d485-b300-4505-99da-a967d803c246?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>23d</td>
+<td>24d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Intuit?utm_source=GHList&utm_medium=company">Intuit</a></strong></td>
@@ -13361,7 +13361,7 @@
 <td>Claims BASD - Software Developer 🛂</td>
 <td>Bloomington, IL</br>Dallas, TX</br>Phoenix, AZ</td>
 <td><div align="center"><a href="https://jobs.statefarm.com/main/jobs/41952/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>0d</td>
+<td>1d</td>
 </tr>
 <tr>
 <td>🔥 <strong>Oracle</strong></td>
@@ -15426,21 +15426,21 @@
 <td>Data Scientist Intern 🇺🇸</td>
 <td>Sparks, NV</td>
 <td><div align="center"><a href="https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Sparks-NV/Data-Scientist-Intern---Summer-2026_R0028397?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>24d</td>
+<td>25d</td>
 </tr>
 <tr>
 <td><strong>TEL</strong></td>
 <td>Research Scientist Intern</td>
 <td>Austin, TX</td>
 <td><div align="center"><a href="https://tel.wd3.myworkdayjobs.com/en-US/tel-careers/job/Austin-MET-15/Clean-Track-Internship_R25-01136?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>24d</td>
+<td>25d</td>
 </tr>
 <tr>
 <td><strong>Waters</strong></td>
 <td>Research Machine Learning Co-op</td>
 <td>Milford, MA</td>
 <td><div align="center"><a href="https://uscareers-waters.icims.com/jobs/24104/2025-24104/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>24d</td>
+<td>25d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Xcel-Energy?utm_source=GHList&utm_medium=company">Xcel Energy</a></strong></td>
@@ -17516,7 +17516,7 @@
 <td>Data and Analytics Intern - Multiple Teams 🎓</td>
 <td>Franklin, TN</td>
 <td>🔒</td>
-<td>9d</td>
+<td>10d</td>
 </tr>
 <tr>
 <td><strong>Blue Cross Blue Shield of Arizona</strong></td>
@@ -19341,6 +19341,13 @@
 <td>6d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/StoneX-Group?utm_source=GHList&utm_medium=company">StoneX Group</a></strong></td>
+<td>Intern – Equity Trading Assistant</td>
+<td>Winter Park, FL</td>
+<td><div align="center"><a href="https://careers-stonex.icims.com/jobs/13760/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/fe8ca075-20f4-4db4-9950-4bf534b34dd9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>6d</td>
+</tr>
+<tr>
 <td><strong>The Tudor Group</strong></td>
 <td>Quantitative Developer Intern (Pipeline Team) 🛂</td>
 <td>New York, NY</td>
@@ -19688,13 +19695,6 @@
 <td>Quantitative Systematic Trading Internship 🎓</td>
 <td>Ardmore, PA</td>
 <td><div align="center"><a href="https://careers-sig.icims.com/jobs/9304/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/385eed62-f687-4fff-ab42-08f41edb4cb5?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>26d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Trading System Engineering Internship</td>
-<td>Ardmore, PA</td>
-<td><div align="center"><a href="https://careers-sig.icims.com/jobs/9749/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/bb505aa5-4894-4133-ad70-796eb3517fb9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>26d</td>
 </tr>
 <tr>
@@ -20368,13 +20368,6 @@
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/StoneX-Group?utm_source=GHList&utm_medium=company">StoneX Group</a></strong></td>
-<td>Intern – Equity Trading Assistant</td>
-<td>Winter Park, FL</td>
-<td>🔒</td>
-<td>6d</td>
-</tr>
-<tr>
-<td>↳</td>
 <td>Intern – Market Data Engineer - Summer 2026</td>
 <td>Chicago, IL</td>
 <td>🔒</td>
@@ -20557,6 +20550,13 @@
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Susquehanna?utm_source=GHList&utm_medium=company">Susquehanna International Group (SIG)</a></strong></td>
+<td>Trading System Engineering Internship</td>
+<td>Ardmore, PA</td>
+<td>🔒</td>
+<td>26d</td>
+</tr>
+<tr>
+<td>↳</td>
 <td>Quantitative Trader Internship</td>
 <td>Chicago, IL</td>
 <td>🔒</td>
@@ -21612,7 +21612,7 @@
 <td>Undergraduate Embedded Computing Engineer Intern 🇺🇸</td>
 <td>El Segundo, CA</br>Chantilly, VA</td>
 <td><div align="center"><a href="https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2026-Undergraduate-Embedded-Computing-Engineer-Intern_R013644?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>0d</td>
+<td>1d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Disney?utm_source=GHList&utm_medium=company">The Walt Disney Company</a></strong></td>
