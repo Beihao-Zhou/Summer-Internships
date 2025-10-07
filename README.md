@@ -9,7 +9,7 @@
 
 ---
 
-### Browse 2014 Internship Roles by Category
+### Browse 2015 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (957)
 
@@ -17,7 +17,7 @@
 
 🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (593)
 
-📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (155)
+📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (156)
 
 🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (202)
 
@@ -3916,7 +3916,7 @@
 <td>Software Engineer Intern - Igen</td>
 <td>Appleton, WI</td>
 <td><div align="center"><a href="https://usventure.wd1.myworkdayjobs.com/usvexternal/job/WI---Appleton/Software-Engineer-Intern---IGEN_R4271-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/b8b75e7c-f950-49bc-96f3-760267936c9f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>26d</td>
+<td>27d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Shure?utm_source=GHList&utm_medium=company">Shure</a></strong></td>
@@ -7005,7 +7005,7 @@
 <td>Accelerate IT Engineering Intern - Multiple Teams</td>
 <td>Parsippany-Troy Hills, NJ</td>
 <td>🔒</td>
-<td>5d</td>
+<td>6d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Atlantic-Health-System?utm_source=GHList&utm_medium=company">Atlantic Health System</a></strong></td>
@@ -7250,14 +7250,14 @@
 <td>Research Intern - Security Research Group 🎓</td>
 <td>Redmond, WA</td>
 <td>🔒</td>
-<td>9d</td>
+<td>10d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Computershare?utm_source=GHList&utm_medium=company">Computershare</a></strong></td>
 <td>Internship - Perl Developer</td>
 <td>Woodridge, IL</td>
 <td>🔒</td>
-<td>9d</td>
+<td>10d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
@@ -8727,7 +8727,7 @@
 <td>Autonomy Research Intern - Applied Research</td>
 <td>Calgary, AB, Canada</td>
 <td>🔒</td>
-<td>25d</td>
+<td>26d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/WR-Berkley?utm_source=GHList&utm_medium=company">W.R. Berkley</a></strong></td>
@@ -19334,6 +19334,13 @@
 </thead>
 <tbody>
 <tr>
+<td><strong>Sephora</strong></td>
+<td>Intern, Marketplace Engineering 🇺🇸</td>
+<td>Remote in CA</td>
+<td><div align="center"><a href="https://join.sephora.com/careers/job/790312030985?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/PwC?utm_source=GHList&utm_medium=company">PricewaterhouseCoopers (PwC)</a></strong></td>
 <td>Financial Crimes Unit Data & Analytics Technician - Senior Associate Intern - Data, Analytics & AI 🎓</td>
 <td>Norridge, IL</br>NYC</td>
@@ -23135,10 +23142,10 @@
 <td>Data Science Intern - Innovation and Digitalisation</td>
 <td>Birmingham, UK</td>
 <td>🔒</td>
-<td>5d</td>
+<td>6d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Rolls-Royce-Motorcars?utm_source=GHList&utm_medium=company">Rolls Royce</a></strong></td>
+<td>↳</td>
 <td>Software Developer Intern - Innovation and Digitalisation</td>
 <td>Solihull, UK</td>
 <td>🔒</td>
