@@ -11,13 +11,13 @@
 
 ### Browse 2009 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (956)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (955)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (107)
 
 🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (592)
 
-📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (154)
+📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (155)
 
 🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (200)
 
@@ -1032,7 +1032,7 @@
 <td>Software Engineer Intern - HighVIEW Product Development</td>
 <td>Hanover, MD</td>
 <td><div align="center"><a href="https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Software-Engineer-Intern---Summer-2026_317955-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/76e1950c-284e-43b2-a256-ec299f06fdc2?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>6d</td>
+<td>7d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
@@ -3105,13 +3105,6 @@
 <td>Draper, UT</td>
 <td><div align="center"><a href="https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Draper-UT/Software-Engineering-Intern---Summer-2026--Draper--UT_R202566778?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/43b24bbc-3c24-49f2-9a9a-c608d62f3e89?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>22d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Hexagon-AB?utm_source=GHList&utm_medium=company">Hexagon AB </a></strong></td>
-<td>Geomatics Engineering Intern - Sensor Fusion</td>
-<td>Calgary, AB, Canada</td>
-<td><div align="center"><a href="https://careers-hexagonpositioning.icims.com/jobs/2859/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/957128c1-605e-470e-a667-6605296d4b3d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>23d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/L3Harris-Technologies?utm_source=GHList&utm_medium=company">L3Harris Technologies</a></strong></td>
@@ -5878,6 +5871,13 @@
 <td><div align="center"><a href="https://zebra.eightfold.ai/careers/job/343627880313?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/c43f9f29-e4c1-40f2-a701-9942c3b3f78f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>1mo</td>
 </tr>
+<tr>
+<td>↳</td>
+<td>2026 Summer Internship - Software Engineering - Handheld Mobile Computer - Corporate and Business Services - CEO</td>
+<td>Lake Grove, NY</td>
+<td><div align="center"><a href="https://zebra.eightfold.ai/careers/job/343627851934?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/465a3d6a-0c6d-4520-8d6e-02bf4d39a870?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>1mo</td>
+</tr>
 </tbody>
 </table>
 
@@ -5904,13 +5904,6 @@
 </thead>
 <tbody>
 
-<tr>
-<td>↳</td>
-<td>2026 Summer Internship - Software Engineering - Handheld Mobile Computer - Corporate and Business Services - CEO</td>
-<td>Lake Grove, NY</td>
-<td><div align="center"><a href="https://zebra.eightfold.ai/careers/job/343627851934?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/465a3d6a-0c6d-4520-8d6e-02bf4d39a870?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Samsara?utm_source=GHList&utm_medium=company">Samsara</a></strong></td>
 <td>Software Engineering Intern</td>
@@ -6812,7 +6805,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (771)</summary>
+<summary>🗃️ Inactive roles (772)</summary>
 
 <table>
 <thead>
@@ -8501,6 +8494,13 @@
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Hexagon-AB?utm_source=GHList&utm_medium=company">Hexagon AB </a></strong></td>
 <td>Software Engineering Intern - Software Infrastructure Team</td>
+<td>Calgary, AB, Canada</td>
+<td>🔒</td>
+<td>23d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Geomatics Engineering Intern - Sensor Fusion</td>
 <td>Calgary, AB, Canada</td>
 <td>🔒</td>
 <td>23d</td>
@@ -13865,7 +13865,7 @@
 <td>AI Machine Learning Intern - Gen AI - Multimodal 🎓</td>
 <td>Berkeley, CA</td>
 <td><div align="center"><a href="https://apply.workable.com/eluvio/j/B37F02D08D/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/e77d40d5-0aea-4714-a2ba-b55066f24655?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>6d</td>
+<td>7d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/General-Motors?utm_source=GHList&utm_medium=company">General Motors</a></strong></td>
@@ -14229,13 +14229,6 @@
 <td>Data Scientist Intern - Multiple Teams</td>
 <td>Milwaukee, WI</td>
 <td><div align="center"><a href="https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/Data-Scientist-Intern--Summer-2026-_WD45233?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/428529aa-80a1-4422-9fb8-da0239bf2c95?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>12d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Kinaxis?utm_source=GHList&utm_medium=company">Kinaxis</a></strong></td>
-<td>Co-op/Intern Developer - AI/ML</td>
-<td>Ottawa, ON, Canada</td>
-<td><div align="center"><a href="https://careers-kinaxis.icims.com/jobs/33751/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/d3a15f64-ed8a-4820-ba9c-68dce12d3ecd?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>12d</td>
 </tr>
 <tr>
@@ -15594,6 +15587,13 @@
 <td>Software Engineer Intern - Applied Machine Learning - ML System</td>
 <td>San Jose, CA</td>
 <td><div align="center"><a href="https://jobs.bytedance.com/en/position/7539711579525630216/detail?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/bf9ed33c-a8dd-48b5-aedc-9bc6a549356e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>26d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Cotiviti?utm_source=GHList&utm_medium=company">Cotiviti</a></strong></td>
+<td>Intern – Generative AI Research Engineer 🎓</td>
+<td>Remote in USA</td>
+<td><div align="center"><a href="https://careers-cotiviti.icims.com/jobs/15661/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/3dabf3fa-56cb-4626-a1d7-45c6307008f1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>26d</td>
 </tr>
 <tr>
@@ -17589,6 +17589,13 @@
 <td>11d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Kinaxis?utm_source=GHList&utm_medium=company">Kinaxis</a></strong></td>
+<td>Co-op/Intern Developer - AI/ML</td>
+<td>Ottawa, ON, Canada</td>
+<td>🔒</td>
+<td>12d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/MotorolaSolutions?utm_source=GHList&utm_medium=company">Motorola</a></strong></td>
 <td>Data Scientist Intern - Service Design Tools & Infrastructure</td>
 <td>Hoffman Estates, IL</td>
@@ -17993,13 +18000,6 @@
 <td>Alpharetta, GA</td>
 <td>🔒</td>
 <td>25d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Cotiviti?utm_source=GHList&utm_medium=company">Cotiviti</a></strong></td>
-<td>Intern – Generative AI Research Engineer 🎓</td>
-<td>Remote in USA</td>
-<td>🔒</td>
-<td>26d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Waymo?utm_source=GHList&utm_medium=company">Waymo</a></strong></td>
@@ -19776,6 +19776,13 @@
 </tr>
 <tr>
 <td>↳</td>
+<td>Quantitative Research Internship 🎓</td>
+<td>Philadelphia, PA</br>NYC</td>
+<td><div align="center"><a href="https://careers-sig.icims.com/jobs/9312/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/ad8b1567-30c9-4093-b10b-395eb58e0e33?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>26d</td>
+</tr>
+<tr>
+<td>↳</td>
 <td>Quantitative Trader Internship</td>
 <td>Ardmore, PA</td>
 <td><div align="center"><a href="https://careers-sig.icims.com/jobs/9377/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/9a6e5b09-436c-4ff9-a004-546a8fd41641?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
@@ -20395,7 +20402,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (173)</summary>
+<summary>🗃️ Inactive roles (172)</summary>
 
 <table>
 <thead>
@@ -20629,13 +20636,6 @@
 <td>↳</td>
 <td>Quantitative Trader Internship</td>
 <td>Chicago, IL</td>
-<td>🔒</td>
-<td>26d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Quantitative Research Internship 🎓</td>
-<td>Philadelphia, PA</br>NYC</td>
 <td>🔒</td>
 <td>26d</td>
 </tr>

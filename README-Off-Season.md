@@ -10,9 +10,9 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 449 Internship Roles by Category
+### Browse 448 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (176)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (175)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-product-management-internship-roles)** (16)
 
@@ -287,7 +287,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>San Jose, CA</td>
 <td>Winter 2026</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/figureai/jobs/4605724006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/3aa8e6d6-bc8d-4612-a995-21c9edb99cb9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>5d</td>
+<td>6d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Travelers?utm_source=GHList&utm_medium=company">The Travelers Companies</a></strong></td>
@@ -712,14 +712,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Spring 2026</td>
 <td><div align="center"><a href="https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Milwaukee-Wisconsin/Business-Operations-Software-Engineer---Spring-2026-Co-op_JR00115502-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/076204d4-9101-49b0-a82a-71fcb018c91f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>24d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/WR-Berkley?utm_source=GHList&utm_medium=company">W.R. Berkley</a></strong></td>
-<td>Intern – Software Developer - Reactjs</td>
-<td>Grimes, IA</td>
-<td>Spring 2026</td>
-<td><div align="center"><a href="https://careers-berkley.icims.com/jobs/12912/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/0c7562e6-7d8e-4ada-b934-9b6bdd000c2f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>25d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Onsemi?utm_source=GHList&utm_medium=company">onsemi</a></strong></td>
@@ -1486,7 +1478,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (551)</summary>
+<summary>🗃️ Inactive roles (552)</summary>
 
 <table>
 <thead>
@@ -2065,6 +2057,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Intern – Software Developer</td>
 <td>Toronto, ON, Canada</td>
 <td>Winter 2026, Spring 2026</td>
+<td>🔒</td>
+<td>25d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/WR-Berkley?utm_source=GHList&utm_medium=company">W.R. Berkley</a></strong></td>
+<td>Intern – Software Developer - Reactjs</td>
+<td>Grimes, IA</td>
+<td>Spring 2026</td>
 <td>🔒</td>
 <td>25d</td>
 </tr>
@@ -10987,6 +10987,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td><div align="center"><a href="https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Hardware-ASIC-Design-_JR2003195?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/a99e98fd-cdf7-40e7-93e9-6ef43d068c4c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>1mo</td>
 </tr>
+<tr>
+<td>↳</td>
+<td>Hardware Verification</td>
+<td>Santa Clara, CA</td>
+<td>Winter 2025</td>
+<td><div align="center"><a href="https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Hardware-Verification-_JR2003197?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/80d4362c-c9ea-4e6c-9f9b-109740bd3291?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>1mo</td>
+</tr>
 </tbody>
 </table>
 
@@ -11013,14 +11021,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </thead>
 <tbody>
 
-<tr>
-<td>↳</td>
-<td>Hardware Verification</td>
-<td>Santa Clara, CA</td>
-<td>Winter 2025</td>
-<td><div align="center"><a href="https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Hardware-Verification-_JR2003197?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/80d4362c-c9ea-4e6c-9f9b-109740bd3291?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
 <tr>
 <td>↳</td>
 <td>NVIDIA Internships: Hardware Engineering</td>
