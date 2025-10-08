@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 2123 Internship Roles by Category
+### Browse 2125 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (1000)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (1001)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (119)
 
@@ -19,7 +19,7 @@
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (160)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (214)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (215)
 
 ---
 
@@ -1718,7 +1718,7 @@
 <td>Web App Development Intern - Software Development</td>
 <td>Phoenix, AZ</td>
 <td><div align="center"><a href="https://careers-carollo.icims.com/jobs/4133/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/87affda7-6731-4b09-9c65-544b10d7a2bd?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>12d</td>
+<td>13d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Pinterest?utm_source=GHList&utm_medium=company">Pinterest</a></strong></td>
@@ -3835,6 +3835,13 @@
 <td>26d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Dayton-Freight-Lines?utm_source=GHList&utm_medium=company">Dayton Freight Lines</a></strong></td>
+<td>Software Developer Intern</td>
+<td>Dayton, OH</td>
+<td><div align="center"><a href="https://careers-daytonfreight.icims.com/jobs/16715/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/32fc1129-317d-499e-b6c3-5ebb215eb592?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>26d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Marvell?utm_source=GHList&utm_medium=company">Marvell</a></strong></td>
 <td>Application Engineering Intern</td>
 <td>Westlake Village, CA</td>
@@ -4280,7 +4287,7 @@
 <td>Research & Development Product Internship</td>
 <td>Birmingham, UK</td>
 <td><div align="center"><a href="https://wd3.myworkdaysite.com/recruiting/mdlz/External/job/Birmingham-United-Kingdom/Research---Development-Product-Internship-Placement-Year-2026---2027_R-148004-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/f2e93bf4-7c1f-47a4-9f6c-e206f609ef9e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>27d</td>
+<td>28d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Bosch?utm_source=GHList&utm_medium=company">Robert Bosch Venture Capital</a></strong></td>
@@ -5843,20 +5850,6 @@
 <td><div align="center"><a href="https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/XMLNAME-2026-Summer-Intern---Software-Engineering---Michigan_R549763?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/f7a2ee6f-6eed-4622-9d43-bbec9c35c9a7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>1mo</td>
 </tr>
-<tr>
-<td>↳</td>
-<td>2026 Summer Intern - Software Engineering</td>
-<td>Fort Wayne, IN</td>
-<td><div align="center"><a href="https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Wayne-Indiana/XMLNAME-2026-Summer-Intern---Software-Engineering---Indiana_R549765?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/b7b8e488-bdc3-46e1-b216-ba3d15bcde37?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>2026 Summer Intern - Software Engineering</td>
-<td>Fort Lauderdale, FL</td>
-<td><div align="center"><a href="https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Lauderdale-Florida/XMLNAME-2026-Summer-Intern---Software-Engineering---Florida_R549793?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/07a6ba14-b0f8-498d-8e24-c8d5fd0d4be6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -5883,6 +5876,20 @@
 </thead>
 <tbody>
 
+<tr>
+<td>↳</td>
+<td>2026 Summer Intern - Software Engineering</td>
+<td>Fort Wayne, IN</td>
+<td><div align="center"><a href="https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Wayne-Indiana/XMLNAME-2026-Summer-Intern---Software-Engineering---Indiana_R549765?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/b7b8e488-bdc3-46e1-b216-ba3d15bcde37?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>2026 Summer Intern - Software Engineering</td>
+<td>Fort Lauderdale, FL</td>
+<td><div align="center"><a href="https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Lauderdale-Florida/XMLNAME-2026-Summer-Intern---Software-Engineering---Florida_R549793?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/07a6ba14-b0f8-498d-8e24-c8d5fd0d4be6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>1mo</td>
+</tr>
 <tr>
 <td>↳</td>
 <td>2026 Summer Intern - Software Engineering</td>
@@ -7120,7 +7127,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (777)</summary>
+<summary>🗃️ Inactive roles (776)</summary>
 
 <table>
 <thead>
@@ -7467,7 +7474,7 @@
 <td>Network Operations Intern - Network Operations</td>
 <td>Scottsdale, AZ</td>
 <td>🔒</td>
-<td>7d</td>
+<td>8d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Steel-Dynamics?utm_source=GHList&utm_medium=company">Steel Dynamics</a></strong></td>
@@ -9034,13 +9041,6 @@
 <td><strong><a href="https://simplify.jobs/c/CACI?utm_source=GHList&utm_medium=company">CACI</a></strong></td>
 <td>Network Engineering Intern</td>
 <td><details><summary><strong>4 locations</strong></summary>Fairfax, VA</br>Manassas, VA</br>Arlington, VA</br>Reston, VA</details></td>
-<td>🔒</td>
-<td>26d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Dayton-Freight-Lines?utm_source=GHList&utm_medium=company">Dayton Freight Lines</a></strong></td>
-<td>Software Developer Intern</td>
-<td>Dayton, OH</td>
 <td>🔒</td>
 <td>26d</td>
 </tr>
@@ -14936,7 +14936,7 @@
 <td>PhD Machine Learning Intern 2026 - Multiple Teams 🎓</td>
 <td><details><summary><strong>4 locations</strong></summary>Palo Alto, CA</br>Seattle, WA</br>SF</br>NYC</details></td>
 <td><div align="center"><a href="https://www.pinterestcareers.com/job-form?gh_jid=7211004&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/d4d241cb-e222-4660-9c19-7fc29579de4f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>12d</td>
+<td>13d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Clarios?utm_source=GHList&utm_medium=company">Clarios</a></strong></td>
@@ -23099,6 +23099,13 @@
 <td>21d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/NextEra-Energy?utm_source=GHList&utm_medium=company">NextEra Energy</a></strong></td>
+<td>IT AI Solutions Analyst – College Intern - Power Generation</td>
+<td>Palm Beach Gardens, FL</td>
+<td><div align="center"><a href="https://jobs.nexteraenergy.com/job/Palm-Beach-Gardens-IT-AI-Solutions-Analyst-(Power-Generation)-College-Intern-FL-33410/1326533200/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/7b7a4e19-68ca-4baf-8c1b-28a29628217d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>21d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Marvell?utm_source=GHList&utm_medium=company">Marvell</a></strong></td>
 <td>Design Verification Intern</td>
 <td>Santa Clara, CA</td>
@@ -23936,7 +23943,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (108)</summary>
+<summary>🗃️ Inactive roles (107)</summary>
 
 <table>
 <thead>
@@ -24119,13 +24126,6 @@
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/NextEra-Energy?utm_source=GHList&utm_medium=company">NextEra Energy</a></strong></td>
-<td>IT AI Solutions Analyst – College Intern - Power Generation</td>
-<td>Palm Beach Gardens, FL</td>
-<td>🔒</td>
-<td>21d</td>
-</tr>
-<tr>
-<td>↳</td>
 <td>IT Nuclear Solution Analyst – College Intern - Digital Twin Program</td>
 <td>Jupiter, FL</td>
 <td>🔒</td>
