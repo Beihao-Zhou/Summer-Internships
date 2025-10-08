@@ -9,11 +9,11 @@
 
 ---
 
-### Browse 2073 Internship Roles by Category
+### Browse 2074 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (980)
 
-📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (112)
+📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (113)
 
 🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (611)
 
@@ -12574,6 +12574,13 @@
 <td>Product Management Intern - Mobile Solutions</td>
 <td>Bloomington, MN</td>
 <td><div align="center"><a href="https://donaldson.wd5.myworkdayjobs.com/donaldsoncareers/job/Bloomington-MN-USA/Product-Management-Intern_JR-24696?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/bdbe8237-8ac6-4ce2-a252-3b4baf3d4739?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Puma?utm_source=GHList&utm_medium=company">Puma</a></strong></td>
+<td>Product Management Intern - Innovation Footwear - Innovation - Product Development</td>
+<td>United States</td>
+<td><div align="center"><a href="https://puma.wd3.myworkdayjobs.com/Jobs_at_Puma/job/PUMA-Way-Headquarters/Internship-Product-Management-Innovation-Footwear_R38090-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/a6ae8c3f-a63b-4a76-8435-b2f9e423444d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>5d</td>
 </tr>
 <tr>
