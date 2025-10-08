@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 2079 Internship Roles by Category
+### Browse 2080 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (981)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (982)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (117)
 
@@ -752,6 +752,13 @@
 <td>Software Engineer Intern - Inference Infrastructure</td>
 <td>Seattle, WA</td>
 <td><div align="center"><a href="https://jobs.bytedance.com/en/position/7556509873740056850/detail?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/12b36b5f-2238-4fcf-bb99-4b7944966493?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Software Engineer Intern - Inference Infrastructure</td>
+<td>San Jose, CA</td>
+<td><div align="center"><a href="https://jobs.bytedance.com/en/position/7556512633886132487/detail?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/f50d6727-3619-4108-8788-1b177e8a2ec0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>5d</td>
 </tr>
 <tr>
@@ -5850,13 +5857,6 @@
 <td><div align="center"><a href="https://careers.qorvo.com/job/Richardson-Software-Engineering-Intern-TX-75081/1321539500/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/4a41d010-39d4-473d-9d46-4552db2cfb9d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>1mo</td>
 </tr>
-<tr>
-<td>↳</td>
-<td>Software Engineer Intern</td>
-<td>Greensboro, NC</td>
-<td><div align="center"><a href="https://careers.qorvo.com/job/Greensboro-Software-Engineer-Intern-NC-27409/1321603900/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/b6c96089-0496-40da-a3f3-7ca0a6c61387?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -5883,6 +5883,13 @@
 </thead>
 <tbody>
 
+<tr>
+<td>↳</td>
+<td>Software Engineer Intern</td>
+<td>Greensboro, NC</td>
+<td><div align="center"><a href="https://careers.qorvo.com/job/Greensboro-Software-Engineer-Intern-NC-27409/1321603900/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/b6c96089-0496-40da-a3f3-7ca0a6c61387?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>1mo</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Netsmart?utm_source=GHList&utm_medium=company">Netsmart</a></strong></td>
 <td>Software Engineer Intern</td>
