@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 2109 Internship Roles by Category
+### Browse 2110 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (996)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (997)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (119)
 
@@ -626,6 +626,13 @@
 <td>Co-op – Software Engineering - Multiple Teams</td>
 <td>Cambridge, MA</td>
 <td><div align="center"><a href="https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US/Co-op---Software-Engineering---Cambridge--MA---June---December-2025_562524?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/0af1e3d2-740b-4eac-a268-bba0fa8960fa?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>4d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Co-op – Software Engineering - Multiple Teams</td>
+<td>Cambridge, MA</td>
+<td><div align="center"><a href="https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US/Co-op---Software-Engineering---Cambridge--MA_562525?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/5a04fbad-a684-477f-94f6-1c96e1779cda?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>4d</td>
 </tr>
 <tr>
@@ -5843,20 +5850,6 @@
 <td><div align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/210653529?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/9d6a2179-74cf-4e00-87c2-e1b7ed9a5638?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>1mo</td>
 </tr>
-<tr>
-<td><strong>Netic</strong></td>
-<td>Software Engineer, Intern</td>
-<td>San Francisco, CA</td>
-<td><div align="center"><a href="https://jobs.ashbyhq.com/netic/1242d448-bce2-4328-81ac-4b1080460b00?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td>🔥 <strong>Oracle</strong></td>
-<td>Undergrad Software Engineer Intern - Global Industries 🛂</td>
-<td>USA</td>
-<td><div align="center"><a href="https://careers.oracle.com/en/sites/jobsearch/job/306144?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -5883,6 +5876,20 @@
 </thead>
 <tbody>
 
+<tr>
+<td><strong>Netic</strong></td>
+<td>Software Engineer, Intern</td>
+<td>San Francisco, CA</td>
+<td><div align="center"><a href="https://jobs.ashbyhq.com/netic/1242d448-bce2-4328-81ac-4b1080460b00?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>🔥 <strong>Oracle</strong></td>
+<td>Undergrad Software Engineer Intern - Global Industries 🛂</td>
+<td>USA</td>
+<td><div align="center"><a href="https://careers.oracle.com/en/sites/jobsearch/job/306144?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Databricks?utm_source=GHList&utm_medium=company">Databricks</a></strong></td>
 <td>Software Engineering Intern</td>
