@@ -296,19 +296,24 @@ def classifyJobCategory(job):
     
     # Return None for jobs that don't fit any category (will be filtered out)
     else:
-        return None
+        return "Software Engineering"
 
 def ensureCategories(listings):
     categorized_listings = []
     filtered_count = 0
     
     for listing in listings:
-        category = classifyJobCategory(listing)
-        if category is not None:  # Only keep jobs that fit our categories
-            listing["category"] = category
+        # If listing already has a category, keep it
+        if "category" in listing and listing["category"]:
             categorized_listings.append(listing)
         else:
-            filtered_count += 1
+            # Only auto-classify if no category exists
+            category = classifyJobCategory(listing)
+            if category is not None:  # Only keep jobs that fit our categories
+                listing["category"] = category
+                categorized_listings.append(listing)
+            else:
+                filtered_count += 1
     
     print(f"Filtered out {filtered_count} jobs that didn't fit any category")
     return categorized_listings
