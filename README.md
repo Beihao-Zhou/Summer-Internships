@@ -1522,7 +1522,7 @@
 <td>Internship - IT and Software Engineering</td>
 <td>Colorado Springs, CO</td>
 <td><div align="center"><a href="https://compassion.wd5.myworkdayjobs.com/compassioncareers/job/Colorado-Springs-CO/XMLNAME-2026-Summer-Internship---IT-and-Software-Engineering_R7446?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/4cad432e-56cc-4915-9946-5e7cf1ae625a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>11d</td>
+<td>12d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/KBR?utm_source=GHList&utm_medium=company">KBR</a></strong></td>
@@ -14012,7 +14012,7 @@
 <td>Commercial Sales Analytics Intern - Sales Analytics</td>
 <td>Madison, WI</td>
 <td><div align="center"><a href="https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WI---Madison/Commercial-Sales-Analytics-Intern_R25-11040?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/1fe9ba13-2c92-44c9-8125-09d51049f122?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1d</td>
+<td>2d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Allison-Transmission?utm_source=GHList&utm_medium=company">Allison Transmission</a></strong></td>
