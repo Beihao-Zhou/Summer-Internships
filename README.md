@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 2146 Internship Roles by Category
+### Browse 2147 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (978)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (979)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (121)
 
@@ -89,6 +89,13 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Blizzard</strong></td>
+<td>Tech Art</td>
+<td>Woodland Hills, CA</td>
+<td><div align="center"><a href="https://careers.blizzard.com/global/en/job/BLENGLOBALR025921EXTERNALENGLOBAL/2026-US-Summer-Internships-Tech-Art?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Altice-USA?utm_source=GHList&utm_medium=company">Altice USA</a></strong></td>
 <td>Intern – Junior Systems Analyst</td>
@@ -829,7 +836,7 @@
 <td>Software Development Intern</td>
 <td>San Diego, CA</td>
 <td><div align="center"><a href="https://axos.wd5.myworkdayjobs.com/en-US/axos/job/HQ---San-Diego-CA/Software-Development-Intern---Summer-2026_JR3503-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
+<td>6d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/CH-Robinson?utm_source=GHList&utm_medium=company">C.H. Robinson</a></strong></td>
@@ -1361,7 +1368,7 @@
 <td>Software Engineering Intern - Multiple Teams</td>
 <td>Plantation, FL</td>
 <td><div align="center"><a href="https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Sunrise-FL/Software-Engineering-Intern---Sunrise--FL_R003790?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/ea17488d-fcce-47f5-bd64-5967ed563a39?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>8d</td>
+<td>9d</td>
 </tr>
 <tr>
 <td>🔥 <strong>Slack</strong></td>
@@ -8251,7 +8258,7 @@
 <td>Servicenow Security Organization – Associate Information Security Analyst Intern - Sso</td>
 <td>San Diego, CA</td>
 <td>🔒</td>
-<td>21d</td>
+<td>22d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/CACI?utm_source=GHList&utm_medium=company">CACI</a></strong></td>
@@ -15223,7 +15230,7 @@
 <td>Data Engineer - Co-Op - Global Technology Services</td>
 <td>Quincy, MA</td>
 <td><div align="center"><a href="https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Quincy-Massachusetts/Data-Engineer--CO-OP_R-778223?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/c626dbae-c50e-469f-8358-d71a2b080ef1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>14d</td>
+<td>15d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Arconic?utm_source=GHList&utm_medium=company">Arconic</a></strong></td>
@@ -22928,7 +22935,7 @@
 <td>Embedded Hardware Intern - Multiple Teams</td>
 <td>Milwaukee, WI</td>
 <td><div align="center"><a href="https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/XMLNAME--DO-NOT-POST--IoT-Hardware-Intern--Summer-2026-_REQ-018906?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/8985dd14-f2f7-4164-9287-6410a821f56d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>7d</td>
+<td>8d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Boston-Scientific?utm_source=GHList&utm_medium=company">Boston Scientific</a></strong></td>
