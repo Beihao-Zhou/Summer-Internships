@@ -302,10 +302,34 @@ def ensureCategories(listings):
     categorized_listings = []
     filtered_count = 0
     
+    # Create mapping from old category names to new category names
+    category_mapping = {
+        "Software": "Software Engineering",
+        "Product": "Product Management", 
+        "AI/ML/Data": "Data Science, AI & Machine Learning",
+        "Quant": "Quantitative Finance",
+        "Hardware": "Hardware Engineering"
+    }
+    
     for listing in listings:
-        # If listing already has a category, keep it
+        # If listing already has a category, normalize it to full category name
         if "category" in listing and listing["category"]:
-            categorized_listings.append(listing)
+            existing_category = listing["category"]
+            # Normalize old category names to new full names
+            if existing_category in category_mapping:
+                listing["category"] = category_mapping[existing_category]
+                categorized_listings.append(listing)
+            # Re-classify jobs with "Other" or invalid categories
+            elif existing_category in ["Other", "None", None]:
+                category = classifyJobCategory(listing)
+                if category is not None:
+                    listing["category"] = category
+                    categorized_listings.append(listing)
+                else:
+                    filtered_count += 1
+            else:
+                # Keep jobs with valid full category names
+                categorized_listings.append(listing)
         else:
             # Only auto-classify if no category exists
             category = classifyJobCategory(listing)
