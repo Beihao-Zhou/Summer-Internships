@@ -6678,12 +6678,12 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>7d</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/General-Motors?utm_source=GHList&utm_medium=company">General Motors</a></strong></td>
 <td>AI Engineer Co-op - Multiple Teams</td>
 <td>Markham, ON, Canada</td>
 <td>Winter 2026</td>
 <td><div align="center"><a href="https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2026-Winter-AI-Engineer-Co-op_JR-202518377?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/8f38145d-0e09-4eae-a459-dde082f31244?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>7d</td>
+<td>8d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Lloyds-Bank?utm_source=GHList&utm_medium=company">Lloyds Bank</a></strong></td>
@@ -6691,7 +6691,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Birmingham, UK</td>
 <td>Fall 2026</td>
 <td><div align="center"><a href="https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Birmingham/Data-Apprentice--Birmingham-_144390?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/0715bbdb-141d-47b2-846d-f82cd13466fb?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>7d</td>
+<td>8d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/5276a21f-bbf3-42c6-b809-d1b328b36b6e?utm_source=GHList&utm_medium=company">MFS</a></strong></td>
@@ -11867,14 +11867,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>🔒</td>
 <td>4mo</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/acb6271e-e26a-401d-befe-547f56e287b5?utm_source=GHList&utm_medium=company">Manulife</a></strong></td>
-<td>Financial Investment Analyst Co-op</td>
-<td>Toronto, ON, Canada</td>
-<td>Fall 2025</td>
-<td>🔒</td>
-<td>5mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -11901,6 +11893,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </thead>
 <tbody>
 
+<tr>
+<td><strong><a href="https://simplify.jobs/c/acb6271e-e26a-401d-befe-547f56e287b5?utm_source=GHList&utm_medium=company">Manulife</a></strong></td>
+<td>Financial Investment Analyst Co-op</td>
+<td>Toronto, ON, Canada</td>
+<td>Fall 2025</td>
+<td>🔒</td>
+<td>5mo</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/TD-Bank?utm_source=GHList&utm_medium=company">TD Bank</a></strong></td>
 <td>Global Markets Intern/Co-op - Fx - FI & Precious Metals Distribution</td>
