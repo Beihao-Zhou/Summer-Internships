@@ -10,13 +10,13 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 434 Internship Roles by Category
+### Browse 435 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (122)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-product-management-internship-roles)** (24)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-data-science-ai--machine-learning-internship-roles)** (213)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-data-science-ai--machine-learning-internship-roles)** (214)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-quantitative-finance-internship-roles)** (8)
 
@@ -170,12 +170,12 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>2d</td>
 </tr>
 <tr>
-<td>↳</td>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Uber?utm_source=GHList&utm_medium=company">Uber</a></strong></td>
 <td>PhD Software Engineer Intern - Programming Systems Group 🎓</td>
 <td>NYC</br>Sunnyvale, CA</td>
 <td>Winter 2026</td>
 <td><div align="center"><a href="https://university-uber.icims.com/jobs/149604/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/165f2b10-8db4-44e8-aaa9-2ebef4765e79?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>2d</td>
+<td>3d</td>
 </tr>
 <tr>
 <td>↳</td>
@@ -183,10 +183,10 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Sunnyvale, CA</td>
 <td>Winter 2026</td>
 <td><div align="center"><a href="https://university-uber.icims.com/jobs/149482/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/23669e00-732b-4c05-85a0-ed18d5498da6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>2d</td>
+<td>3d</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Uber?utm_source=GHList&utm_medium=company">Uber</a></strong></td>
+<td>↳</td>
 <td>PhD Software Engineer Intern - Data Storage 🎓</td>
 <td>Sunnyvale, CA</td>
 <td>Winter 2026</td>
@@ -6515,7 +6515,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td><details><summary><strong>4 locations</strong></summary>Montreal, QC, Canada</br>London, UK</br>Toronto, ON, Canada</br>SF</details></td>
 <td>Winter 2026</td>
 <td><div align="center"><a href="https://jobs.ashbyhq.com/cohere/6e850172-a79d-4128-abd2-677731312857/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/0b25fd12-7da8-498d-8e2c-1ef6c060ee27?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>2d</td>
+<td>3d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Seaspan?utm_source=GHList&utm_medium=company">Seaspan</a></strong></td>
@@ -6611,7 +6611,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Markham, ON, Canada</br>Oshawa, ON, Canada</td>
 <td>Winter 2026</td>
 <td><div align="center"><a href="https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Oshawa-Ontario-Canada/XMLNAME-2026-Winter-Co-op-Data-Engineering-Software-Develope_JR-202517452?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/77aca935-4894-4e1d-89fd-8ef4ec07ba82?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>7d</td>
+<td>8d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Figure-AI?utm_source=GHList&utm_medium=company">Figure</a></strong></td>
@@ -7211,6 +7211,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Bedford, MA</td>
 <td>Spring 2026</td>
 <td><div align="center"><a href="https://entegris.wd1.myworkdayjobs.com/en-US/EntegrisCareers/job/Bedford-MA/Agentic-AI-Co-Op---Spring-2026_REQ-9196?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td>30d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Grow-Financial-Federal-Credit-Union?utm_source=GHList&utm_medium=company">Grow Financial Federal Credit Union</a></strong></td>
+<td>Collections Data Analyst Intern</td>
+<td>Remote in USA</td>
+<td>Winter 2026</td>
+<td><div align="center"><a href="https://careers-growfinancial.icims.com/jobs/2529/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/f773e1e7-217c-442f-81f3-bc8a1692940f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>30d</td>
 </tr>
 <tr>
@@ -7986,7 +7994,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (441)</summary>
+<summary>🗃️ Inactive roles (440)</summary>
 
 <table>
 <thead>
@@ -8381,14 +8389,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Data Science Co-Op</td>
 <td>Horsham, PA</td>
 <td>Spring 2026</td>
-<td>🔒</td>
-<td>30d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Grow-Financial-Federal-Credit-Union?utm_source=GHList&utm_medium=company">Grow Financial Federal Credit Union</a></strong></td>
-<td>Collections Data Analyst Intern</td>
-<td>Remote in USA</td>
-<td>Winter 2026</td>
 <td>🔒</td>
 <td>30d</td>
 </tr>
@@ -11574,7 +11574,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Pittsburgh, PA</td>
 <td>Fall 2025, Spring 2026</td>
 <td><div align="center"><a href="https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Fall-2025---Spring-2026-Undergraduate-Investment-Analyst-Intern---Investment-Office_2023690?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/d7a8418e-57bc-477a-ac83-88ca2f14c54a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>14d</td>
+<td>15d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Ontario-Teachers-Pension-Plan?utm_source=GHList&utm_medium=company">Ontario Teachers' Pension Plan</a></strong></td>
@@ -11939,14 +11939,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td><div align="center"><a href="https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---OH-Dayton/Hardware-Engineering-Intern_R52109?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/4f502412-4401-4c95-9c48-ee6a703e4d75?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>1d</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Keysight-Technologies-Inc?utm_source=GHList&utm_medium=company">Keysight Technologies</a></strong></td>
-<td>Measurement Software Intern</td>
-<td>Santa Rosa, CA</td>
-<td>Winter 2025</td>
-<td><div align="center"><a href="https://jobs.keysight.com/jobs/49294?lang=en-us&icims=1&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/933c51df-fb26-43fc-9760-2eb5cbfc0c36?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1d</td>
-</tr>
 </tbody>
 </table>
 
@@ -11973,6 +11965,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </thead>
 <tbody>
 
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Keysight-Technologies-Inc?utm_source=GHList&utm_medium=company">Keysight Technologies</a></strong></td>
+<td>Measurement Software Intern</td>
+<td>Santa Rosa, CA</td>
+<td>Winter 2025</td>
+<td><div align="center"><a href="https://jobs.keysight.com/jobs/49294?lang=en-us&icims=1&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/933c51df-fb26-43fc-9760-2eb5cbfc0c36?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>1d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Pendar-Technologies?utm_source=GHList&utm_medium=company">Pendar Technologies</a></strong></td>
 <td>Co-op: Photonic Process Automation - Multiple Teams</td>
@@ -12011,7 +12011,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Ottawa, ON, Canada</td>
 <td>Winter 2026</td>
 <td><div align="center"><a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Characterization-Intern---Winter-2026---8-Months_R029197?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/c496bac6-3d95-41bd-b212-19661da8bae1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>2d</td>
+<td>3d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Caterpillar-Inc?utm_source=GHList&utm_medium=company">Caterpillar Inc.</a></strong></td>
