@@ -91,7 +91,7 @@
 <tbody>
 <tr>
 <td><strong>Sephora</strong></td>
-<td>Intern, IT Warehouse & Distribution Automation 🛂</td>
+<td>Intern, IT Warehouse & Distribution Automation 🇺🇸</td>
 <td>Remote in CA</td>
 <td><div align="center"><a href="https://join.sephora.com/careers/job/790312348148?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
 <td>0d</td>
@@ -23060,7 +23060,7 @@
 <td>2026 Summer Key's Technology – Internship - Operations & Services - Data Track</td>
 <td>Brooklyn, OH</td>
 <td>🔒</td>
-<td>1mo</td>
+<td>2mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/WW-Grainger?utm_source=GHList&utm_medium=company">W.W. Grainger</a></strong></td>
