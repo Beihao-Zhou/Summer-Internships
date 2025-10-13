@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 2392 Internship Roles by Category
+### Browse 2393 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (807)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (808)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (200)
 
@@ -171,6 +171,13 @@
 <td>Internship - Debugger Compiler Integration Intern - Debugger Compiler Integration</td>
 <td>London, UK</td>
 <td><div align="center"><a href="https://jobs.apple.com/en-us/details/200623627?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/470024fb-ad99-4627-b855-45654511f5a2?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>3d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Intern - Distributed Build System</td>
+<td>London, UK</td>
+<td><div align="center"><a href="https://jobs.apple.com/en-us/details/200625333?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/ca7192a2-98da-43a9-97b2-790a1bbf6aa7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>3d</td>
 </tr>
 <tr>
@@ -6456,20 +6463,6 @@
 <td>🔒</td>
 <td>17d</td>
 </tr>
-<tr>
-<td>↳</td>
-<td>Associate Information Security Analyst Intern - Sso</td>
-<td>San Diego, CA</td>
-<td>🔒</td>
-<td>17d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Berkshire-Hathaway-Energy?utm_source=GHList&utm_medium=company">Berkshire Hathaway Energy</a></strong></td>
-<td>Network Engineer Intern - Multiple Teams</td>
-<td>Des Moines, IA</td>
-<td>🔒</td>
-<td>17d</td>
-</tr>
 </tbody>
 </table>
 
@@ -6496,6 +6489,20 @@
 </thead>
 <tbody>
 
+<tr>
+<td>↳</td>
+<td>Associate Information Security Analyst Intern - Sso</td>
+<td>San Diego, CA</td>
+<td>🔒</td>
+<td>17d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Berkshire-Hathaway-Energy?utm_source=GHList&utm_medium=company">Berkshire Hathaway Energy</a></strong></td>
+<td>Network Engineer Intern - Multiple Teams</td>
+<td>Des Moines, IA</td>
+<td>🔒</td>
+<td>17d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Kinaxis?utm_source=GHList&utm_medium=company">Kinaxis</a></strong></td>
 <td>Co-op/Intern Software Developer - Core Algorithms - Industry Teams</td>
