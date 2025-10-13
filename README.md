@@ -11,11 +11,11 @@
 
 ### Browse 2398 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (810)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (809)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (200)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (978)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (979)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (99)
 
@@ -89,13 +89,6 @@
 </tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>DigiKey</strong></td>
-<td>Data Scientist Intern 🛂</td>
-<td>Thief River Falls, MN</td>
-<td><div align="center"><a href="https://digikey.wd5.myworkdayjobs.com/en-US/digi-key/job/Thief-River-Falls-MN/Data-Scientist-Intern_R5006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>0d</td>
-</tr>
 <tr>
 <td><strong>Sephora</strong></td>
 <td>Intern, IT Warehouse & Distribution Automation 🇺🇸</td>
@@ -6428,6 +6421,20 @@
 <td>🔒</td>
 <td>16d</td>
 </tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Rocket-Lab-USA?utm_source=GHList&utm_medium=company">Rocket Lab USA</a></strong></td>
+<td>Security Analyst Intern Summer 2026</td>
+<td>Essex, MD</td>
+<td>🔒</td>
+<td>16d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Security Analyst Intern Summer 2026</td>
+<td>Long Beach, CA</td>
+<td>🔒</td>
+<td>16d</td>
+</tr>
 </tbody>
 </table>
 
@@ -6454,20 +6461,6 @@
 </thead>
 <tbody>
 
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Rocket-Lab-USA?utm_source=GHList&utm_medium=company">Rocket Lab USA</a></strong></td>
-<td>Security Analyst Intern Summer 2026</td>
-<td>Essex, MD</td>
-<td>🔒</td>
-<td>16d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Security Analyst Intern Summer 2026</td>
-<td>Long Beach, CA</td>
-<td>🔒</td>
-<td>16d</td>
-</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
 <td>Software Engineer Intern - Aviation Messaging</td>
@@ -11923,7 +11916,7 @@
 <td>Product Intern - Product Management</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2026-Internship---Product-Intern_Job_Req_49351?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/39aba4bf-470a-40d0-b333-ad90c6c8f1f8?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>5d</td>
+<td>6d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Exact-Sciences?utm_source=GHList&utm_medium=company">Exact Sciences</a></strong></td>
@@ -13699,6 +13692,13 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>DigiKey</strong></td>
+<td>Data Scientist Intern 🛂</td>
+<td>Thief River Falls, MN</td>
+<td><div align="center"><a href="https://digikey.wd5.myworkdayjobs.com/en-US/digi-key/job/Thief-River-Falls-MN/Data-Scientist-Intern_R5006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/JP-Morgan-Chase?utm_source=GHList&utm_medium=company">JP Morgan Chase</a></strong></td>
 <td>Applied Artificial Intelligence and Machine Learning Associate Program Intern - LLM Suite - Chief Analytics Office 🎓</td>
