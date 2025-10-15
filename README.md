@@ -15,9 +15,9 @@
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (203)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (1027)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (1026)
 
-📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (106)
+📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (107)
 
 🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (326)
 
@@ -2208,7 +2208,7 @@
 <td>Digital Technology Intern - Digital Technology</td>
 <td>Omaha, NE</br>Bengaluru, Karnataka, India</td>
 <td><div align="center"><a href="https://haier.wd3.myworkdayjobs.com/ge_appliances/job/Hyderabad-SAL-IN/Digital-Technology-Intern_REQ-23877?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/1be29fba-73fe-491d-9953-3759d0e7f8fd?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>19d</td>
+<td>20d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Pinterest?utm_source=GHList&utm_medium=company">Pinterest</a></strong></td>
@@ -15433,7 +15433,7 @@
 <td>Intern - Data Scientist 🎓</td>
 <td>San Jose, CA</br>Lehi, UT</td>
 <td><div align="center"><a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/XMLNAME-2026-Intern---Data-Scientist_R160622?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/2d784bda-fb86-478e-ae5d-75f00e2606f3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>6d</td>
+<td>7d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Dow-Jones?utm_source=GHList&utm_medium=company">Dow Jones</a></strong></td>
@@ -15832,7 +15832,7 @@
 <td>Intern - Data Analytics - Data Science</td>
 <td>Orange, CA</td>
 <td><div align="center"><a href="https://apply.edisoncareers.com/job/Santa-Ana-2026-Summer-Internship-Data-AnalyticsData-ScienceApplied-MathStatistics-CA-92705/1332406300/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/b73e8381-4668-45da-88e8-ad5b470ad4ac?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>7d</td>
+<td>8d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/CenturyLink?utm_source=GHList&utm_medium=company">CenturyLink</a></strong></td>
@@ -17176,7 +17176,7 @@
 <td>Life Cycle Support – 2026 Program Office Summer Internship - Lcs</td>
 <td>Groton, CT</br>Norwich, CT</td>
 <td><div align="center"><a href="https://careers-gdeb.icims.com/jobs/16380/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/96e906fb-bf81-4070-8d83-893264b56fb4?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>18d</td>
+<td>19d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Meta?utm_source=GHList&utm_medium=company">Meta</a></strong></td>
@@ -17277,14 +17277,14 @@
 <td>19d</td>
 </tr>
 <tr>
-<td>↳</td>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Pinterest?utm_source=GHList&utm_medium=company">Pinterest</a></strong></td>
 <td>Machine Learning Intern - Multiple Teams 🎓</td>
 <td><details><summary><strong>4 locations</strong></summary>Palo Alto, CA</br>Seattle, WA</br>SF</br>NYC</details></td>
 <td><div align="center"><a href="https://www.pinterestcareers.com/job-form?gh_jid=7210896&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/93797a91-f6fb-4c8d-ac0c-e5652a8294dc?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>19d</td>
+<td>20d</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Pinterest?utm_source=GHList&utm_medium=company">Pinterest</a></strong></td>
+<td>↳</td>
 <td>Machine Learning Intern - Multiple Teams 🎓</td>
 <td>Toronto, ON, Canada</td>
 <td><div align="center"><a href="https://www.pinterestcareers.com/job-form?gh_jid=7268767&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/d585f4f4-f359-464a-8f0e-fbe69c53513d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
@@ -19241,13 +19241,6 @@
 <td>Machine Learning Internship 🎓</td>
 <td>Ardmore, PA</td>
 <td><div align="center"><a href="https://careers-sig.icims.com/jobs/9400/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/3900ee26-a593-429d-aeb9-6cea38b113a8?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Quanta-Services?utm_source=GHList&utm_medium=company">Quanta Services</a></strong></td>
-<td>Innovation Intern</td>
-<td>Denver, CO</td>
-<td><div align="center"><a href="https://careers-quanta.icims.com/jobs/10973/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/160d1f7f-a969-4416-8aff-56a07e419e95?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>1mo</td>
 </tr>
 <tr>
@@ -21502,7 +21495,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (492)</summary>
+<summary>🗃️ Inactive roles (493)</summary>
 
 <table>
 <thead>
@@ -21786,7 +21779,7 @@
 <td>Intern - Data Science - Strategy & Transformation</td>
 <td>Warren, MI</td>
 <td>🔒</td>
-<td>14d</td>
+<td>15d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/L3Harris-Technologies?utm_source=GHList&utm_medium=company">L3Harris Technologies</a></strong></td>
@@ -21982,10 +21975,10 @@
 <td>Co-op Data Engineering - Multiple Teams</td>
 <td>State College, PA</td>
 <td>🔒</td>
-<td>21d</td>
+<td>22d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Philips?utm_source=GHList&utm_medium=company">Philips</a></strong></td>
+<td>↳</td>
 <td>Co-op Data Engineering - Multiple Teams</td>
 <td>State College, PA</td>
 <td>🔒</td>
@@ -22653,6 +22646,13 @@
 <td>↳</td>
 <td>Co-op – Summer 2026</td>
 <td>Lombard, IL</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Quanta-Services?utm_source=GHList&utm_medium=company">Quanta Services</a></strong></td>
+<td>Innovation Intern</td>
+<td>Denver, CO</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -25368,6 +25368,13 @@
 <td>1mo</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/ICEMarkets?utm_source=GHList&utm_medium=company">Intercontinental Exchange</a></strong></td>
+<td>Quantitative Engineer Intern - Clearing Technology 🎓</td>
+<td>Atlanta, GA</td>
+<td><div align="center"><a href="https://careers-ice.icims.com/jobs/11584/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/46f30da2-6e82-4eed-a01d-e3f793a37634?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Susquehanna?utm_source=GHList&utm_medium=company">Susquehanna International Group (SIG)</a></strong></td>
 <td>Quantitative Systematic Trading Internship 🎓</td>
 <td>Ardmore, PA</td>
@@ -25729,7 +25736,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (155)</summary>
+<summary>🗃️ Inactive roles (154)</summary>
 
 <table>
 <thead>
@@ -25879,13 +25886,6 @@
 <td><strong><a href="https://simplify.jobs/c/07d9f7f0-9f1a-4ecb-9346-f3ac39d905f2?utm_source=GHList&utm_medium=company">MKS Instruments</a></strong></td>
 <td>IT Risk & Compliance Undergrad Intern</td>
 <td>Andover, MA</td>
-<td>🔒</td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/ICEMarkets?utm_source=GHList&utm_medium=company">Intercontinental Exchange</a></strong></td>
-<td>Quantitative Engineer Intern - Clearing Technology 🎓</td>
-<td>Atlanta, GA</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
