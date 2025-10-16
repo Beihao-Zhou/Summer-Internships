@@ -10,9 +10,9 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 458 Internship Roles by Category
+### Browse 459 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (134)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (135)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-product-management-internship-roles)** (28)
 
@@ -75,6 +75,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <tbody>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/73c53fbf-b025-4a1b-afa6-4802426c0f99?utm_source=GHList&utm_medium=company">Zus Health</a></strong></td>
+<td>Fullstack Software Engineering Co-Op</td>
+<td>New York, NY</br>Hybrid</td>
+<td>Spring 2026</td>
+<td><div align="center"><a href="https://jobs.lever.co/zushealth/2802e098-979f-48a3-959f-e7beba838df5/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>↳</td>
 <td>Data Platform Software Engineering Co-Op</td>
 <td>Boston, MA</br>Hybrid</td>
 <td>Fall 2026</td>
@@ -11760,14 +11768,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>🔒</td>
 <td>7mo</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Braze?utm_source=GHList&utm_medium=company">Braze</a></strong></td>
-<td>Product Analytics Intern</td>
-<td>New York, NY</td>
-<td>Spring 2025</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -11794,6 +11794,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </thead>
 <tbody>
 
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Braze?utm_source=GHList&utm_medium=company">Braze</a></strong></td>
+<td>Product Analytics Intern</td>
+<td>New York, NY</td>
+<td>Spring 2025</td>
+<td>🔒</td>
+<td>7mo</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Keysight-Technologies-Inc?utm_source=GHList&utm_medium=company">Keysight Technologies, Inc.</a></strong></td>
 <td>Mlops Intern</td>
