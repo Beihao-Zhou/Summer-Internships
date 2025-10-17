@@ -10,13 +10,13 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 489 Internship Roles by Category
+### Browse 490 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (142)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-product-management-internship-roles)** (29)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-data-science-ai--machine-learning-internship-roles)** (236)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-data-science-ai--machine-learning-internship-roles)** (237)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-quantitative-finance-internship-roles)** (9)
 
@@ -530,12 +530,12 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>21d</td>
 </tr>
 <tr>
-<td>↳</td>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Pinterest?utm_source=GHList&utm_medium=company">Pinterest</a></strong></td>
 <td>Software Engineer</td>
 <td>Toronto, Canada</td>
 <td>Winter 2026</td>
 <td><div align="center"><a href="https://www.pinterestcareers.com/jobs/7252886/software-engineer-intern-winter-term-2026-toronto?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>21d</td>
+<td>22d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Ciena?utm_source=GHList&utm_medium=company">Ciena</a></strong></td>
@@ -6526,6 +6526,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </thead>
 <tbody>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Accor?utm_source=GHList&utm_medium=company">Accor</a></strong></td>
+<td>Junior Analyst – Intern</td>
+<td>London, UK</td>
+<td>Winter 2025</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/AccorCorpo/744000088533895?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/c53622e7-00f7-48c0-b1a2-b6a4921de5a4?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/MotorolaSolutions?utm_source=GHList&utm_medium=company">Motorola</a></strong></td>
 <td>Software Developer – AI Co-Op</td>
 <td>Vancouver, BC, Canada</td>
@@ -7307,7 +7315,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Des Moines, IA</td>
 <td>Spring 2026</td>
 <td><div align="center"><a href="https://corteva.wd5.myworkdayjobs.com/en-US/ctp/job/Des-Moines-Iowa-United-States/Artificial-Intelligence-in-Breeding-Intern_243468W-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/4dfa5f5c-54d1-42dc-b283-98ebe4a61796?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>21d</td>
+<td>22d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Norfolk-Southern?utm_source=GHList&utm_medium=company">Norfolk Southern</a></strong></td>
@@ -8478,7 +8486,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>London, UK</td>
 <td>Winter 2025</td>
 <td>🔒</td>
-<td>15d</td>
+<td>16d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Walmart?utm_source=GHList&utm_medium=company">Walmart</a></strong></td>
@@ -11392,30 +11400,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>🔒</td>
 <td>4mo</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Fox?utm_source=GHList&utm_medium=company">FOX</a></strong></td>
-<td>Fall 2025 FOX News Media Internship Program - Data Analytics</td>
-<td>New York, NY</td>
-<td>Fall 2025</td>
-<td>🔒</td>
-<td>5mo</td>
-</tr>
-<tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company">NVIDIA</a></strong></td>
-<td>Deep Learning Server Software Intern - Dgx</td>
-<td>Santa Clara, CA</td>
-<td>Fall 2025</td>
-<td>🔒</td>
-<td>5mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/BMO?utm_source=GHList&utm_medium=company">Bank of Montreal</a></strong></td>
-<td>Analyst – Co-op/Internship - People Analytics</td>
-<td>Toronto, ON, Canada</td>
-<td>Fall 2025</td>
-<td>🔒</td>
-<td>5mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -11442,6 +11426,30 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </thead>
 <tbody>
 
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Fox?utm_source=GHList&utm_medium=company">FOX</a></strong></td>
+<td>Fall 2025 FOX News Media Internship Program - Data Analytics</td>
+<td>New York, NY</td>
+<td>Fall 2025</td>
+<td>🔒</td>
+<td>5mo</td>
+</tr>
+<tr>
+<td>🔥 <strong><a href="https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company">NVIDIA</a></strong></td>
+<td>Deep Learning Server Software Intern - Dgx</td>
+<td>Santa Clara, CA</td>
+<td>Fall 2025</td>
+<td>🔒</td>
+<td>5mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/BMO?utm_source=GHList&utm_medium=company">Bank of Montreal</a></strong></td>
+<td>Analyst – Co-op/Internship - People Analytics</td>
+<td>Toronto, ON, Canada</td>
+<td>Fall 2025</td>
+<td>🔒</td>
+<td>5mo</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
 <td>Stage – Science des données et Analytique d’affaires / Internship - Data Science and Business Analytics</td>
@@ -12798,14 +12806,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Legrand-NA?utm_source=GHList&utm_medium=company">Legrand NA</a></strong></td>
-<td>Firmware Intern</td>
-<td>Carlsbad, CA</td>
-<td>Winter 2025</td>
-<td><div align="center"><a href="https://jobs-legrand.icims.com/jobs/9473/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/f12c4439-da73-4544-9abe-313c848354d9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Keysight-Technologies-Inc?utm_source=GHList&utm_medium=company">Keysight Technologies</a></strong></td>
 <td>R&D Hardware Engineer Intern</td>
 <td>Santa Rosa, CA</td>
@@ -12815,6 +12815,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RoviSys?utm_source=GHList&utm_medium=company">RoviSys</a></strong></td>
+<td>Co-op – Spring 2026</td>
+<td>Portage, MI</td>
+<td>Spring 2026</td>
+<td><div align="center"><a href="https://careers-rovisys.icims.com/jobs/1847/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/3cdc75c9-e302-471d-9aa2-12e38b885f5b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
 <td>Co-op – Spring 2026</td>
 <td>Lombard, IL</td>
 <td>Spring 2026</td>
@@ -13193,15 +13201,15 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/RoviSys?utm_source=GHList&utm_medium=company">RoviSys</a></strong></td>
-<td>Co-op – Spring 2026</td>
-<td>Portage, MI</td>
-<td>Spring 2026</td>
+<td><strong><a href="https://simplify.jobs/c/Legrand-NA?utm_source=GHList&utm_medium=company">Legrand NA</a></strong></td>
+<td>Firmware Intern</td>
+<td>Carlsbad, CA</td>
+<td>Winter 2025</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/RoviSys?utm_source=GHList&utm_medium=company">RoviSys</a></strong></td>
 <td>Co-op – Spring 2026</td>
 <td>Fayetteville, GA</td>
 <td>Spring 2026</td>
