@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 2567 Internship Roles by Category
+### Browse 2566 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (858)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (857)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (210)
 
@@ -549,7 +549,7 @@
 <td>Software Development Engineer in Test Intern - Multiple Teams</td>
 <td>Atlanta, GA</td>
 <td><div align="center"><a href="https://careers-ice.icims.com/jobs/11603/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/009ac07c-a134-4bf4-afd5-aa6d0cea5bfc?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>3d</td>
+<td>4d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Gearset?utm_source=GHList&utm_medium=company">Gearset</a></strong></td>
@@ -1848,13 +1848,6 @@
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
-<td>Software Engineer Intern - Multiple Teams</td>
-<td>Marlborough, MA</td>
-<td><div align="center"><a href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA801-Marlborough-MA-1001-Boston-Post-Road-Building-2-Marlborough-MA-01752-USA/XMLNAME-2026-Intern---Software-Engineer-Intern---Onsite--MA-_01797376?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/ba49d837-e7f9-4fa6-8fdb-5c6c44e86bf1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>15d</td>
-</tr>
-<tr>
-<td>↳</td>
 <td>Software Engineering Intern - Multiple Teams</td>
 <td>McKinney, TX</td>
 <td><div align="center"><a href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/TX190-2501-West-University-McKinney-2501-West-University---McKinney-TX-75070-USA/XMLNAME-2026-Intern---Raytheon-Software-Engineering-Intern--On-site-_01793329?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/53a08497-e174-4578-ad06-afe3a8c0e6d9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
@@ -2089,7 +2082,7 @@
 <td>Software Engineer – Intern</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://jobs.ashbyhq.com/oneapp/3c3241fb-0655-4f8a-8670-770f6fce1e0b/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/202faa59-b175-4b20-9f63-8ee142070102?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>19d</td>
+<td>20d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Wells-Enterprises?utm_source=GHList&utm_medium=company">Wells Enterprises</a></strong></td>
@@ -3898,7 +3891,7 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Dayton-Freight-Lines?utm_source=GHList&utm_medium=company">Dayton Freight Lines</a></strong></td>
+<td>↳</td>
 <td>Software Developer Intern</td>
 <td>Dayton, OH</td>
 <td><div align="center"><a href="https://careers-daytonfreight.icims.com/jobs/16715/software-developer-intern/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
@@ -5983,6 +5976,13 @@
 <td><div align="center"><a href="https://careers.qorvo.com/job/Greensboro-Software-Characterization-Engineering-Intern-NC-27409/1318261400/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/193d969e-779a-4ee4-8839-c966f62e133f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>1mo</td>
 </tr>
+<tr>
+<td><strong>New York Life</strong></td>
+<td>Technology Analyst Intern 🛂</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://careers.newyorklife.com/careers?query=2026%20Technology%2C%20Data%2C%20AI%20%26%20Ventures%20Summer%20Internship%20Program%20-%20Technology%20Analyst%20Intern&pid=30149944&domain=newyorklife.com&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
 </tbody>
 </table>
 
@@ -6009,13 +6009,6 @@
 </thead>
 <tbody>
 
-<tr>
-<td><strong>New York Life</strong></td>
-<td>Technology Analyst Intern 🛂</td>
-<td>New York, NY</td>
-<td><div align="center"><a href="https://careers.newyorklife.com/careers?query=2026%20Technology%2C%20Data%2C%20AI%20%26%20Ventures%20Summer%20Internship%20Program%20-%20Technology%20Analyst%20Intern&pid=30149944&domain=newyorklife.com&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company">ByteDance</a></strong></td>
 <td>Research Intern (RDMA/High Speed Network) 🎓</td>
@@ -15062,14 +15055,14 @@
 <td>Corporate System AI Engineer Intern - Multiple Teams</td>
 <td>Atlanta, GA</td>
 <td><div align="center"><a href="https://careers-ice.icims.com/jobs/11605/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/e1add382-7d2c-4688-a42c-5c80d39ac5de?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>3d</td>
+<td>4d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Data Science Intern - Multiple Teams</td>
 <td>Jacksonville, FL</td>
 <td><div align="center"><a href="https://careers-ice.icims.com/jobs/11612/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/e98d2ae7-4a5c-4a8d-93c0-06ab3c8d225f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>3d</td>
+<td>4d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
@@ -27317,17 +27310,17 @@
 <td>Hardware Test Engineering Intern/Co-op - Hardware Test Engineering</td>
 <td>Dallas, TX</td>
 <td><div align="center"><a href="https://jobs.lever.co/shieldai/b2a6ca52-7e6d-44d1-9849-5927ef3ff3df/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/147fa340-2e39-4d50-a556-8562e6f0fc36?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>3d</td>
+<td>4d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Hardware Test Engineering Intern/Co-op - Mechanical Engineering</td>
 <td>Dallas, TX</td>
 <td><div align="center"><a href="https://jobs.lever.co/shieldai/6f76c494-b48b-46ae-8a5e-a9b042809cdd/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/ac8a153d-43c1-4fee-bba3-3c728486ce6f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>3d</td>
+<td>4d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Shield-AI?utm_source=GHList&utm_medium=company">Shield AI</a></strong></td>
+<td>↳</td>
 <td>Hardware Test Engineering Intern/Co-op - Electrical Engineering</td>
 <td>Dallas, TX</td>
 <td><div align="center"><a href="https://jobs.lever.co/shieldai/1e518847-3017-4098-9a77-f2e035509af3/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/ebaa9281-76b7-4260-8c4c-d74ad4291ffc?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
@@ -27660,7 +27653,7 @@
 <td>Embedded Software Engineering - College Intern</td>
 <td>Walnut Creek, CA</br>Cupertino, CA</br>San Diego, CA</td>
 <td><div align="center"><a href="https://jobs.jobvite.com/windriver/job/oKThxfwb?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/000d2aa7-5bbc-41c5-9622-64d2d3025af3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>13d</td>
+<td>14d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Hermeus?utm_source=GHList&utm_medium=company">Hermeus</a></strong></td>
