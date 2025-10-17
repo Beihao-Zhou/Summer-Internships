@@ -9,13 +9,13 @@
 
 ---
 
-### Browse 2554 Internship Roles by Category
+### Browse 2555 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (850)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (211)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (1054)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (1055)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (109)
 
@@ -14504,6 +14504,13 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>BAE Systems</strong></td>
+<td>Technical Intern - Data Scientist, Summer 2026 🇺🇸</td>
+<td>Westminster, CO</br>Broomfield, CO</br>Boulder, CO</td>
+<td><div align="center"><a href="https://jobs.baesystems.com/global/en/job/BAE1US116743BREXTERNAL/Technical-Intern-Data-Scientist-Summer-2026?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
 <tr>
 <td><strong>FMC Corporation</strong></td>
 <td>FMC Data Analyst Co-Op-2</td>
