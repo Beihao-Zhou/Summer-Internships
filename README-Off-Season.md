@@ -5901,7 +5901,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>7mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company">Nokia</a></strong></td>
 <td>IP R&D Lab Technologist Co-op/Intern</td>
 <td>Canada</td>
 <td>Spring 2025</td>
