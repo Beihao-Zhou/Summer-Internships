@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 2555 Internship Roles by Category
+### Browse 2554 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (843)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (842)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (209)
 
@@ -846,13 +846,6 @@
 <td>8d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Anyscale?utm_source=GHList&utm_medium=company">Anyscale</a></strong></td>
-<td>Software Engineer – Intern</td>
-<td>Palo Alto, CA</br>SF</td>
-<td><div align="center"><a href="https://jobs.ashbyhq.com/anyscale/5dbc4672-2943-4b9e-91be-4217a6f81ad2/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/e942f902-b832-4c23-8fd9-e24c97440166?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>8d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/GM-Financial?utm_source=GHList&utm_medium=company">GM financial</a></strong></td>
 <td>Intern – Software Development Engineer</td>
 <td>Arlington, TX</td>
@@ -899,7 +892,7 @@
 <td>Software Application Development Engineer Intern - Software Application Engineering</td>
 <td>Pleasanton, CA</td>
 <td><div align="center"><a href="https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Application-Development-Engineer-Intern_JR-0100548?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/9972b31b-3dfb-4118-b2a6-ae1b6d874ff9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>8d</td>
+<td>9d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Chess?utm_source=GHList&utm_medium=company">Chess</a></strong></td>
@@ -5995,7 +5988,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (923)</summary>
+<summary>🗃️ Inactive roles (924)</summary>
 
 <table>
 <thead>
@@ -6036,6 +6029,27 @@
 <td>🔒</td>
 <td>4d</td>
 </tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Northrop-Grumman?utm_source=GHList&utm_medium=company">Northrop Grumman</a></strong></td>
+<td>Cyber Software Engineering Intern - Strategic Deterrent Systems Division</td>
+<td>Huntsville, AL</td>
+<td>🔒</td>
+<td>4d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Hearst?utm_source=GHList&utm_medium=company">Hearst</a></strong></td>
+<td>Digital Design/Development Intern - Summer 2026</td>
+<td>SF</td>
+<td>🔒</td>
+<td>5d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Radiance-Technologies?utm_source=GHList&utm_medium=company">Radiance Technologies</a></strong></td>
+<td>Software Engineer Intern - Multiple Teams</td>
+<td>Beavercreek, OH</td>
+<td>🔒</td>
+<td>5d</td>
+</tr>
 </tbody>
 </table>
 
@@ -6062,27 +6076,6 @@
 </thead>
 <tbody>
 
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Northrop-Grumman?utm_source=GHList&utm_medium=company">Northrop Grumman</a></strong></td>
-<td>Cyber Software Engineering Intern - Strategic Deterrent Systems Division</td>
-<td>Huntsville, AL</td>
-<td>🔒</td>
-<td>4d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Hearst?utm_source=GHList&utm_medium=company">Hearst</a></strong></td>
-<td>Digital Design/Development Intern - Summer 2026</td>
-<td>SF</td>
-<td>🔒</td>
-<td>5d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Radiance-Technologies?utm_source=GHList&utm_medium=company">Radiance Technologies</a></strong></td>
-<td>Software Engineer Intern - Multiple Teams</td>
-<td>Beavercreek, OH</td>
-<td>🔒</td>
-<td>5d</td>
-</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Wells-Fargo?utm_source=GHList&utm_medium=company">Wells Fargo</a></strong></td>
 <td>Technology Intern - Software Engineering</td>
@@ -6115,6 +6108,13 @@
 <td><strong><a href="https://simplify.jobs/c/General-Dynamics-Mission-Systems?utm_source=GHList&utm_medium=company">General Dynamics Mission Systems</a></strong></td>
 <td>Software Intern Engineer</td>
 <td>Dedham, MA</td>
+<td>🔒</td>
+<td>8d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Anyscale?utm_source=GHList&utm_medium=company">Anyscale</a></strong></td>
+<td>Software Engineer – Intern</td>
+<td>Palo Alto, CA</br>SF</td>
 <td>🔒</td>
 <td>8d</td>
 </tr>
@@ -15279,7 +15279,7 @@
 <td>Intern - Data Science</td>
 <td>Reston, VA</td>
 <td><div align="center"><a href="https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2026-Summer-Intern--Data-Science_R2502884?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/5ecafe78-7b25-44df-bdc2-23389f6d8c74?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>4d</td>
+<td>5d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Zebra-Technologies?utm_source=GHList&utm_medium=company">Zebra Technologies</a></strong></td>
