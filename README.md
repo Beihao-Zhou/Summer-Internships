@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 2586 Internship Roles by Category
+### Browse 2585 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (858)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (857)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (211)
 
@@ -479,13 +479,6 @@
 <td>Software Quality Engineer Intern</td>
 <td>McLean, VA</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/appian/jobs/7201615?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>4d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Mercury?utm_source=GHList&utm_medium=company">Mercury</a></strong></td>
-<td>Frontend Engineering Intern</td>
-<td><details><summary><strong>5 locations</strong></summary>San Francisco, CA</br>New York, NY</br>Portland, OR</br>Remote in US</br>Remote in Canada</details></td>
-<td><div align="center"><a href="https://job-boards.greenhouse.io/mercury/jobs/5669256004?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
 <td>4d</td>
 </tr>
 <tr>
@@ -2964,7 +2957,7 @@
 <td>SIS/EDS Technology Intern</td>
 <td>Boise, ID</td>
 <td><div align="center"><a href="https://equifax.wd5.myworkdayjobs.com/external/job/USA-ID-Boise/SIS-EDS-Technology-Intern_J00170940?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/7e9f4484-cb7a-4a9d-9b75-3855ce275601?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>29d</td>
+<td>30d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Kinaxis?utm_source=GHList&utm_medium=company">Kinaxis</a></strong></td>
@@ -5983,6 +5976,20 @@
 <td><div align="center"><a href="https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Des-Moines/Application-Development-Intern---Summer-2026_JR114945?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/b7a73e13-64dc-485d-b5b6-e0147339ed11?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>1mo</td>
 </tr>
+<tr>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Adobe?utm_source=GHList&utm_medium=company">Adobe</a></strong></td>
+<td>AI/ML Intern - Machine Learning Engineer 🎓</td>
+<td><details><summary><strong>7 locations</strong></summary>San Jose, CA</br>San Francisco, CA</br>Waltham, MA</br>Austin, TX</br>Lehi, UT</br>Seattle, WA</br>New York, NY</details></td>
+<td><div align="center"><a href="https://careers.adobe.com/us/en/job/R158493/2026-AI-ML-Intern-Machine-Learning-Engineer?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Software Engineer Intern</td>
+<td><details><summary><strong>6 locations</strong></summary>San Jose, CA</br>San Francisco, CA</br>Austin, TX</br>Lehi, UT</br>Seattle, WA</br>New York, NY</details></td>
+<td><div align="center"><a href="https://careers.adobe.com/us/en/job/R158531/2026-Intern-Software-Engineer?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
 </tbody>
 </table>
 
@@ -6009,20 +6016,6 @@
 </thead>
 <tbody>
 
-<tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Adobe?utm_source=GHList&utm_medium=company">Adobe</a></strong></td>
-<td>AI/ML Intern - Machine Learning Engineer 🎓</td>
-<td><details><summary><strong>7 locations</strong></summary>San Jose, CA</br>San Francisco, CA</br>Waltham, MA</br>Austin, TX</br>Lehi, UT</br>Seattle, WA</br>New York, NY</details></td>
-<td><div align="center"><a href="https://careers.adobe.com/us/en/job/R158493/2026-AI-ML-Intern-Machine-Learning-Engineer?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Software Engineer Intern</td>
-<td><details><summary><strong>6 locations</strong></summary>San Jose, CA</br>San Francisco, CA</br>Austin, TX</br>Lehi, UT</br>Seattle, WA</br>New York, NY</details></td>
-<td><div align="center"><a href="https://careers.adobe.com/us/en/job/R158531/2026-Intern-Software-Engineer?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
 <tr>
 <td><strong>Empirical</strong></td>
 <td>Software Engineering Intern</td>
@@ -6126,7 +6119,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (909)</summary>
+<summary>🗃️ Inactive roles (910)</summary>
 
 <table>
 <thead>
@@ -6149,6 +6142,13 @@
 <tr>
 <td>↳</td>
 <td>Backend Engineering Intern</td>
+<td><details><summary><strong>5 locations</strong></summary>San Francisco, CA</br>New York, NY</br>Portland, OR</br>Remote in US</br>Remote in Canada</details></td>
+<td>🔒</td>
+<td>4d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Frontend Engineering Intern</td>
 <td><details><summary><strong>5 locations</strong></summary>San Francisco, CA</br>New York, NY</br>Portland, OR</br>Remote in US</br>Remote in Canada</details></td>
 <td>🔒</td>
 <td>4d</td>
