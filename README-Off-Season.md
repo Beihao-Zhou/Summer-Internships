@@ -1442,7 +1442,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Reston, VA</td>
 <td>Spring 2026, Fall 2026</td>
 <td>🔒</td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td>↳</td>
@@ -1450,7 +1450,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Reston, VA</td>
 <td>Spring 2027, Fall 2027</td>
 <td>🔒</td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Trend-Micro?utm_source=GHList&utm_medium=company">Trend Micro</a></strong></td>
@@ -1493,12 +1493,12 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>23d</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/L3Harris-Technologies?utm_source=GHList&utm_medium=company">L3Harris Technologies</a></strong></td>
 <td>Network Control Intern - Multiple Teams</td>
 <td>Melbourne, FL</td>
 <td>Winter 2025</td>
 <td>🔒</td>
-<td>23d</td>
+<td>24d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Banner-Health?utm_source=GHList&utm_medium=company">Banner Health</a></strong></td>
@@ -1506,7 +1506,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Arizona</td>
 <td>Winter 2025</td>
 <td>🔒</td>
-<td>23d</td>
+<td>24d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/cde8bc8e-492d-4608-8b82-54dd245a3db0?utm_source=GHList&utm_medium=company">Western National Insurance</a></strong></td>
@@ -6787,7 +6787,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Remote in USA</td>
 <td>Winter 2025</td>
 <td><div align="center"><a href="https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Data-Scientist-Intern_R-00168867?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/94eae657-e74e-4a21-ba5e-1602b7e8c2dc?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>2d</td>
+<td>3d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/PTC?utm_source=GHList&utm_medium=company">PTC</a></strong></td>
@@ -6795,7 +6795,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Boston, MA</td>
 <td>Winter 2025</td>
 <td><div align="center"><a href="https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Onshape-Software-Development-AI--Intern_JR110956?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/6fcf7be0-2e34-490a-8089-b791d2c76420?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>2d</td>
+<td>3d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Valmont?utm_source=GHList&utm_medium=company">Valmont</a></strong></td>
@@ -7035,7 +7035,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>San Diego, CA</td>
 <td>Winter 2025</td>
 <td><div align="center"><a href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA806-8650-Balboa-Avenue-San-Diego-8650-Balboa-Avenue-San-Antonio-Building-San-Diego-CA-92123-USA/Systems-Engineering-Intern--Summer-2026---Onsite-_01792276?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/cf6d9fa3-1bc5-4447-8bc9-eb54d9a6b0a4?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>5d</td>
+<td>6d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Centific?utm_source=GHList&utm_medium=company">Centific</a></strong></td>
@@ -8294,7 +8294,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Redmond, WA</td>
 <td>Winter 2025</td>
 <td>🔒</td>
-<td>2d</td>
+<td>3d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Red-Bull?utm_source=GHList&utm_medium=company">Red Bull</a></strong></td>
