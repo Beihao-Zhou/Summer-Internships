@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 2330 Internship Roles by Category
+### Browse 2329 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (769)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (768)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (189)
 
@@ -269,13 +269,6 @@
 <td>Software Development Intern</td>
 <td>Troy, MI</td>
 <td><div align="center"><a href="https://aptiv.wd5.myworkdayjobs.com/en-US/APTIV_CAREERS/job/Troy-MI---USA/Software-Development-Intern_J000687918?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>4d</td>
-</tr>
-<tr>
-<td><strong>GuideStone</strong></td>
-<td>Summer Intern - Software Development 🇺🇸</td>
-<td>Dallas, TX</td>
-<td><div align="center"><a href="https://guidestone.wd1.myworkdayjobs.com/en-US/guidestone/job/Dallas-TX/Summer-Intern---Software-Development_R1854?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
 <td>4d</td>
 </tr>
 <tr>
@@ -6897,6 +6890,20 @@
 <td>🔒</td>
 <td>29d</td>
 </tr>
+<tr>
+<td>↳</td>
+<td>Detection and Response Intern - Multiple Teams</td>
+<td>Bellevue, WA</td>
+<td>🔒</td>
+<td>29d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/NextEra-Energy?utm_source=GHList&utm_medium=company">NextEra Energy</a></strong></td>
+<td>IT Nuclear Cybersecurity Analyst – College Intern</td>
+<td>Jensen Beach, FL</td>
+<td>🔒</td>
+<td>29d</td>
+</tr>
 </tbody>
 </table>
 
@@ -6923,20 +6930,6 @@
 </thead>
 <tbody>
 
-<tr>
-<td>↳</td>
-<td>Detection and Response Intern - Multiple Teams</td>
-<td>Bellevue, WA</td>
-<td>🔒</td>
-<td>29d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/NextEra-Energy?utm_source=GHList&utm_medium=company">NextEra Energy</a></strong></td>
-<td>IT Nuclear Cybersecurity Analyst – College Intern</td>
-<td>Jensen Beach, FL</td>
-<td>🔒</td>
-<td>29d</td>
-</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Xcel-Energy?utm_source=GHList&utm_medium=company">Xcel Energy</a></strong></td>
 <td>IT Architect Intern</td>
