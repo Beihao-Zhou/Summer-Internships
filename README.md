@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 2355 Internship Roles by Category
+### Browse 2354 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (764)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (763)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (193)
 
@@ -451,13 +451,6 @@
 <td>Software Development Engineering Intern - June 2026 - London</td>
 <td>London, UK</td>
 <td><div align="center"><a href="https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Software-Development-Engineering-Intern---June-2026---London_R-98445-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/4a1a17a0-17b1-4b68-b162-73a8b3eaadb0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>6d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
-<td>Software Engineer Co-Op - Spring/Summer 2026 - Onsite</td>
-<td>Cedar Rapids, IA</td>
-<td><div align="center"><a href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Software-Engineer-Co-Op--Spring-Summer-2026--Onsite-_01789471?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/4cf56669-5761-4497-ad7a-8d692ba67faa?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>6d</td>
 </tr>
 <tr>
@@ -1452,7 +1445,7 @@
 <td>UConn Stamford Digital Technology Center Intern – Summer 2026 🛂</td>
 <td>Stamford, CT, USA</td>
 <td><div align="center"><a href="https://www.synchronycareers.com/job-detail/22491940/uconn-stamford-digital-technology-center-intern-summer-2026-remote/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>16d</td>
+<td>17d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Electronic-Arts?utm_source=GHList&utm_medium=company">Electronic Arts</a></strong></td>
@@ -6974,6 +6967,27 @@
 <td>🔒</td>
 <td>1mo</td>
 </tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/CAI-Io?utm_source=GHList&utm_medium=company">CAI</a></strong></td>
+<td>Cybersecurity Intern</td>
+<td>Remote in USA</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Kinaxis?utm_source=GHList&utm_medium=company">Kinaxis</a></strong></td>
+<td>Co-op/Intern Associate Software Developer</td>
+<td>Ottawa, ON, Canada</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Agropur?utm_source=GHList&utm_medium=company">Agropur</a></strong></td>
+<td>IT Plant Operations Intern</td>
+<td>Twin Falls, ID</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
 </tbody>
 </table>
 
@@ -7000,27 +7014,6 @@
 </thead>
 <tbody>
 
-<tr>
-<td><strong><a href="https://simplify.jobs/c/CAI-Io?utm_source=GHList&utm_medium=company">CAI</a></strong></td>
-<td>Cybersecurity Intern</td>
-<td>Remote in USA</td>
-<td>🔒</td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Kinaxis?utm_source=GHList&utm_medium=company">Kinaxis</a></strong></td>
-<td>Co-op/Intern Associate Software Developer</td>
-<td>Ottawa, ON, Canada</td>
-<td>🔒</td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Agropur?utm_source=GHList&utm_medium=company">Agropur</a></strong></td>
-<td>IT Plant Operations Intern</td>
-<td>Twin Falls, ID</td>
-<td>🔒</td>
-<td>1mo</td>
-</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Sierra-Nevada-Coporation?utm_source=GHList&utm_medium=company">Sierra Nevada Coporation</a></strong></td>
 <td>Cybersecurity Compliance Analyst Intern - Summer 2026</td>
@@ -17701,7 +17694,7 @@
 <td>Applied Machine Learning Scientist Intern - PhD 🎓</td>
 <td>Santa Clara, CA</td>
 <td><div align="center"><a href="https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/Applied-Machine-Learning-Scientist-Intern---PhD_2502662?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/61e3734b-7ee5-4569-a6d9-7a7c0ee36478?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>21d</td>
+<td>22d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Fox?utm_source=GHList&utm_medium=company">FOX</a></strong></td>
@@ -18240,7 +18233,7 @@
 <td>AI/ML Intern - Advanced Technology Organization</td>
 <td>Bellevue, WA</td>
 <td><div align="center"><a href="https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue-WA-US/AI-ML-Intern---Advanced-Technology-Organization---Summer-2026_R5017163-3?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/77c19382-564b-40e4-b389-814325b6ec0c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>27d</td>
+<td>28d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/State-Street?utm_source=GHList&utm_medium=company">State Street</a></strong></td>
@@ -28535,7 +28528,7 @@
 <td>Project Application Engineer Intern - Multiple Teams</td>
 <td>Houston, TX</td>
 <td><div align="center"><a href="https://flowserve.wd1.myworkdayjobs.com/applied/job/Houston-Texas-US/Project-Application-Engineer-Co-op-Intern_R-16431?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/3de27213-5c3d-4995-8260-d34d37fcc9dd?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>13d</td>
+<td>14d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Marvell?utm_source=GHList&utm_medium=company">Marvell</a></strong></td>
