@@ -14680,8 +14680,8 @@
 </thead>
 <tbody>
 <tr>
-<td><strong>BillionToOn</strong></td>
-<td>Oncology AI Associate Intern 🎓</td>
+<td><strong>BillionToOne</strong></td>
+<td>Oncology AI Associate Intern</td>
 <td>Menlo Park, CA</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/billiontoone/jobs/4621147005?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
 <td>0d</td>
