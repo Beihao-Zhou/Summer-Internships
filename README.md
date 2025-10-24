@@ -5155,7 +5155,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (1023)</summary>
+<summary>🗃️ Inactive roles (1022)</summary>
 
 <table>
 <thead>
@@ -10264,13 +10264,6 @@
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/QTS?utm_source=GHList&utm_medium=company">QTS</a></strong></td>
-<td>IT Asset Management 🇺🇸</td>
-<td>Suwanee, GA</td>
-<td>🔒</td>
-<td>2mo</td>
-</tr>
-<tr>
-<td>↳</td>
 <td>Enterprise Applications Intern 🇺🇸</td>
 <td>Suwanee, GA</td>
 <td>🔒</td>
