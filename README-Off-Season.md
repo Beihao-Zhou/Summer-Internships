@@ -1370,7 +1370,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Essex, MD</td>
 <td>Spring 2026</td>
 <td>🔒</td>
-<td>27d</td>
+<td>28d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Trend-Micro?utm_source=GHList&utm_medium=company">Trend Micro</a></strong></td>
