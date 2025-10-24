@@ -22290,7 +22290,7 @@
 <td>Data Engineering Intern - Imaging Spectroscopy Department</td>
 <td>El Segundo, CA</td>
 <td>🔒</td>
-<td>23d</td>
+<td>24d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Cotiviti?utm_source=GHList&utm_medium=company">Cotiviti</a></strong></td>
