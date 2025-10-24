@@ -9,13 +9,13 @@
 
 ---
 
-### Browse 2356 Internship Roles by Category
+### Browse 2359 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (762)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (763)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (188)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (1003)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (1005)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (101)
 
@@ -1669,6 +1669,13 @@
 <td>Software Developer - Summer Internship 2026</td>
 <td>Elk Grove Village, IL</td>
 <td><div align="center"><a href="https://apply.workable.com/al-warren-oil-company-inc/j/AB15F1EA30/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/3991bf35-8b78-46b5-9f47-30d20332a7b9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>21d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/ICEMarkets?utm_source=GHList&utm_medium=company">Intercontinental Exchange</a></strong></td>
+<td>Release Engineering Intern - Systems Analyst</td>
+<td>Atlanta, GA</td>
+<td><div align="center"><a href="https://careers-ice.icims.com/jobs/11597/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/18db177d-02ce-49d3-aa5a-e63e1a1dda91?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>21d</td>
 </tr>
 <tr>
@@ -5428,7 +5435,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (1024)</summary>
+<summary>🗃️ Inactive roles (1023)</summary>
 
 <table>
 <thead>
@@ -5907,13 +5914,6 @@
 <td><strong><a href="https://simplify.jobs/c/Northrop-Grumman?utm_source=GHList&utm_medium=company">Northrop Grumman</a></strong></td>
 <td>Intern - Industrial Security</td>
 <td>Hill AFB, UT</br>Hackleburg, AL</br>Beavercreek, OH</td>
-<td>🔒</td>
-<td>21d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/ICEMarkets?utm_source=GHList&utm_medium=company">Intercontinental Exchange</a></strong></td>
-<td>Release Engineering Intern - Systems Analyst</td>
-<td>Atlanta, GA</td>
 <td>🔒</td>
 <td>21d</td>
 </tr>
@@ -7002,20 +7002,6 @@
 <td>🔒</td>
 <td>1mo</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Agropur?utm_source=GHList&utm_medium=company">Agropur</a></strong></td>
-<td>IT Plant Operations Intern</td>
-<td>Twin Falls, ID</td>
-<td>🔒</td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Sierra-Nevada-Coporation?utm_source=GHList&utm_medium=company">Sierra Nevada Coporation</a></strong></td>
-<td>Cybersecurity Compliance Analyst Intern - Summer 2026</td>
-<td>Sparks, NV</td>
-<td>🔒</td>
-<td>1mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -7042,6 +7028,20 @@
 </thead>
 <tbody>
 
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Agropur?utm_source=GHList&utm_medium=company">Agropur</a></strong></td>
+<td>IT Plant Operations Intern</td>
+<td>Twin Falls, ID</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Sierra-Nevada-Coporation?utm_source=GHList&utm_medium=company">Sierra Nevada Coporation</a></strong></td>
+<td>Cybersecurity Compliance Analyst Intern - Summer 2026</td>
+<td>Sparks, NV</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
 <tr>
 <td>↳</td>
 <td>IT Service Desk Intern - Summer 2026</td>
@@ -17641,6 +17641,13 @@
 <td>21d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/ICEMarkets?utm_source=GHList&utm_medium=company">Intercontinental Exchange</a></strong></td>
+<td>Data Science Analyst Intern - Data Science - Internship Program</td>
+<td>NYC</td>
+<td><div align="center"><a href="https://careers-ice.icims.com/jobs/11629/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/d2257f54-0b84-40a8-a1d9-8a3d32c6f7c6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>21d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/AccuWeather?utm_source=GHList&utm_medium=company">AccuWeather</a></strong></td>
 <td>Data Analyst - Forecast Performance & Competitive Insights</td>
 <td>State College, PA</td>
@@ -17981,6 +17988,13 @@
 <td>Emerging Technology Governance, Co-Op</td>
 <td>Boston, MA</br>Quincy, MA</td>
 <td><div align="center"><a href="https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/BOSTON/Emerging-Technology-Governance--Co-Op_R-778255?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/041d36c0-2c3e-4d96-90e8-6294c72a980a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>24d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/ICEMarkets?utm_source=GHList&utm_medium=company">Intercontinental Exchange</a></strong></td>
+<td>Weather Data Analyst Intern - Multiple Teams</td>
+<td>Atlanta, GA</td>
+<td><div align="center"><a href="https://careers-ice.icims.com/jobs/11588/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/bc4eaca1-d7bb-46f8-a195-59f2f4955803?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>24d</td>
 </tr>
 <tr>
@@ -21796,7 +21810,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (657)</summary>
+<summary>🗃️ Inactive roles (655)</summary>
 
 <table>
 <thead>
@@ -22167,13 +22181,6 @@
 <td>21d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/ICEMarkets?utm_source=GHList&utm_medium=company">Intercontinental Exchange</a></strong></td>
-<td>Data Science Analyst Intern - Data Science - Internship Program</td>
-<td>NYC</td>
-<td>🔒</td>
-<td>21d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Nissan-Global?utm_source=GHList&utm_medium=company">Nissan Global</a></strong></td>
 <td>Data Scientist Intern - Multiple Teams</td>
 <td>Southfield, MI</td>
@@ -22394,13 +22401,6 @@
 <td><strong><a href="https://simplify.jobs/c/Cotiviti?utm_source=GHList&utm_medium=company">Cotiviti</a></strong></td>
 <td>Intern – Agentic AI Research</td>
 <td>Remote in USA</td>
-<td>🔒</td>
-<td>24d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/ICEMarkets?utm_source=GHList&utm_medium=company">Intercontinental Exchange</a></strong></td>
-<td>Weather Data Analyst Intern - Multiple Teams</td>
-<td>Atlanta, GA</td>
 <td>🔒</td>
 <td>24d</td>
 </tr>
