@@ -9,11 +9,11 @@
 
 ---
 
-### Browse 2312 Internship Roles by Category
+### Browse 2311 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (722)
 
-📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (186)
+📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (185)
 
 🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (1002)
 
@@ -759,7 +759,7 @@
 <td>Intern, IT Warehouse & Distribution Automation 🇺🇸</td>
 <td>Remote in CA</td>
 <td><div align="center"><a href="https://join.sephora.com/careers/job/790312348148?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>10d</td>
+<td>11d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Johnson-Johnson?utm_source=GHList&utm_medium=company">Johnson & Johnson</a></strong></td>
@@ -1823,7 +1823,7 @@
 <td>Full Stack Software Development Intern - Multiple Teams</td>
 <td>Irving, TX</td>
 <td><div align="center"><a href="https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Full-Stack-Software-Development-Summer-2026-Internship_R-1086181?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/072ca4bf-f3e5-4a5c-9d80-728e5db399af?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>23d</td>
+<td>24d</td>
 </tr>
 <tr>
 <td>🔥 <strong>Slack</strong></td>
@@ -13074,13 +13074,6 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Emerson-Electric?utm_source=GHList&utm_medium=company">Emerson Electric</a></strong></td>
-<td>Product Manager Co-Op</td>
-<td>Iowa</td>
-<td><div align="center"><a href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/25026126?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/b57e4d63-d146-47ec-8589-0e1432340903?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/SharkNinja?utm_source=GHList&utm_medium=company">SharkNinja</a></strong></td>
 <td>Product Development Intern - Shark</td>
 <td>Needham, MA</td>
@@ -15713,7 +15706,7 @@
 <td>Data Scientist Intern 🛂</td>
 <td>Thief River Falls, MN</td>
 <td><div align="center"><a href="https://digikey.wd5.myworkdayjobs.com/en-US/digi-key/job/Thief-River-Falls-MN/Data-Scientist-Intern_R5006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>10d</td>
+<td>11d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/JP-Morgan-Chase?utm_source=GHList&utm_medium=company">JP Morgan Chase</a></strong></td>
@@ -22178,7 +22171,7 @@
 <td>Machine Learning Intern</td>
 <td>Oshkosh, WI</td>
 <td>🔒</td>
-<td>27d</td>
+<td>28d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/07d9f7f0-9f1a-4ecb-9346-f3ac39d905f2?utm_source=GHList&utm_medium=company">MKS Instruments</a></strong></td>
