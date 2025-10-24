@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 2355 Internship Roles by Category
+### Browse 2354 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (761)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (760)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (188)
 
@@ -430,13 +430,6 @@
 <td>Software Engineer Co-Op-Billing</td>
 <td>Boston, MA</td>
 <td><div align="center"><a href="https://avisbudget.wd1.myworkdayjobs.com/Zipcar_Careers/job/35-Thomson-Pl-Boston-02210/Software-Engineer-Co-Op--Billing_R0181488?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/373d0424-ad18-4096-b197-9cd060f670f4?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>7d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Northrop-Grumman?utm_source=GHList&utm_medium=company">Northrop Grumman</a></strong></td>
-<td>2026 Software Engineer Intern - Aurora CO</td>
-<td>Aurora, CO</td>
-<td><div align="center"><a href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2026-Software-Engineer-Intern---Aurora-CO_R10211425?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/a1435f39-be58-448c-a62c-2bcb4132242c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>7d</td>
 </tr>
 <tr>
@@ -7023,6 +7016,27 @@
 <td>🔒</td>
 <td>1mo</td>
 </tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Allstate-Insurance-Company?utm_source=GHList&utm_medium=company">Allstate Insurance Company</a></strong></td>
+<td>Software Engineer Intern</td>
+<td>Illinois</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Sierra-Nevada-Coporation?utm_source=GHList&utm_medium=company">Sierra Nevada Coporation</a></strong></td>
+<td>Software Engineer Intern - Summer 2026</td>
+<td>Bend, OR</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/DP-World?utm_source=GHList&utm_medium=company">DP World</a></strong></td>
+<td>Network Engineering Intern</td>
+<td>Charlotte, NC</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
 </tbody>
 </table>
 
@@ -7049,27 +7063,6 @@
 </thead>
 <tbody>
 
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Allstate-Insurance-Company?utm_source=GHList&utm_medium=company">Allstate Insurance Company</a></strong></td>
-<td>Software Engineer Intern</td>
-<td>Illinois</td>
-<td>🔒</td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Sierra-Nevada-Coporation?utm_source=GHList&utm_medium=company">Sierra Nevada Coporation</a></strong></td>
-<td>Software Engineer Intern - Summer 2026</td>
-<td>Bend, OR</td>
-<td>🔒</td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/DP-World?utm_source=GHList&utm_medium=company">DP World</a></strong></td>
-<td>Network Engineering Intern</td>
-<td>Charlotte, NC</td>
-<td>🔒</td>
-<td>1mo</td>
-</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Timmons-Group?utm_source=GHList&utm_medium=company">Timmons Group</a></strong></td>
 <td>Software Development Internship</td>
