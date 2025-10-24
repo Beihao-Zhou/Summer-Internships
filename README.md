@@ -9,13 +9,13 @@
 
 ---
 
-### Browse 2360 Internship Roles by Category
+### Browse 2361 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (766)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (189)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (1000)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (1001)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (101)
 
@@ -14786,6 +14786,13 @@
 <tbody>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Cook-Group?utm_source=GHList&utm_medium=company">Cook Group</a></strong></td>
+<td>Information Technology Intern, Artificial Intelligence</td>
+<td>Bloomington, IN</td>
+<td><div align="center"><a href="https://americas-cookmedical.icims.com/jobs/17500/information-technology-intern%2c-artificial-intelligence/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>↳</td>
 <td>Intern, Artificial Intelligence & Innovation</td>
 <td>Bloomington, IN</td>
 <td><div align="center"><a href="https://americas-cookmedical.icims.com/jobs/17536/intern%2c-artificial-intelligence-%26-innovation/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
@@ -15009,11 +15016,11 @@
 <td>1d</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Seagate-Technology?utm_source=GHList&utm_medium=company">Seagate Technology </a></strong></td>
 <td>Wafer Photo Process Engineering Internship - Summer 2026</td>
 <td>Bloomington, MN</td>
 <td><div align="center"><a href="https://seagatecareers.com/job/Bloomington-Wafer-Photo-Process-Engineering-Internship-Summer-2026-MN/1336336400/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/0556f4b3-6228-45fe-90f0-0e1a5a13f4ab?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1d</td>
+<td>2d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/714ab061-79c2-47bf-ac63-81a1ca90aca7?utm_source=GHList&utm_medium=company">Catalent</a></strong></td>
@@ -25027,10 +25034,10 @@
 <td>Financial Crimes Unit Data & Analytics Tech Intern</td>
 <td>Norridge, IL</br>New York, NY</td>
 <td>🔒</td>
-<td>1mo</td>
+<td>2mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/PwC?utm_source=GHList&utm_medium=company">PricewaterhouseCoopers (PwC)</a></strong></td>
+<td>↳</td>
 <td>Deals – Technology and Data Solutions Intern</td>
 <td><details><summary><strong>4 locations</strong></summary>Washington, DC</br>SF</br>Norridge, IL</br>NYC</details></td>
 <td>🔒</td>
