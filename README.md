@@ -9,7 +9,7 @@
 
 ---
 
-### Browse 2356 Internship Roles by Category
+### Browse 2357 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (765)
 
@@ -19,7 +19,7 @@
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (101)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (303)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (304)
 
 ---
 
@@ -28306,6 +28306,13 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Aptiv?utm_source=GHList&utm_medium=company">Aptiv</a></strong></td>
+<td>Embedded Software Intern</td>
+<td>Indiana Technical Center, USA</td>
+<td><div align="center"><a href="https://aptiv.wd5.myworkdayjobs.com/en-US/APTIV_CAREERS/job/USA-Indiana-Technical-Center/Embedded-Software-Intern_J000685573?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
 <tr>
 <td><strong>Rivos</strong></td>
 <td>Platform Security Software Intern 🎓</td>
