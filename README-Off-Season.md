@@ -10,9 +10,9 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 474 Internship Roles by Category
+### Browse 473 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (139)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (138)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-product-management-internship-roles)** (29)
 
@@ -479,14 +479,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Charlotte, NC</td>
 <td>Spring 2026</td>
 <td><div align="center"><a href="https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---NC-Charlotte/Engineering-Co-Op-Spring-2026_R173460-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/c81c610e-d271-47d9-afbd-5102944de55e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>14d</td>
-</tr>
-<tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Uber?utm_source=GHList&utm_medium=company">Uber</a></strong></td>
-<td>Software Engineer Intern - Programming Systems Group 🎓</td>
-<td>NYC</br>Sunnyvale, CA</td>
-<td>Winter 2026</td>
-<td><div align="center"><a href="https://www.uber.com/global/en/careers/list/149604/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/e81c0d78-0b28-4612-a1cb-abaa6019699f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>14d</td>
 </tr>
 <tr>
@@ -7787,7 +7779,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Santa Clara, CA</td>
 <td>Winter 2026, Spring 2026</td>
 <td><div align="center"><a href="https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Santa-Clara-California-United-States/Agentic-AI-Intern_R0106425?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/ac2ee5fa-4229-41bb-af2b-d0eb9cd60811?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>30d</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Blackhawk-Network-Holdings?utm_source=GHList&utm_medium=company">Blackhawk Network Holdings</a></strong></td>
@@ -11592,6 +11584,30 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>🔒</td>
 <td>3mo</td>
 </tr>
+<tr>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Netflix?utm_source=GHList&utm_medium=company">Netflix</a></strong></td>
+<td>Machine Learning Intern 🎓</td>
+<td>LA</br>Los Gatos, CA</td>
+<td>Fall 2025</td>
+<td>🔒</td>
+<td>3mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Genesis-Thera?utm_source=GHList&utm_medium=company">Genesis Therapeutics</a></strong></td>
+<td>ML Research Intern - BS/MS</td>
+<td>Burlingame, CA</td>
+<td>Fall 2025</td>
+<td>🔒</td>
+<td>3mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Sutter-Health?utm_source=GHList&utm_medium=company">Sutter Health</a></strong></td>
+<td>Data Analytics & AI Intern</td>
+<td>Sacramento, CA</td>
+<td>Fall 2025</td>
+<td>🔒</td>
+<td>3mo</td>
+</tr>
 </tbody>
 </table>
 
@@ -11618,30 +11634,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </thead>
 <tbody>
 
-<tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Netflix?utm_source=GHList&utm_medium=company">Netflix</a></strong></td>
-<td>Machine Learning Intern 🎓</td>
-<td>LA</br>Los Gatos, CA</td>
-<td>Fall 2025</td>
-<td>🔒</td>
-<td>3mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Genesis-Thera?utm_source=GHList&utm_medium=company">Genesis Therapeutics</a></strong></td>
-<td>ML Research Intern - BS/MS</td>
-<td>Burlingame, CA</td>
-<td>Fall 2025</td>
-<td>🔒</td>
-<td>3mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Sutter-Health?utm_source=GHList&utm_medium=company">Sutter Health</a></strong></td>
-<td>Data Analytics & AI Intern</td>
-<td>Sacramento, CA</td>
-<td>Fall 2025</td>
-<td>🔒</td>
-<td>3mo</td>
-</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Hearst?utm_source=GHList&utm_medium=company">Hearst</a></strong></td>
 <td>Intern – Governance - Risk & Compliance</td>

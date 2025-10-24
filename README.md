@@ -13127,7 +13127,7 @@
 <td>Intern - Product Management</td>
 <td>Lowell, MA</td>
 <td><div align="center"><a href="https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Chelmsford-Massachusetts-United-States/Intern--Product-Management_R25-7776-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/ec5b99e7-6ace-49cc-99c5-11829c6ca953?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Disney?utm_source=GHList&utm_medium=company">The Walt Disney Company</a></strong></td>
@@ -28857,7 +28857,7 @@
 <td>Intern - Test Engineering - Multiple Teams</td>
 <td>Lowell, MA</td>
 <td><div align="center"><a href="https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/United-States-of-America-Chelmsford/Intern--Test-Engineering---Chelmsford_R25-8009-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/844e9e8d-72b2-4082-9c71-0798ec7cb875?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/SpaceX?utm_source=GHList&utm_medium=company">SpaceX</a></strong></td>
