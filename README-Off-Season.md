@@ -3957,7 +3957,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>3mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/043a00ac-6fd9-4afc-991a-4d845205ab9a?utm_source=GHList&utm_medium=company">Bank of America</a></strong></td>
 <td>Global Technology Apprentice - Npower/Per Scholas</td>
 <td>Plano, TX</br>Richmond, VA</br>Lawrence Township, NJ</td>
 <td>Fall 2025</td>
@@ -3965,7 +3965,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>3mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/043a00ac-6fd9-4afc-991a-4d845205ab9a?utm_source=GHList&utm_medium=company">Bank of America</a></strong></td>
+<td>↳</td>
 <td>Global Technology Apprentice - Npower/Per Scholas</td>
 <td>NYC</td>
 <td>Fall 2025</td>
@@ -12228,7 +12228,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>2mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Ontario-Teachers-Pension-Plan?utm_source=GHList&utm_medium=company">Ontario Teachers' Pension Plan</a></strong></td>
+<td>↳</td>
 <td>Intern – Capital Markets - Quantitative Strategies and Research 🎓</td>
 <td>Toronto, ON, Canada</td>
 <td>Winter 2026, Spring 2026</td>

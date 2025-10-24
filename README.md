@@ -9,11 +9,11 @@
 
 ---
 
-### Browse 2227 Internship Roles by Category
+### Browse 2226 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (717)
 
-📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (163)
+📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (162)
 
 🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (947)
 
@@ -2180,7 +2180,7 @@
 <td>Software Engineer - Application Development Intern/Co-op - Quantitative Research</td>
 <td>Boston, MA</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/bracebridgecapital/jobs/4601203005?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/d00ee066-859c-4795-83c8-cc278ae0de90?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>30d</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Pacific-Life?utm_source=GHList&utm_medium=company">Pacific Life</a></strong></td>
@@ -5495,7 +5495,7 @@
 <td>Back-End Software Engineer Intern - Intern</td>
 <td>San Jose, CA</td>
 <td>🔒</td>
-<td>20d</td>
+<td>21d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/LabCorp?utm_source=GHList&utm_medium=company">LabCorp</a></strong></td>
@@ -5649,7 +5649,7 @@
 <td>Software Engineering Intern - Project Delivery</td>
 <td>Edinburgh, UK</td>
 <td>🔒</td>
-<td>21d</td>
+<td>22d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
@@ -5698,7 +5698,7 @@
 <td>Software/Network Engineering Intern - Multiple Teams</td>
 <td>Livingston, NJ</td>
 <td>🔒</td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/GE-Vernova?utm_source=GHList&utm_medium=company">GE Vernova</a></strong></td>
@@ -6118,7 +6118,7 @@
 <td>Intern - Data Security - Data Security</td>
 <td>Toronto, ON, Canada</td>
 <td>🔒</td>
-<td>27d</td>
+<td>28d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Witness-AI?utm_source=GHList&utm_medium=company">Witness AI</a></strong></td>
@@ -12773,13 +12773,6 @@
 <td>21d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Elekta?utm_source=GHList&utm_medium=company">Elekta</a></strong></td>
-<td>Product Marketing Intern - Cancer Registry</td>
-<td>San Jose, CA</td>
-<td><div align="center"><a href="https://elekta.wd3.myworkdayjobs.com/Elekta_Careers/job/San-Jose/Product-Marketing-Intern---Cancer-Registry--San-Jose--CA-_R2025-1489?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/bf958544-82f3-441c-a297-f65ab31555d1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>21d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Electronic-Arts?utm_source=GHList&utm_medium=company">Electronic Arts</a></strong></td>
 <td>Product Management Intern - Digital Platform Product Management</td>
 <td>San Carlos, CA</td>
@@ -17428,7 +17421,7 @@
 <td>Analytics Intern - Analytics</td>
 <td>Chicago, IL</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/enova/jobs/7270714?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/f6b56db5-9676-4b4d-b404-e750d8fe8e4c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>28d</td>
+<td>29d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Berkshire-Hathaway-Energy?utm_source=GHList&utm_medium=company">Berkshire Hathaway Energy</a></strong></td>
