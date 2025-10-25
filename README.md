@@ -15370,7 +15370,7 @@
 <td>Linguistic Engineering Intern</td>
 <td>Burlingame, CA</br>Redmond, WA</td>
 <td><div align="center"><a href="https://www.metacareers.com/jobs/1508915273581306?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/4db8780d-34ee-4e27-8325-b73c123a01c6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>13d</td>
+<td>14d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Ntrepid-Corporation?utm_source=GHList&utm_medium=company">Ntrepid Corporation</a></strong></td>
@@ -24624,7 +24624,7 @@
 <td>2mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/ABB?utm_source=GHList&utm_medium=company">ABB</a></strong></td>
+<td>↳</td>
 <td>Product Data Management Intern</td>
 <td>Pointe-Claire, QC, Canada</td>
 <td>🔒</td>
