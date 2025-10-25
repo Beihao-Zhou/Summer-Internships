@@ -14593,7 +14593,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>7mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Booz-Allen?utm_source=GHList&utm_medium=company">Booz Allen</a></strong></td>
+<td>↳</td>
 <td>University – Systems Engineer Intern</td>
 <td>Fayetteville, NC</td>
 <td>Spring 2027</td>
