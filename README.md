@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 2124 Internship Roles by Category
+### Browse 2123 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (619)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (618)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (156)
 
@@ -717,20 +717,13 @@
 <td>Software Engineering Intern 2026</td>
 <td>Belfast, UK</td>
 <td><div align="center"><a href="https://jobs.lever.co/gearset/2b4f08bf-623f-4be0-a0c3-fb8e7ae2d38c/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/8587a547-da63-4138-aec5-c6716d278708?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>11d</td>
+<td>12d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Mimecast?utm_source=GHList&utm_medium=company">Mimecast</a></strong></td>
 <td>Software Engineering Intern</td>
 <td>London, UK</td>
 <td><div align="center"><a href="https://mimecast.wd5.myworkdayjobs.com/Mimecast-Careers/job/Great-Britain---London/Software-Engineering-Intern_R6020?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/984ca3e9-a9d5-42f9-9396-8e484dfb2088?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>12d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Al-Warren-Oil-Company?utm_source=GHList&utm_medium=company">Al Warren Oil Company</a></strong></td>
-<td>Software Developer - Summer Internship 2026</td>
-<td>Elk Grove Village, IL</td>
-<td><div align="center"><a href="https://apply.workable.com/al-warren-oil-company-inc/j/BE7F6BA4D3/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/16f3d6d2-4897-415f-a6b1-b89e2b2e0763?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>12d</td>
 </tr>
 <tr>
@@ -8871,6 +8864,27 @@
 <td>🔒</td>
 <td>1mo</td>
 </tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Cencora?utm_source=GHList&utm_medium=company">cencora</a></strong></td>
+<td>Software Intern</td>
+<td>Newburgh, NY</br>Columbus, OH</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Qorvo?utm_source=GHList&utm_medium=company">Qorvo</a></strong></td>
+<td>Software Engineer Intern</td>
+<td>Richardson, TX</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Dicks-Sporting-Goods?utm_source=GHList&utm_medium=company">Dick's Sporting Goods</a></strong></td>
+<td>Cybersecurity – Corporate Internship</td>
+<td>Pittsburgh, PA</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
 </tbody>
 </table>
 
@@ -8897,27 +8911,6 @@
 </thead>
 <tbody>
 
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Cencora?utm_source=GHList&utm_medium=company">cencora</a></strong></td>
-<td>Software Intern</td>
-<td>Newburgh, NY</br>Columbus, OH</td>
-<td>🔒</td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Qorvo?utm_source=GHList&utm_medium=company">Qorvo</a></strong></td>
-<td>Software Engineer Intern</td>
-<td>Richardson, TX</td>
-<td>🔒</td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Dicks-Sporting-Goods?utm_source=GHList&utm_medium=company">Dick's Sporting Goods</a></strong></td>
-<td>Cybersecurity – Corporate Internship</td>
-<td>Pittsburgh, PA</td>
-<td>🔒</td>
-<td>1mo</td>
-</tr>
 <tr>
 <td>↳</td>
 <td>Software Engineering Internship</td>
