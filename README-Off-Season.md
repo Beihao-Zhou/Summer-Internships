@@ -10,13 +10,13 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 399 Internship Roles by Category
+### Browse 398 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (118)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-product-management-internship-roles)** (22)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-data-science-ai--machine-learning-internship-roles)** (184)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-data-science-ai--machine-learning-internship-roles)** (183)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-quantitative-finance-internship-roles)** (6)
 
@@ -295,7 +295,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>United States</td>
 <td>Winter 2025</td>
 <td><div align="center"><a href="https://careers-gdms.icims.com/jobs/68561/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/dae7965d-be18-4000-b0a2-686290c66c48?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>7d</td>
+<td>8d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/PTC?utm_source=GHList&utm_medium=company">PTC</a></strong></td>
@@ -1242,7 +1242,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>NYC</td>
 <td>Spring 2026</td>
 <td>🔒</td>
-<td>21d</td>
+<td>22d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Tenstorrent?utm_source=GHList&utm_medium=company">Tenstorrent</a></strong></td>
@@ -6627,14 +6627,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Plantation, FL</td>
 <td>Winter 2026</td>
 <td><div align="center"><a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Edge-AI-Engineering-Co-op--January-2026-_R58437?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/60369513-52e2-4133-8654-e53260d7c718?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Essity?utm_source=GHList&utm_medium=company">Essity</a></strong></td>
-<td>Engineering Co-Op</td>
-<td>Hackleburg, AL</td>
-<td>Winter 2025</td>
-<td><div align="center"><a href="https://essity.wd3.myworkdayjobs.com/job_opportunities/job/Cherokee-AL/Engineering-Co-Op_Essity255142-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/95d4ce71-756d-4e34-b679-7d1946742e94?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>2d</td>
 </tr>
 <tr>
@@ -8026,7 +8018,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (511)</summary>
+<summary>🗃️ Inactive roles (512)</summary>
 
 <table>
 <thead>
@@ -8044,6 +8036,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>🔥 <strong><a href="https://simplify.jobs/c/ServiceNow?utm_source=GHList&utm_medium=company">ServiceNow</a></strong></td>
 <td>Technical Accelerator Consultant – Intern</td>
 <td>Orlando, FL</td>
+<td>Winter 2025</td>
+<td>🔒</td>
+<td>2d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Essity?utm_source=GHList&utm_medium=company">Essity</a></strong></td>
+<td>Engineering Co-Op</td>
+<td>Hackleburg, AL</td>
 <td>Winter 2025</td>
 <td>🔒</td>
 <td>2d</td>
@@ -8342,7 +8342,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Remote in Canada</td>
 <td>Fall 2025, Winter 2026</td>
 <td>🔒</td>
-<td>27d</td>
+<td>28d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/PrizePicks?utm_source=GHList&utm_medium=company"> PrizePicks</a></strong></td>
@@ -10369,7 +10369,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>2mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td>🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
 <td>Machine Learning Engineer Intern - Privacy and Data Protection Office - PhD 🎓</td>
 <td>San Jose, CA</td>
 <td>Fall 2025</td>
@@ -12475,6 +12475,22 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>🔒</td>
 <td>6mo</td>
 </tr>
+<tr>
+<td>↳</td>
+<td>Asset Management Portfolio Analytics Developer Intern/Co-op</td>
+<td>Toronto, ON, Canada</td>
+<td>Fall 2025, Winter 2025</td>
+<td>🔒</td>
+<td>6mo</td>
+</tr>
+<tr>
+<td><strong>RBC</strong></td>
+<td>2025 Fall Student Opportunities Capital Markets, QTS - Software Developer, 4-12 Months</td>
+<td>TORONTO, Ontario, Canada</td>
+<td>Fall 2025</td>
+<td>🔒</td>
+<td>6mo</td>
+</tr>
 </tbody>
 </table>
 
@@ -12501,22 +12517,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </thead>
 <tbody>
 
-<tr>
-<td>↳</td>
-<td>Asset Management Portfolio Analytics Developer Intern/Co-op</td>
-<td>Toronto, ON, Canada</td>
-<td>Fall 2025, Winter 2025</td>
-<td>🔒</td>
-<td>6mo</td>
-</tr>
-<tr>
-<td><strong>RBC</strong></td>
-<td>2025 Fall Student Opportunities Capital Markets, QTS - Software Developer, 4-12 Months</td>
-<td>TORONTO, Ontario, Canada</td>
-<td>Fall 2025</td>
-<td>🔒</td>
-<td>6mo</td>
-</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Royal-Bank-Of-Canada?utm_source=GHList&utm_medium=company">Royal Bank of Canada</a></strong></td>
 <td>Relationship Manager Commercial Markets Intern</td>
