@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 1960 Internship Roles by Category
+### Browse 1959 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (567)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (566)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (147)
 
@@ -1494,13 +1494,6 @@
 <td>Software Test Engineering Intern</td>
 <td>Calgary, AB, CAN</td>
 <td><div align="center"><a href="https://careers-hexagonpositioning.icims.com/jobs/2860/software-test-engineering-intern/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>24d</td>
-</tr>
-<tr>
-<td><strong>Hexagon AB</strong></td>
-<td>Software Engineering Intern</td>
-<td>Calgary, AB, CAN</td>
-<td><div align="center"><a href="https://careers-hexagonpositioning.icims.com/jobs/2861/software-engineering-intern/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
 <td>24d</td>
 </tr>
 <tr>
@@ -4063,7 +4056,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (1094)</summary>
+<summary>🗃️ Inactive roles (1095)</summary>
 
 <table>
 <thead>
@@ -4682,6 +4675,13 @@
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
 <td>AFATDS Software Engineering Intern - Software Engineering</td>
 <td>Fort Wayne, IN</td>
+<td>🔒</td>
+<td>24d</td>
+</tr>
+<tr>
+<td><strong>Hexagon AB</strong></td>
+<td>Software Engineering Intern</td>
+<td>Calgary, AB, CAN</td>
 <td>🔒</td>
 <td>24d</td>
 </tr>
@@ -9403,6 +9403,13 @@
 <td>🔒</td>
 <td>2mo</td>
 </tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/00a7425d-6e2f-482c-a9c4-abfe2f1de9cd?utm_source=GHList&utm_medium=company">SNC-Lavalin</a></strong></td>
+<td>Software Developer Intern</td>
+<td>Denver, CO</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
 </tbody>
 </table>
 
@@ -9429,13 +9436,6 @@
 </thead>
 <tbody>
 
-<tr>
-<td><strong><a href="https://simplify.jobs/c/00a7425d-6e2f-482c-a9c4-abfe2f1de9cd?utm_source=GHList&utm_medium=company">SNC-Lavalin</a></strong></td>
-<td>Software Developer Intern</td>
-<td>Denver, CO</td>
-<td>🔒</td>
-<td>2mo</td>
-</tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
 <td>Software Engineer Intern - AI Applications</td>
