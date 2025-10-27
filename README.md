@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 1960 Internship Roles by Category
+### Browse 1959 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (568)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (567)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (147)
 
@@ -2204,13 +2204,6 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/6a7a42d3-327f-4b48-a7a7-c68f405e3396?utm_source=GHList&utm_medium=company">The Federal Reserve System</a></strong></td>
-<td>2026 Summer Intern - Technology Group - Junior</td>
-<td>NYC</td>
-<td><div align="center"><a href="https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/New-York-NY/XMLNAME-2026-Summer-Intern---Technology-Group---Junior_R-0000030153?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/d782edff-f7ae-479e-9062-3886bfc061f3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Rippling?utm_source=GHList&utm_medium=company">Rippling</a></strong></td>
 <td>Full Stack Software Engineer Intern</td>
 <td>SF</td>
@@ -4070,7 +4063,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (1093)</summary>
+<summary>🗃️ Inactive roles (1094)</summary>
 
 <table>
 <thead>
@@ -5856,6 +5849,13 @@
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/6a7a42d3-327f-4b48-a7a7-c68f405e3396?utm_source=GHList&utm_medium=company">The Federal Reserve System</a></strong></td>
+<td>2026 Summer Intern - Technology Group - Junior</td>
+<td>NYC</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
 <td>2026 Summer Intern - Technology Group</td>
 <td>NYC</td>
 <td>🔒</td>
@@ -9396,6 +9396,27 @@
 <td>🔒</td>
 <td>2mo</td>
 </tr>
+<tr>
+<td><strong>Jane Street</strong></td>
+<td>Cybersecurity Analyst Intern</td>
+<td>New York, NY</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/00a7425d-6e2f-482c-a9c4-abfe2f1de9cd?utm_source=GHList&utm_medium=company">SNC-Lavalin</a></strong></td>
+<td>Software Developer Intern</td>
+<td>Denver, CO</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
+<tr>
+<td>🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
+<td>Software Engineer Intern - AI Applications</td>
+<td>San Jose, CA</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
 </tbody>
 </table>
 
@@ -9422,27 +9443,6 @@
 </thead>
 <tbody>
 
-<tr>
-<td><strong>Jane Street</strong></td>
-<td>Cybersecurity Analyst Intern</td>
-<td>New York, NY</td>
-<td>🔒</td>
-<td>2mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/00a7425d-6e2f-482c-a9c4-abfe2f1de9cd?utm_source=GHList&utm_medium=company">SNC-Lavalin</a></strong></td>
-<td>Software Developer Intern</td>
-<td>Denver, CO</td>
-<td>🔒</td>
-<td>2mo</td>
-</tr>
-<tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
-<td>Software Engineer Intern - AI Applications</td>
-<td>San Jose, CA</td>
-<td>🔒</td>
-<td>2mo</td>
-</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Cisco?utm_source=GHList&utm_medium=company">Cisco</a></strong></td>
 <td>Consulting Engineer I – Intern</td>
