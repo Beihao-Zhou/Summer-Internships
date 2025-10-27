@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 1959 Internship Roles by Category
+### Browse 1958 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (567)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (566)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (147)
 
@@ -2099,13 +2099,6 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong>Brilliant</strong></td>
-<td>Software Engineering Intern</td>
-<td>New York, NY</td>
-<td><div align="center"><a href="https://jobs.lever.co/brilliant/758ab26f-5a61-4079-918f-f984d9818391?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/US-Venture?utm_source=GHList&utm_medium=company">U.S. Venture</a></strong></td>
 <td>Software Development Intern - Breakthrough</td>
 <td>Green Bay, WI</td>
@@ -4063,7 +4056,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (1094)</summary>
+<summary>🗃️ Inactive roles (1095)</summary>
 
 <table>
 <thead>
@@ -5718,6 +5711,13 @@
 <td>↳</td>
 <td>Network Engineering Intern - Multiple Teams</td>
 <td>Annapolis, MD</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Brilliant</strong></td>
+<td>Software Engineering Intern</td>
+<td>New York, NY</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -9417,6 +9417,13 @@
 <td>🔒</td>
 <td>2mo</td>
 </tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Cisco?utm_source=GHList&utm_medium=company">Cisco</a></strong></td>
+<td>Consulting Engineer I – Intern</td>
+<td>Research Triangle, Durham, NC</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
 </tbody>
 </table>
 
@@ -9443,13 +9450,6 @@
 </thead>
 <tbody>
 
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Cisco?utm_source=GHList&utm_medium=company">Cisco</a></strong></td>
-<td>Consulting Engineer I – Intern</td>
-<td>Research Triangle, Durham, NC</td>
-<td>🔒</td>
-<td>2mo</td>
-</tr>
 <tr>
 <td>↳</td>
 <td>Security Consulting Engineer I – Intern</td>
