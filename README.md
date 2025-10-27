@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 1954 Internship Roles by Category
+### Browse 1953 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (561)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (560)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (147)
 
@@ -997,13 +997,6 @@
 <td>Intern - Software Engineering</td>
 <td>Cardiff, UK</td>
 <td><div align="center"><a href="https://kla.wd1.myworkdayjobs.com/search/job/Newport-United-Kingdom/Summer-Intern---Software-Engineering_2531484?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/47c97e60-9e4a-46f6-bee9-1f47b149aeba?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>17d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Lumen-Technologies?utm_source=GHList&utm_medium=company">Lumen Technologies</a></strong></td>
-<td>Intern – Senior Planning Engineer - Summer 2026</td>
-<td>Remote in USA</td>
-<td><div align="center"><a href="https://jobs.lumen.com/global/en/job/340234?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/f4edfe35-66ae-4e71-8a4a-8b54d64766b4?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>17d</td>
 </tr>
 <tr>
@@ -4021,7 +4014,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (1100)</summary>
+<summary>🗃️ Inactive roles (1101)</summary>
 
 <table>
 <thead>
@@ -4289,6 +4282,13 @@
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Lumen-Technologies?utm_source=GHList&utm_medium=company">Lumen Technologies</a></strong></td>
 <td>Intern – Operations Engineer - Summer 2026</td>
+<td>Remote in USA</td>
+<td>🔒</td>
+<td>17d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Intern – Senior Planning Engineer - Summer 2026</td>
 <td>Remote in USA</td>
 <td>🔒</td>
 <td>17d</td>
@@ -4781,7 +4781,7 @@
 <td>Accelerate IT Engineering Intern - Multiple Teams</td>
 <td>Parsippany-Troy Hills, NJ</td>
 <td>🔒</td>
-<td>25d</td>
+<td>26d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Rolls-Royce-Motorcars?utm_source=GHList&utm_medium=company">Rolls Royce</a></strong></td>
@@ -5152,7 +5152,7 @@
 <td>Internship - Perl Developer</td>
 <td>Woodridge, IL</td>
 <td>🔒</td>
-<td>29d</td>
+<td>30d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
@@ -9473,6 +9473,13 @@
 <td>🔒</td>
 <td>2mo</td>
 </tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Hormel-Foods?utm_source=GHList&utm_medium=company">Hormel Foods</a></strong></td>
+<td>Hormel Foods – IT Application Development Analyst Intern</td>
+<td>Rochester, MN</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
 </tbody>
 </table>
 
@@ -9499,13 +9506,6 @@
 </thead>
 <tbody>
 
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Hormel-Foods?utm_source=GHList&utm_medium=company">Hormel Foods</a></strong></td>
-<td>Hormel Foods – IT Application Development Analyst Intern</td>
-<td>Rochester, MN</td>
-<td>🔒</td>
-<td>2mo</td>
-</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/United-Parcel-Service?utm_source=GHList&utm_medium=company">United Parcel Service (UPS)</a></strong></td>
 <td>AI Fluency Co-op</td>
@@ -20470,7 +20470,7 @@
 <td>Data Science Intern - Innovation and Digitalisation</td>
 <td>Birmingham, UK</td>
 <td>🔒</td>
-<td>25d</td>
+<td>26d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Marvell?utm_source=GHList&utm_medium=company">Marvell</a></strong></td>
@@ -20715,7 +20715,7 @@
 <td>Biomarker Data Analysis Intern - Biomarker Data Analysis</td>
 <td>Cambridge, MA</td>
 <td>🔒</td>
-<td>29d</td>
+<td>30d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/CACI?utm_source=GHList&utm_medium=company">CACI</a></strong></td>
