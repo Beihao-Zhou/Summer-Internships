@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 1959 Internship Roles by Category
+### Browse 1960 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (569)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (570)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (148)
 
@@ -89,6 +89,13 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Northrop-Grumman?utm_source=GHList&utm_medium=company">Northrop Grumman</a></strong></td>
+<td>2026 Software Engineering Intern - Roy UT 🇺🇸</td>
+<td>Roy, UT</td>
+<td><div align="center"><a href="https://ngc.wd1.myworkdayjobs.com/northrop_grumman_restricted_site/job/United-States-Utah-Roy/XMLNAME-2026-Software-Engineering-Intern---Roy-UT_R10212323?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Disney?utm_source=GHList&utm_medium=company">The Walt Disney Company</a></strong></td>
 <td>The Walt Disney Studios, Software Engineering Intern, Summer 2026</td>
@@ -9382,27 +9389,6 @@
 <td>🔒</td>
 <td>2mo</td>
 </tr>
-<tr>
-<td><strong>Zebra</strong></td>
-<td>Software Engineering, Handheld Mobile Computer 🛂</td>
-<td>Holtsville, NY</td>
-<td>🔒</td>
-<td>2mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Vertiv?utm_source=GHList&utm_medium=company">Vertiv</a></strong></td>
-<td>Software Engineering Internship 🇺🇸</td>
-<td>Delaware, OH</td>
-<td>🔒</td>
-<td>2mo</td>
-</tr>
-<tr>
-<td><strong>The Hanover</strong></td>
-<td>Associate Solutions Developer 🛂</td>
-<td>Worcester, MA</td>
-<td>🔒</td>
-<td>2mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -9429,6 +9415,27 @@
 </thead>
 <tbody>
 
+<tr>
+<td><strong>Zebra</strong></td>
+<td>Software Engineering, Handheld Mobile Computer 🛂</td>
+<td>Holtsville, NY</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Vertiv?utm_source=GHList&utm_medium=company">Vertiv</a></strong></td>
+<td>Software Engineering Internship 🇺🇸</td>
+<td>Delaware, OH</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
+<tr>
+<td><strong>The Hanover</strong></td>
+<td>Associate Solutions Developer 🛂</td>
+<td>Worcester, MA</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
 <tr>
 <td><strong>Spectrum</strong></td>
 <td>Associate Software Developer 🇺🇸</td>
