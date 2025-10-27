@@ -9,7 +9,7 @@
 
 ---
 
-### Browse 1948 Internship Roles by Category
+### Browse 1949 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (564)
 
@@ -19,7 +19,7 @@
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (91)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (264)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (265)
 
 ---
 
@@ -27011,6 +27011,13 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>OTTO</strong></td>
+<td>Firmware/Embedded Engineer Intern – Communications 🛂</td>
+<td>Carpentersville, IL</td>
+<td><div align="center"><a href="https://otto-engineering-inc.breezy.hr/p/5fe03a0ab3df-firmware-embedded-engineer-internship-communications?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company">Nokia</a></strong></td>
 <td>5G Architecture Co-op</td>
