@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 1967 Internship Roles by Category
+### Browse 1966 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (575)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (574)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (147)
 
@@ -2505,13 +2505,6 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong>Western & Southern</strong></td>
-<td>Software Quality Testing Intern</td>
-<td>Cincinatti. OH</td>
-<td><div align="center"><a href="https://careers-westernsouthern.icims.com/jobs/23681/software-quality-testing-intern-%28full-year-2026%29/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
 <td><strong>Virtu</strong></td>
 <td>Quantitative Strategist 🛂</td>
 <td>New York, NY</td>
@@ -4119,7 +4112,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (1086)</summary>
+<summary>🗃️ Inactive roles (1087)</summary>
 
 <table>
 <thead>
@@ -6278,6 +6271,13 @@
 <td>↳</td>
 <td>IT Operations Intern</td>
 <td>Farmers Branch, TX</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Western & Southern</strong></td>
+<td>Software Quality Testing Intern</td>
+<td>Cincinatti. OH</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -9298,6 +9298,20 @@
 <td>🔒</td>
 <td>2mo</td>
 </tr>
+<tr>
+<td>↳</td>
+<td>Cybersecurity and Privacy Intern</td>
+<td>Chicago, IL</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Cybersecurity and Privacy Intern</td>
+<td>Philadelphia, PA</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
 </tbody>
 </table>
 
@@ -9324,20 +9338,6 @@
 </thead>
 <tbody>
 
-<tr>
-<td>↳</td>
-<td>Cybersecurity and Privacy Intern</td>
-<td>Chicago, IL</td>
-<td>🔒</td>
-<td>2mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Cybersecurity and Privacy Intern</td>
-<td>Philadelphia, PA</td>
-<td>🔒</td>
-<td>2mo</td>
-</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Geico?utm_source=GHList&utm_medium=company">Geico</a></strong></td>
 <td>TDP Software Intern</td>
