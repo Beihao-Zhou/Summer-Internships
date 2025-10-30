@@ -9,13 +9,13 @@
 
 ---
 
-### Browse 1537 Internship Roles by Category
+### Browse 1538 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (462)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (110)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (681)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (682)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (61)
 
@@ -486,7 +486,7 @@
 <td>Software Engineering Intern 🎓</td>
 <td>New York, NY</td>
 <td><div align="center"><a href="https://ats.rippling.com/en-GB/theguarantors-open-positions/jobs/f5580a3b-ef6b-4bb7-93f6-39e4910060fd?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>12d</td>
+<td>13d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/9f8468ab-4066-404d-b30d-b5b9cb967967?utm_source=GHList&utm_medium=company">SWBC</a></strong></td>
@@ -3703,7 +3703,7 @@
 <td>Intern – Software Development Engineer</td>
 <td>Arlington, TX</td>
 <td>🔒</td>
-<td>20d</td>
+<td>21d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/CenturyLink?utm_source=GHList&utm_medium=company">CenturyLink</a></strong></td>
@@ -12732,7 +12732,7 @@
 <td></td>
 <td>Pittsburgh, PA</td>
 <td>🔒</td>
-<td>9d</td>
+<td>10d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Expedia-Group?utm_source=GHList&utm_medium=company">Expedia Group</a></strong></td>
@@ -13847,6 +13847,13 @@
 </thead>
 <tbody>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Hewlett-Packard-Enterprise?utm_source=GHList&utm_medium=company">Hewlett Packard Enterprise</a></strong></td>
+<td>HPE Labs - AI Research Lab Research Associate (Intern) 🎓</td>
+<td>Milpitas, CA</br>Fort Collins, CO</td>
+<td><div align="center"><a href="https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/HPE-Labs---AI-Research-Lab-Research-Associate--Intern-_1192299?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
 <td><strong>JM Family</strong></td>
 <td>Fixed Operations Data Analyst Intern</td>
 <td>Deerfield Beach, FL</td>
@@ -14474,7 +14481,7 @@
 <td>Crypto Data Scientist / Machine Learning - LLM Engineer Intern 🎓</td>
 <td>Houston, TX</br>Remote</td>
 <td><div align="center"><a href="https://jobs.lever.co/tokenmetrics/62b16e29-602d-4f52-ba4b-89c02b6dee41?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>12d</td>
+<td>13d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/FMC-Corporation?utm_source=GHList&utm_medium=company">FMC Corporation</a></strong></td>
@@ -18867,7 +18874,7 @@
 <td>2026 Summer Internship - Data Science</td>
 <td>Remote</td>
 <td>🔒</td>
-<td>12d</td>
+<td>13d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/ShyftLabs?utm_source=GHList&utm_medium=company">ShyftLabs</a></strong></td>
@@ -25463,7 +25470,7 @@
 <td>Crypto Quantitative Analyst Intern</td>
 <td>Austin, TX</br>Remote</td>
 <td><div align="center"><a href="https://jobs.lever.co/tokenmetrics/8b78659b-0454-4954-9e21-c42c4d5c34fe?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>12d</td>
+<td>13d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Schroders?utm_source=GHList&utm_medium=company">Schroders</a></strong></td>
@@ -29162,7 +29169,7 @@
 <td>Medical Device Software Engineer Intern - Product Development - Allergan Aesthetics</td>
 <td>Pleasanton, CA</td>
 <td>🔒</td>
-<td>28d</td>
+<td>29d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company">Leidos</a></strong></td>
