@@ -9,13 +9,13 @@
 
 ---
 
-### Browse 1544 Internship Roles by Category
+### Browse 1545 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (466)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (110)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (684)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (685)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (61)
 
@@ -13874,6 +13874,13 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Samsung?utm_source=GHList&utm_medium=company">Samsung</a></strong></td>
+<td>Intern, AI/ML Compiler Research Engineer 🎓</td>
+<td>San Jose, CA</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7512164003?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
 <tr>
 <td><strong>Prologis</strong></td>
 <td>AI Intern 🎓</td>
