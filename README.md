@@ -9,13 +9,13 @@
 
 ---
 
-### Browse 1896 Internship Roles by Category
+### Browse 1897 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (546)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (145)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (860)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (861)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (81)
 
@@ -4147,11 +4147,11 @@
 <td>19d</td>
 </tr>
 <tr>
-<td>↳</td>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Apple?utm_source=GHList&utm_medium=company">Apple</a></strong></td>
 <td>Intern - Distributed Build System</td>
 <td>London, UK</td>
 <td>🔒</td>
-<td>19d</td>
+<td>20d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/General-Dynamics-Mission-Systems?utm_source=GHList&utm_medium=company">General Dynamics Mission Systems</a></strong></td>
@@ -9634,13 +9634,6 @@
 <td>🔒</td>
 <td>2mo</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Fannie-Mae?utm_source=GHList&utm_medium=company">Fannie Mae</a></strong></td>
-<td>Campus – Chief Security Office Program Intern</td>
-<td>Reston, VA</td>
-<td>🔒</td>
-<td>2mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -9667,6 +9660,13 @@
 </thead>
 <tbody>
 
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Fannie-Mae?utm_source=GHList&utm_medium=company">Fannie Mae</a></strong></td>
+<td>Campus – Chief Security Office Program Intern</td>
+<td>Reston, VA</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/PwC?utm_source=GHList&utm_medium=company">PricewaterhouseCoopers (PwC)</a></strong></td>
 <td>Partnership Allocation and Reporting Solutions – Technology Intern - Pars</td>
@@ -13749,6 +13749,13 @@
 </thead>
 <tbody>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/RSM?utm_source=GHList&utm_medium=company">RSM</a></strong></td>
+<td>Advanced Analytics and Artificial Intelligence Intern - Summer 2026 🛂</td>
+<td>San Diego, CA</br>Irvine, CA</td>
+<td><div align="center"><a href="https://rsm.wd1.myworkdayjobs.com/en-US/rsmcareers/job/San-Diego/Advanced-Analytics-and-Artificial-Intelligence-Intern---Summer-2026_JR116229?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Samsung?utm_source=GHList&utm_medium=company">Samsung</a></strong></td>
 <td>Intern, Machine Learning</td>
 <td>San Jose, CA</td>
@@ -16406,7 +16413,7 @@
 <td>Data and Analytics Intern - Data and Decision Science</td>
 <td>SF</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/gofundme/jobs/7280698?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/574b5b32-af49-4c68-b463-b3d4ebb1c361?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>28d</td>
+<td>29d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Datacor?utm_source=GHList&utm_medium=company">Datacor</a></strong></td>
