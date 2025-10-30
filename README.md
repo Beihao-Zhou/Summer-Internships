@@ -9,7 +9,7 @@
 
 ---
 
-### Browse 1552 Internship Roles by Category
+### Browse 1553 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (461)
 
@@ -19,7 +19,7 @@
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (62)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (223)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (224)
 
 ---
 
@@ -27319,6 +27319,13 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Staples</strong></td>
+<td>Intern - Embedded Software</td>
+<td>Los Angeles, CA</td>
+<td><div align="center"><a href="https://retailcareers.staples.com//job/-/-/49589/87839758768?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
 <tr>
 <td><strong>Metalenz</strong></td>
 <td>Camera Software Intern</td>
